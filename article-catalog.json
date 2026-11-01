@@ -912,6 +912,38 @@
       "updatedAt": "2026-11-02T04:18:50+09:00",
       "updateStatus": "published",
       "changeNote": "作品全体の性格と確認した原典の範囲を明示した古典ガイドを追加。"
+    },
+    {
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学",
+      "id": "takekurabe",
+      "title": "たけくらべ",
+      "reading": "たけくらべ",
+      "author": "樋口一葉",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/takekurabe",
+      "revision": "9476483b6505eaaee30c7a0217ffbef1370bf906ea1f5a3cb73b67422091cd48",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "原典全文を確認した樋口一葉作品のガイドを追加。"
+    },
+    {
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学",
+      "id": "nigorie",
+      "title": "にごりえ",
+      "reading": "にごりえ",
+      "author": "樋口一葉",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/nigorie",
+      "revision": "e6096f70275b9da0f4f1db7c37da07e5c265ab1f87196c437673472ba12e49b6",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "原典全文を確認した樋口一葉作品のガイドを追加。"
     }
   ]
 }
