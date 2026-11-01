@@ -67,8 +67,8 @@
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T00:39:10+09:00",
+      "updateStatus": "published",
       "changeNote": "地域の植物と夜景を題材にした非公式キャラクター案3件を追加。制作中の案は計27件。"
     },
     {
@@ -406,6 +406,34 @@
       "updatedAt": "2026-11-02T00:30:34+09:00",
       "updateStatus": "published",
       "changeNote": "原典に基づく登場人物・あらすじ・要約・まとめを追加。"
+    },
+    {
+      "id": "crimeandpunishment",
+      "title": "罪と罰",
+      "reading": "つみとばつ",
+      "author": "ドストエフスキー",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/crimeandpunishment",
+      "revision": "99bb4c950f360ece8d9cc52b3d99eb950174a21be85511e16862d6e6b86acded",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "海外文学の原文に基づくフルガイドを追加。"
+    },
+    {
+      "id": "romeoandjuliet",
+      "title": "ロミオとジュリエット",
+      "reading": "ろみおとじゅりえっと",
+      "author": "ウィリアム・シェイクスピア",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/romeoandjuliet",
+      "revision": "efe0ffe9cf35e16f70059ae0a6a7a73b781ea31fd2df9fd465ddfa6e3a9d9c8b",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "海外文学の原文に基づくフルガイドを追加。"
     }
   ]
 }
