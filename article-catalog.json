@@ -63,13 +63,13 @@
       "reading": null,
       "author": null,
       "url": "https://star-japan.github.io/ai-zukan/#/article/kawasaki",
-      "revision": "9868cc839e7935a62410d6a48f2846948de017111dd4b6952ac67b860ccee4d4",
+      "revision": "9170a0cb0338d6e0631e23fc3856722e9253f8e90e66e48b60dd4bd292b3bded",
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
-      "updatedAt": "2026-11-01T23:22:36+09:00",
-      "updateStatus": "published",
-      "changeNote": "自然と港を題材にした非公式キャラクター案3件を追加。制作中の案は計6件。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "既存候補の仮リデザイン3件を追加。旧原案は照合待ち、制作中の案は計9件。"
     },
     {
       "id": "melos",
@@ -400,11 +400,11 @@
       "author": "アーノルド・ローベル",
       "url": "https://star-japan.github.io/ai-zukan/#/article/otegami",
       "revision": "6c5cd99cab97c27fbda8f887b88615ef4d9878acd5012bc133455887723cae2e",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-01T23:24:33+09:00",
+      "firstPublishedDate": "2026-11-01",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-01T23:24:33+09:00",
+      "updateStatus": "published",
       "changeNote": "結末に触れない短い作品紹介を新規追加。"
     },
     {
@@ -414,11 +414,11 @@
       "author": "椋鳩十",
       "url": "https://star-japan.github.io/ai-zukan/#/article/daizo",
       "revision": "dd1e6666335419e7915e120e83bb6c341d431561eecb638ac891d4c1ae3c0bdf",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-01T23:24:33+09:00",
+      "firstPublishedDate": "2026-11-01",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-01T23:24:33+09:00",
+      "updateStatus": "published",
       "changeNote": "結末に触れない短い作品紹介を新規追加。"
     }
   ]
