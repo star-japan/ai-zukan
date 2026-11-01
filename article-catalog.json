@@ -235,8 +235,8 @@
       "firstPublishedAt": "2026-11-01T21:49:51+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T05:13:03+09:00",
+      "updateStatus": "published",
       "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学"
@@ -523,8 +523,8 @@
       "firstPublishedAt": "2026-11-02T00:49:37+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T05:13:03+09:00",
+      "updateStatus": "published",
       "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。",
       "primaryCategory": "world-fairytale",
       "genreLabel": "世界の童話 · ワイルド童話"
@@ -603,8 +603,8 @@
       "firstPublishedAt": "2026-11-02T01:04:27+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T05:13:03+09:00",
+      "updateStatus": "published",
       "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。",
       "primaryCategory": "world-fantasy",
       "genreLabel": "海外ファンタジー"
@@ -697,12 +697,12 @@
       "reading": "おずのまほうつかい",
       "author": "ライマン・フランク・ボーム",
       "url": "https://star-japan.github.io/ai-zukan/#/article/wizardofoz",
-      "revision": "4d7145480bfb8db26e7fe458ff08e22fb4501351a5a4ea7ee2d1ce861279e13c",
+      "revision": "92d08a8c7c3a88d0664fbbe1ed554844b0b7225d79bd5c827d2f04992dd68009",
       "firstPublishedAt": "2026-11-02T01:27:11+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T04:42:59+09:00",
-      "updateStatus": "published",
+      "updatedAt": null,
+      "updateStatus": "pending",
       "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。"
     },
     {
