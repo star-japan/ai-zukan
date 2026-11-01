@@ -526,11 +526,11 @@
       "author": "ルイス・キャロル",
       "url": "https://star-japan.github.io/ai-zukan/#/article/aliceinwonderland",
       "revision": "d4e2523fd45a1df8c4b46b6efefea2fa1e9867b051f7509f03ef25b403d24c93",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-02T01:04:27+09:00",
+      "firstPublishedDate": "2026-11-02",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-02T01:04:27+09:00",
+      "updateStatus": "published",
       "changeNote": "英語原著・旧訳に基づくフルガイドを追加。"
     },
     {
@@ -540,12 +540,40 @@
       "author": "シャルル・ペロー",
       "url": "https://star-japan.github.io/ai-zukan/#/article/cinderella",
       "revision": "7fc04baf0cd52727e456194bc5b21731be4dff20d80fe6cc9a1a4da0d3172aff",
+      "firstPublishedAt": "2026-11-02T01:04:27+09:00",
+      "firstPublishedDate": "2026-11-02",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-02T01:04:27+09:00",
+      "updateStatus": "published",
+      "changeNote": "英語原著・旧訳に基づくフルガイドを追加。"
+    },
+    {
+      "id": "urashimataro",
+      "title": "浦島太郎",
+      "reading": "うらしまたろう",
+      "author": "楠山正雄／再話",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/urashimataro",
+      "revision": "e4642827e578601d913846b83be3b3ca00cd5f2f902cad01d06377db447993ea",
       "firstPublishedAt": null,
       "firstPublishedDate": null,
       "firstPublishedPrecision": "unknown",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "英語原著・旧訳に基づくフルガイドを追加。"
+      "changeNote": "参照する再話・採集版を明示した昔話のフルガイドを追加。"
+    },
+    {
+      "id": "hansel",
+      "title": "ヘンゼルとグレーテル",
+      "reading": "へんぜるとぐれーてる",
+      "author": "グリム兄弟／採集・編纂",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/hansel",
+      "revision": "dd944d30891b5f6ea2f40bb5ae6b4e6de3fc899113b25a6c51b5093c2773469f",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "参照する再話・採集版を明示した昔話のフルガイドを追加。"
     }
   ]
 }
