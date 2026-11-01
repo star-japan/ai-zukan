@@ -615,13 +615,13 @@
       "reading": "しんでれら",
       "author": "シャルル・ペロー",
       "url": "https://star-japan.github.io/ai-zukan/#/article/cinderella",
-      "revision": "b1f957d6e3e1cc6b9f79155721f3f3e75fbbbca2737833aea8174e3b4105ea7d",
+      "revision": "64642b049537b64123fa6fe1a3667ea1a877d1e310d75deee0100569da8a2701",
       "firstPublishedAt": "2026-11-02T01:04:27+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T01:57:56+09:00",
-      "updateStatus": "published",
-      "changeNote": "登場人物と要約の表記を「妖精」に整理。",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。",
       "primaryCategory": "world-fairytale",
       "genreLabel": "世界の童話 · ペロー童話"
     },
@@ -877,8 +877,8 @@
       "firstPublishedAt": "2026-11-02T01:57:56+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T08:31:13+09:00",
+      "updateStatus": "published",
       "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     },
     {
