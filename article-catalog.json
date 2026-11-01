@@ -471,13 +471,13 @@
       "reading": "つみとばつ",
       "author": "ドストエフスキー",
       "url": "https://star-japan.github.io/ai-zukan/#/article/crimeandpunishment",
-      "revision": "aaf046e6ecd7543727292f805def5664369ef094345539161dc928f5caf09155",
+      "revision": "0e05a531e3856009733f9bb2d9cc122710552dc81d9fa04a225a5b903095f180",
       "firstPublishedAt": "2026-11-02T00:43:50+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T02:42:42+09:00",
-      "updateStatus": "published",
-      "changeNote": "原典に沿い、回想の語り手と告白先を明確化。筋を増やさず必要箇所のみ調整。",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。",
       "primaryCategory": "world-literature",
       "genreLabel": "海外文学"
     },
@@ -503,13 +503,13 @@
       "reading": "どんきほーて",
       "author": "ミゲル・デ・セルバンテス",
       "url": "https://star-japan.github.io/ai-zukan/#/article/donquixote",
-      "revision": "e074e102b1c4250d11aed21b76a932d79c99205ec2f2b9a6896e26160d87e542",
+      "revision": "ee7fdca677b21d4d43504a587a3d3b34bc7fb29e97c8ff689ed73a27afc81299",
       "firstPublishedAt": "2026-11-02T00:49:37+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T02:27:45+09:00",
-      "updateStatus": "published",
-      "changeNote": "登場人物の説明・あらすじ・要約の難しい語に読みを追加。",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。",
       "primaryCategory": "world-literature",
       "genreLabel": "海外文学"
     },
@@ -873,13 +873,13 @@
       "reading": "ふらんけんしゅたいん",
       "author": "メアリー・シェリー",
       "url": "https://star-japan.github.io/ai-zukan/#/article/frankenstein",
-      "revision": "3dcde2c1196043fdfd3b46b193f3f116f5f06223b7b9daf3a90480a1f9b1a412",
+      "revision": "d8e09089e53f91df734bf52ad9cdedbffb3cbc0f6c98d70f3527878b3d70f702",
       "firstPublishedAt": "2026-11-02T01:57:56+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T02:42:42+09:00",
-      "updateStatus": "published",
-      "changeNote": "原典に沿い、回想の語り手と告白先を明確化。筋を増やさず必要箇所のみ調整。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。"
     }
   ]
 }
