@@ -154,6 +154,48 @@
       "updatedAt": "2026-11-01T20:52:19+09:00",
       "updateStatus": "published",
       "changeNote": "題名・著者の読み仮名と作品イメージを整備。"
+    },
+    {
+      "id": "yodaka",
+      "title": "よだかの星",
+      "reading": "よだかのほし",
+      "author": "宮沢賢治",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/yodaka",
+      "revision": "b6f0b83095ea03d9d2e572db1e788aefd0d4d94b5657751f2c151c2c97603fe4",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "原典に基づく作品紹介を新規追加。"
+    },
+    {
+      "id": "trolley",
+      "title": "トロッコ",
+      "reading": "トロッコ",
+      "author": "芥川龍之介",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/trolley",
+      "revision": "72e5c2c28257bc3a81615a89b4acd6f5d827e7fcf0e4b442b0330d0d1807af05",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "原典に基づく作品紹介を新規追加。"
+    },
+    {
+      "id": "lamp",
+      "title": "おじいさんのランプ",
+      "reading": "おじいさんのランプ",
+      "author": "新美南吉",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/lamp",
+      "revision": "8df5c0e7ed42df8449a6b2e106f66c9c33eb11e116ae52c7371c83efe56cea0e",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "原典に基づく作品紹介を新規追加。"
     }
   ]
 }
