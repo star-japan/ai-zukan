@@ -235,8 +235,8 @@
       "firstPublishedAt": "2026-11-01T21:49:51+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T02:06:30+09:00",
+      "updateStatus": "published",
       "changeNote": "要約の中間に、描写を理解するための場面イラストを追加。",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学"
@@ -475,8 +475,8 @@
       "firstPublishedAt": "2026-11-02T00:43:50+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T02:06:30+09:00",
+      "updateStatus": "published",
       "changeNote": "登場人物の説明を平易にし、漢字の読みを追加。",
       "primaryCategory": "world-literature",
       "genreLabel": "海外文学"
@@ -523,8 +523,8 @@
       "firstPublishedAt": "2026-11-02T00:49:37+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T02:06:30+09:00",
+      "updateStatus": "published",
       "changeNote": "要約の中間に、描写を理解するための場面イラストを追加。",
       "primaryCategory": "world-fairytale",
       "genreLabel": "世界の童話 · ワイルド童話"
@@ -603,8 +603,8 @@
       "firstPublishedAt": "2026-11-02T01:04:27+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T02:06:30+09:00",
+      "updateStatus": "published",
       "changeNote": "要約の中間に、描写を理解するための場面イラストを追加。",
       "primaryCategory": "world-fantasy",
       "genreLabel": "海外ファンタジー"
