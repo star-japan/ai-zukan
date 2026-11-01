@@ -7,13 +7,13 @@
       "reading": "らしょうもん",
       "author": "芥川龍之介",
       "url": "https://star-japan.github.io/ai-zukan/#/article/rashomon",
-      "revision": "1c4a715d435aef436a175dd244e47e1978372d8d7c9148ae4a53aa17cc9f9e7b",
+      "revision": "601102b6ae399d98f5d9690757227fa2ae52cacd05b8650448e2ce6e88d46084",
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
-      "updatedAt": "2026-11-01T21:12:49+09:00",
-      "updateStatus": "published",
-      "changeNote": "登場人物の読み仮名を追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "本文の難しい漢字に上ルビを追加。"
     },
     {
       "id": "akutagawa",
@@ -35,13 +35,13 @@
       "reading": "はな",
       "author": "芥川龍之介",
       "url": "https://star-japan.github.io/ai-zukan/#/article/hana",
-      "revision": "88c15cd69a4bb03e6fc1dd28a6a771ec17fa10d58b82be7786b3b6aba8d3d0cf",
+      "revision": "ffbde1095ed107e68b56677dbec20351ffeafce9e21dc19ec5851d9865273db8",
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "結末の描写を原文に合わせて修正。"
+      "changeNote": "本文の難しい漢字に上ルビを追加。"
     },
     {
       "id": "spider",
@@ -49,13 +49,13 @@
       "reading": "くものいと",
       "author": "芥川龍之介",
       "url": "https://star-japan.github.io/ai-zukan/#/article/spider",
-      "revision": "880e6e3cd815284c09bf1dc2dadc7a395fb00f5bfaa155e00be04e45688764bd",
+      "revision": "187afb4fe15cc5ef5c86d01c0c7e73dc4bf016f578041f267785e67bb3c19ac3",
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "結末の描写を原文に合わせて修正。"
+      "changeNote": "本文の難しい漢字に上ルビを追加。"
     },
     {
       "id": "kawasaki",
@@ -147,13 +147,13 @@
       "reading": "とししゅん",
       "author": "芥川龍之介",
       "url": "https://star-japan.github.io/ai-zukan/#/article/toshishun",
-      "revision": "0470f6bdae890b7123e9109bdbfba61c108b32312fdeb3ebcc21ae2065912b78",
+      "revision": "1f2c5e56f4f9cc2e4f2036b857df155f268e25a761645c142506879061951cd4",
       "firstPublishedAt": "2026-11-01T20:38:07+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-01T20:52:19+09:00",
-      "updateStatus": "published",
-      "changeNote": "題名・著者の読み仮名と作品イメージを整備。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "本文の難しい漢字に上ルビを追加。"
     },
     {
       "id": "yodaka",
@@ -189,13 +189,13 @@
       "reading": "おじいさんのランプ",
       "author": "新美南吉",
       "url": "https://star-japan.github.io/ai-zukan/#/article/lamp",
-      "revision": "8df5c0e7ed42df8449a6b2e106f66c9c33eb11e116ae52c7371c83efe56cea0e",
+      "revision": "a470c125c9a6bd743286e8627a9b6aad2ab1f55c27735009aee2715d1e23c635",
       "firstPublishedAt": "2026-11-01T21:39:36+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-01T21:39:36+09:00",
-      "updateStatus": "published",
-      "changeNote": "原典に基づく作品紹介を新規追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "本文の難しい漢字に上ルビを追加。"
     },
     {
       "id": "ginga",
@@ -207,8 +207,8 @@
       "firstPublishedAt": "2026-11-01T21:49:51+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-01T22:44:38+09:00",
+      "updateStatus": "published",
       "changeNote": "旅と別れ、蠍の話のつながりを分かりやすく補足し、読み仮名を追加。"
     },
     {
@@ -231,13 +231,13 @@
       "reading": "わがはいはねこである",
       "author": "夏目漱石",
       "url": "https://star-japan.github.io/ai-zukan/#/article/cat",
-      "revision": "1c815a83d041ca783719069fc858d333fd3077a4b553636eea87cd14fe1cefc3",
+      "revision": "1bb8cb4a8f38caf0a227ef92cb7288d780087c57701be99e623b4c42db4c797f",
       "firstPublishedAt": "2026-11-01T22:30:02+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-01T22:30:02+09:00",
-      "updateStatus": "published",
-      "changeNote": "原典に基づく作品紹介を新規追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "底本説明を末尾へ移し、甕などの難しい漢字に上ルビを追加。"
     },
     {
       "id": "kokoro",
@@ -273,13 +273,13 @@
       "reading": "さんげつき",
       "author": "中島敦",
       "url": "https://star-japan.github.io/ai-zukan/#/article/sangetsuki",
-      "revision": "3a5201f24ded3742d6991b153298c74b43f28492552c5a86a80889ad186213b3",
+      "revision": "2fae72961ca900624127fe5f63605e95a25775fe435edf1f568a3c588c3e9afe",
       "firstPublishedAt": "2026-11-01T22:33:58+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-01T22:33:58+09:00",
-      "updateStatus": "published",
-      "changeNote": "原典に基づく作品紹介を新規追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "本文の難しい漢字に上ルビを追加。"
     },
     {
       "id": "yumejuya",
@@ -288,11 +288,11 @@
       "author": "夏目漱石",
       "url": "https://star-japan.github.io/ai-zukan/#/article/yumejuya",
       "revision": "10dc870dc5fa71a7e95b5b10461a4e463c8f0205af7bb743cfe9685219503a31",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-01T22:44:38+09:00",
+      "firstPublishedDate": "2026-11-01",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-01T22:44:38+09:00",
+      "updateStatus": "published",
       "changeNote": "原典に基づく作品紹介を新規追加。"
     },
     {
@@ -302,6 +302,34 @@
       "author": "森鴎外",
       "url": "https://star-japan.github.io/ai-zukan/#/article/takasebune",
       "revision": "f165ac489fbac954aefe7c1a011440ced7baba22c40a9420d2c8b5909456d47c",
+      "firstPublishedAt": "2026-11-01T22:44:38+09:00",
+      "firstPublishedDate": "2026-11-01",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-01T22:44:38+09:00",
+      "updateStatus": "published",
+      "changeNote": "原典に基づく作品紹介を新規追加。"
+    },
+    {
+      "id": "maihime",
+      "title": "舞姫",
+      "reading": "まいひめ",
+      "author": "森鴎外",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/maihime",
+      "revision": "b8a2021e5bffb5d732fd2d39ddd659db8714d56d530c7d00b3345fb8081ecf52",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "原典に基づく作品紹介を新規追加。"
+    },
+    {
+      "id": "ningen",
+      "title": "人間失格",
+      "reading": "にんげんしっかく",
+      "author": "太宰治",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/ningen",
+      "revision": "3f89b0bc1d76c8dbbb433ba976b39670c59e2e2415fd2a77d1a1917984d77fae",
       "firstPublishedAt": null,
       "firstPublishedDate": null,
       "firstPublishedPrecision": "unknown",
