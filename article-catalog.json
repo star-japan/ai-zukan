@@ -13,7 +13,9 @@
       "firstPublishedPrecision": "date",
       "updatedAt": "2026-11-01T22:59:19+09:00",
       "updateStatus": "published",
-      "changeNote": "要約の登場人物初出に上ルビを追加。"
+      "changeNote": "要約の登場人物初出に上ルビを追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "akutagawa",
@@ -27,7 +29,9 @@
       "firstPublishedPrecision": "date",
       "updatedAt": "2026-11-02T00:30:34+09:00",
       "updateStatus": "published",
-      "changeNote": "人物イラストの創作性と写真ではないことの説明を明確化。"
+      "changeNote": "人物イラストの創作性と写真ではないことの説明を明確化。",
+      "primaryCategory": "person",
+      "genreLabel": "人物"
     },
     {
       "id": "hana",
@@ -41,7 +45,9 @@
       "firstPublishedPrecision": "date",
       "updatedAt": "2026-11-01T22:55:02+09:00",
       "updateStatus": "published",
-      "changeNote": "本文の難しい漢字に上ルビを追加。"
+      "changeNote": "本文の難しい漢字に上ルビを追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "spider",
@@ -55,7 +61,9 @@
       "firstPublishedPrecision": "date",
       "updatedAt": "2026-11-01T22:55:02+09:00",
       "updateStatus": "published",
-      "changeNote": "本文の難しい漢字に上ルビを追加。"
+      "changeNote": "本文の難しい漢字に上ルビを追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "kawasaki",
@@ -69,7 +77,9 @@
       "firstPublishedPrecision": "date",
       "updatedAt": "2026-11-02T00:39:10+09:00",
       "updateStatus": "published",
-      "changeNote": "地域の植物と夜景を題材にした非公式キャラクター案3件を追加。制作中の案は計27件。"
+      "changeNote": "地域の植物と夜景を題材にした非公式キャラクター案3件を追加。制作中の案は計27件。",
+      "primaryCategory": "region",
+      "genreLabel": "地域文化"
     },
     {
       "id": "melos",
@@ -83,7 +93,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-01T20:52:19+09:00",
       "updateStatus": "published",
-      "changeNote": "題名・著者の読み仮名と作品イメージを整備。"
+      "changeNote": "題名・著者の読み仮名と作品イメージを整備。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "restaurant",
@@ -97,7 +109,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-01T22:59:19+09:00",
       "updateStatus": "published",
-      "changeNote": "要約の登場人物初出に上ルビを追加。"
+      "changeNote": "要約の登場人物初出に上ルビを追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "gongitsune",
@@ -111,7 +125,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-01T22:59:19+09:00",
       "updateStatus": "published",
-      "changeNote": "要約の登場人物初出に上ルビを追加。"
+      "changeNote": "要約の登場人物初出に上ルビを追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "gloves",
@@ -125,7 +141,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-01T20:52:19+09:00",
       "updateStatus": "published",
-      "changeNote": "題名・著者の読み仮名と作品イメージを整備。"
+      "changeNote": "題名・著者の読み仮名と作品イメージを整備。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "goshu",
@@ -139,7 +157,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-01T20:52:19+09:00",
       "updateStatus": "published",
-      "changeNote": "題名・著者の読み仮名と作品イメージを整備。"
+      "changeNote": "題名・著者の読み仮名と作品イメージを整備。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "toshishun",
@@ -153,7 +173,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-01T22:59:19+09:00",
       "updateStatus": "published",
-      "changeNote": "要約の登場人物初出に上ルビを追加。"
+      "changeNote": "要約の登場人物初出に上ルビを追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "yodaka",
@@ -167,7 +189,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-01T22:59:19+09:00",
       "updateStatus": "published",
-      "changeNote": "要約の登場人物初出に上ルビを追加。"
+      "changeNote": "要約の登場人物初出に上ルビを追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "trolley",
@@ -181,7 +205,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-01T22:59:19+09:00",
       "updateStatus": "published",
-      "changeNote": "要約の登場人物初出に上ルビを追加。"
+      "changeNote": "要約の登場人物初出に上ルビを追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "lamp",
@@ -195,7 +221,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-01T22:59:19+09:00",
       "updateStatus": "published",
-      "changeNote": "要約の登場人物初出に上ルビを追加。"
+      "changeNote": "要約の登場人物初出に上ルビを追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "ginga",
@@ -209,7 +237,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-01T22:44:38+09:00",
       "updateStatus": "published",
-      "changeNote": "旅と別れ、蠍の話のつながりを分かりやすく補足し、読み仮名を追加。"
+      "changeNote": "旅と別れ、蠍の話のつながりを分かりやすく補足し、読み仮名を追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "botchan",
@@ -223,7 +253,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-01T22:59:19+09:00",
       "updateStatus": "published",
-      "changeNote": "要約の登場人物初出に上ルビを追加。"
+      "changeNote": "要約の登場人物初出に上ルビを追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "cat",
@@ -237,7 +269,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-01T22:59:19+09:00",
       "updateStatus": "published",
-      "changeNote": "要約の登場人物初出に上ルビを追加。"
+      "changeNote": "要約の登場人物初出に上ルビを追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "kokoro",
@@ -251,7 +285,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-01T22:59:19+09:00",
       "updateStatus": "published",
-      "changeNote": "要約の登場人物初出に上ルビを追加。"
+      "changeNote": "要約の登場人物初出に上ルビを追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "lemon",
@@ -265,7 +301,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-01T22:33:58+09:00",
       "updateStatus": "published",
-      "changeNote": "原典に基づく作品紹介を新規追加。"
+      "changeNote": "原典に基づく作品紹介を新規追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "sangetsuki",
@@ -279,7 +317,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-01T22:55:02+09:00",
       "updateStatus": "published",
-      "changeNote": "本文の難しい漢字に上ルビを追加。"
+      "changeNote": "本文の難しい漢字に上ルビを追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "yumejuya",
@@ -293,7 +333,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-01T22:59:19+09:00",
       "updateStatus": "published",
-      "changeNote": "要約の登場人物初出に上ルビを追加。"
+      "changeNote": "要約の登場人物初出に上ルビを追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "takasebune",
@@ -307,7 +349,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-01T22:59:19+09:00",
       "updateStatus": "published",
-      "changeNote": "要約の登場人物初出に上ルビを追加。"
+      "changeNote": "要約の登場人物初出に上ルビを追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "maihime",
@@ -321,7 +365,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-01T22:59:19+09:00",
       "updateStatus": "published",
-      "changeNote": "要約の登場人物初出に上ルビを追加。"
+      "changeNote": "要約の登場人物初出に上ルビを追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "ningen",
@@ -335,7 +381,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-01T22:59:19+09:00",
       "updateStatus": "published",
-      "changeNote": "要約の登場人物初出に上ルビを追加。"
+      "changeNote": "要約の登場人物初出に上ルビを追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "soseki",
@@ -349,7 +397,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-02T00:30:34+09:00",
       "updateStatus": "published",
-      "changeNote": "人物イラストの創作性と写真ではないことの説明を明確化。"
+      "changeNote": "人物イラストの創作性と写真ではないことの説明を明確化。",
+      "primaryCategory": "person",
+      "genreLabel": "人物"
     },
     {
       "id": "kenji",
@@ -363,7 +413,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-02T00:30:34+09:00",
       "updateStatus": "published",
-      "changeNote": "人物イラストの創作性と写真ではないことの説明を明確化。"
+      "changeNote": "人物イラストの創作性と写真ではないことの説明を明確化。",
+      "primaryCategory": "person",
+      "genreLabel": "人物"
     },
     {
       "id": "yamanashi",
@@ -377,7 +429,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-02T00:06:05+09:00",
       "updateStatus": "published",
-      "changeNote": "原典に基づく登場人物・あらすじ・要約・まとめを追加。"
+      "changeNote": "原典に基づく登場人物・あらすじ・要約・まとめを追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "hitofusanobudo",
@@ -391,7 +445,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-02T00:06:05+09:00",
       "updateStatus": "published",
-      "changeNote": "原典に基づく登場人物・あらすじ・要約・まとめを追加。"
+      "changeNote": "原典に基づく登場人物・あらすじ・要約・まとめを追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "sanshodayu",
@@ -405,7 +461,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-02T00:30:34+09:00",
       "updateStatus": "published",
-      "changeNote": "原典に基づく登場人物・あらすじ・要約・まとめを追加。"
+      "changeNote": "原典に基づく登場人物・あらすじ・要約・まとめを追加。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学"
     },
     {
       "id": "crimeandpunishment",
@@ -419,7 +477,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-02T00:43:50+09:00",
       "updateStatus": "published",
-      "changeNote": "海外文学の原文に基づくフルガイドを追加。"
+      "changeNote": "海外文学の原文に基づくフルガイドを追加。",
+      "primaryCategory": "world-literature",
+      "genreLabel": "海外文学"
     },
     {
       "id": "romeoandjuliet",
@@ -433,7 +493,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-02T00:43:50+09:00",
       "updateStatus": "published",
-      "changeNote": "海外文学の原文に基づくフルガイドを追加。"
+      "changeNote": "海外文学の原文に基づくフルガイドを追加。",
+      "primaryCategory": "world-literature",
+      "genreLabel": "海外文学"
     },
     {
       "id": "donquixote",
@@ -447,7 +509,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-02T00:49:37+09:00",
       "updateStatus": "published",
-      "changeNote": "海外文学の原文に基づくフルガイドを追加。"
+      "changeNote": "海外文学の原文に基づくフルガイドを追加。",
+      "primaryCategory": "world-literature",
+      "genreLabel": "海外文学"
     },
     {
       "id": "happyprince",
@@ -461,7 +525,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-02T00:49:37+09:00",
       "updateStatus": "published",
-      "changeNote": "海外文学の原文に基づくフルガイドを追加。"
+      "changeNote": "海外文学の原文に基づくフルガイドを追加。",
+      "primaryCategory": "world-fairytale",
+      "genreLabel": "世界の童話 · ワイルド童話"
     },
     {
       "id": "momotaro",
@@ -475,7 +541,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-02T00:53:56+09:00",
       "updateStatus": "published",
-      "changeNote": "参照する再話・採集版を明示した昔話のフルガイドを追加。"
+      "changeNote": "参照する再話・採集版を明示した昔話のフルガイドを追加。",
+      "primaryCategory": "japanese-folktale",
+      "genreLabel": "日本の昔話"
     },
     {
       "id": "redcap",
@@ -489,7 +557,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-02T00:53:56+09:00",
       "updateStatus": "published",
-      "changeNote": "参照する再話・採集版を明示した昔話のフルガイドを追加。"
+      "changeNote": "参照する再話・採集版を明示した昔話のフルガイドを追加。",
+      "primaryCategory": "world-fairytale",
+      "genreLabel": "世界の童話 · グリム童話"
     },
     {
       "id": "orion",
@@ -503,7 +573,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-02T00:58:31+09:00",
       "updateStatus": "published",
-      "changeNote": "古代神話の物語と天文学を区別したガイドを追加。"
+      "changeNote": "古代神話の物語と天文学を区別したガイドを追加。",
+      "primaryCategory": "myth",
+      "genreLabel": "神話・星座"
     },
     {
       "id": "andromeda",
@@ -517,7 +589,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-02T00:58:31+09:00",
       "updateStatus": "published",
-      "changeNote": "古代神話の物語と天文学を区別したガイドを追加。"
+      "changeNote": "古代神話の物語と天文学を区別したガイドを追加。",
+      "primaryCategory": "myth",
+      "genreLabel": "神話・星座"
     },
     {
       "id": "aliceinwonderland",
@@ -531,7 +605,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-02T01:04:27+09:00",
       "updateStatus": "published",
-      "changeNote": "英語原著・旧訳に基づくフルガイドを追加。"
+      "changeNote": "英語原著・旧訳に基づくフルガイドを追加。",
+      "primaryCategory": "world-fantasy",
+      "genreLabel": "海外ファンタジー"
     },
     {
       "id": "cinderella",
@@ -545,7 +621,9 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-02T01:04:27+09:00",
       "updateStatus": "published",
-      "changeNote": "英語原著・旧訳に基づくフルガイドを追加。"
+      "changeNote": "英語原著・旧訳に基づくフルガイドを追加。",
+      "primaryCategory": "world-fairytale",
+      "genreLabel": "世界の童話 · ペロー童話"
     },
     {
       "id": "urashimataro",
@@ -554,12 +632,14 @@
       "author": "楠山正雄／再話",
       "url": "https://star-japan.github.io/ai-zukan/#/article/urashimataro",
       "revision": "e4642827e578601d913846b83be3b3ca00cd5f2f902cad01d06377db447993ea",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
-      "changeNote": "参照する再話・採集版を明示した昔話のフルガイドを追加。"
+      "firstPublishedAt": "2026-11-02T01:08:10+09:00",
+      "firstPublishedDate": "2026-11-02",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-02T01:08:10+09:00",
+      "updateStatus": "published",
+      "changeNote": "参照する再話・採集版を明示した昔話のフルガイドを追加。",
+      "primaryCategory": "japanese-folktale",
+      "genreLabel": "日本の昔話"
     },
     {
       "id": "hansel",
@@ -568,12 +648,46 @@
       "author": "グリム兄弟／採集・編纂",
       "url": "https://star-japan.github.io/ai-zukan/#/article/hansel",
       "revision": "dd944d30891b5f6ea2f40bb5ae6b4e6de3fc899113b25a6c51b5093c2773469f",
+      "firstPublishedAt": "2026-11-02T01:08:10+09:00",
+      "firstPublishedDate": "2026-11-02",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-02T01:08:10+09:00",
+      "updateStatus": "published",
+      "changeNote": "参照する再話・採集版を明示した昔話のフルガイドを追加。",
+      "primaryCategory": "world-fairytale",
+      "genreLabel": "世界の童話 · グリム童話"
+    },
+    {
+      "id": "uglyduckling",
+      "title": "みにくいアヒルの子",
+      "reading": "みにくいあひるのこ",
+      "author": "ハンス・クリスチャン・アンデルセン",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/uglyduckling",
+      "revision": "c44524d1e135893304c9e4352c2ed1e804009a9a2f51c71dca5ee6449d38b159",
       "firstPublishedAt": null,
       "firstPublishedDate": null,
       "firstPublishedPrecision": "unknown",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "参照する再話・採集版を明示した昔話のフルガイドを追加。"
+      "changeNote": "参照する再話・採集版を明示した昔話のフルガイドを追加。",
+      "primaryCategory": "world-fairytale",
+      "genreLabel": "世界の童話 · アンデルセン童話"
+    },
+    {
+      "id": "mermaid",
+      "title": "人魚姫",
+      "reading": "にんぎょひめ",
+      "author": "ハンス・クリスチャン・アンデルセン",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/mermaid",
+      "revision": "0c71cd2de3d938fa59989aee0efa7191807277c6683308cb773c2ba81917066c",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "参照する再話・採集版を明示した昔話のフルガイドを追加。",
+      "primaryCategory": "world-fairytale",
+      "genreLabel": "世界の童話 · アンデルセン童話"
     }
   ]
 }
