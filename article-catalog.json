@@ -63,13 +63,13 @@
       "reading": null,
       "author": null,
       "url": "https://star-japan.github.io/ai-zukan/#/article/kawasaki",
-      "revision": "9170a0cb0338d6e0631e23fc3856722e9253f8e90e66e48b60dd4bd292b3bded",
+      "revision": "7960c0b43a50a129089ffe50c6cfda7ff9a55e8f8222d0dcf623a8d28abdf0a0",
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
-      "updatedAt": "2026-11-01T23:30:23+09:00",
-      "updateStatus": "published",
-      "changeNote": "既存候補の仮リデザイン3件を追加。旧原案は照合待ち、制作中の案は計9件。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "港と物流を題材にした非公式キャラクター案3件を追加。制作中の案は計12件。"
     },
     {
       "id": "melos",
