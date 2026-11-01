@@ -523,8 +523,8 @@
       "firstPublishedAt": "2026-11-02T00:49:37+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T05:52:39+09:00",
+      "updateStatus": "published",
       "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。",
       "primaryCategory": "world-fairytale",
       "genreLabel": "世界の童話 · ワイルド童話"
@@ -603,8 +603,8 @@
       "firstPublishedAt": "2026-11-02T01:04:27+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T05:52:39+09:00",
+      "updateStatus": "published",
       "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。",
       "primaryCategory": "world-fantasy",
       "genreLabel": "海外ファンタジー"
@@ -651,8 +651,8 @@
       "firstPublishedAt": "2026-11-02T01:08:10+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T05:52:39+09:00",
+      "updateStatus": "published",
       "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。",
       "primaryCategory": "world-fairytale",
       "genreLabel": "世界の童話 · グリム童話"
@@ -683,8 +683,8 @@
       "firstPublishedAt": "2026-11-02T01:21:44+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T05:52:39+09:00",
+      "updateStatus": "published",
       "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。",
       "primaryCategory": "world-fairytale",
       "genreLabel": "世界の童話 · アンデルセン童話"
@@ -857,13 +857,13 @@
       "reading": "れみぜらぶる",
       "author": "ヴィクトル・ユゴー",
       "url": "https://star-japan.github.io/ai-zukan/#/article/lesmiserables",
-      "revision": "194e3c635b86267e3c5a190d6c67ff6307beabd0c7238903e6c58743955f9fdc",
+      "revision": "110ab3e8cd32679de875b6d97a47c9c788645f6f6f799b131fece362369426e6",
       "firstPublishedAt": "2026-11-02T01:57:56+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T05:23:09+09:00",
-      "updateStatus": "published",
-      "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の入口に、登場人物全員の顔と名前・短い役割の一覧を追加。コゼットの幼少期と成長後を区別。"
     },
     {
       "primaryCategory": "world-literature",
