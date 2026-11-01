@@ -11,8 +11,8 @@
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-01T21:12:49+09:00",
+      "updateStatus": "published",
       "changeNote": "登場人物の読み仮名を追加。"
     },
     {
@@ -25,8 +25,8 @@
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-01T21:12:49+09:00",
+      "updateStatus": "published",
       "changeNote": "出生地・育った町・作家になるまでの背景を追加。"
     },
     {
@@ -39,8 +39,8 @@
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-01T21:12:49+09:00",
+      "updateStatus": "published",
       "changeNote": "登場人物の読み仮名を追加。"
     },
     {
@@ -53,8 +53,8 @@
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-01T21:12:49+09:00",
+      "updateStatus": "published",
       "changeNote": "登場人物の読み仮名を追加。"
     },
     {
@@ -95,8 +95,8 @@
       "firstPublishedAt": "2026-11-01T19:44:23+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-01T21:12:49+09:00",
+      "updateStatus": "published",
       "changeNote": "登場人物の読み仮名を追加。"
     },
     {
