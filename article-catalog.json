@@ -283,8 +283,8 @@
       "firstPublishedAt": "2026-11-01T22:30:02+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T06:13:01+09:00",
+      "updateStatus": "published",
       "changeNote": "冒頭の絵の人物と場面を明示し、要約中の場面と対応させました。",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学"
@@ -459,8 +459,8 @@
       "firstPublishedAt": "2026-11-02T00:30:34+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T06:13:01+09:00",
+      "updateStatus": "published",
       "changeNote": "冒頭の絵の人物と場面を明示し、要約中の場面と対応させました。",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学"
@@ -861,8 +861,8 @@
       "firstPublishedAt": "2026-11-02T01:57:56+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T06:13:01+09:00",
+      "updateStatus": "published",
       "changeNote": "冒頭の絵の人物と場面を明示し、要約中の場面と対応させました。"
     },
     {
