@@ -679,13 +679,13 @@
       "reading": "にんぎょひめ",
       "author": "ハンス・クリスチャン・アンデルセン",
       "url": "https://star-japan.github.io/ai-zukan/#/article/mermaid",
-      "revision": "0c71cd2de3d938fa59989aee0efa7191807277c6683308cb773c2ba81917066c",
+      "revision": "20a34d8f42fead571981e087f396347d9bd7c6da6b1239a329f2da388cb7731c",
       "firstPublishedAt": "2026-11-02T01:21:44+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T01:21:44+09:00",
-      "updateStatus": "published",
-      "changeNote": "参照する再話・採集版を明示した昔話のフルガイドを追加。",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。",
       "primaryCategory": "world-fairytale",
       "genreLabel": "世界の童話 · アンデルセン童話"
     },
@@ -697,13 +697,13 @@
       "reading": "おずのまほうつかい",
       "author": "ライマン・フランク・ボーム",
       "url": "https://star-japan.github.io/ai-zukan/#/article/wizardofoz",
-      "revision": "3c10f6fe1d7a82e2546e1e799bc6cf0e19f1eaecace67b637b815fbf338573a1",
+      "revision": "4d7145480bfb8db26e7fe458ff08e22fb4501351a5a4ea7ee2d1ce861279e13c",
       "firstPublishedAt": "2026-11-02T01:27:11+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T02:27:45+09:00",
-      "updateStatus": "published",
-      "changeNote": "登場人物の説明・あらすじ・要約の難しい語に読みを追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。"
     },
     {
       "primaryCategory": "world-literature",
@@ -713,13 +713,13 @@
       "reading": "たからじま",
       "author": "ロバート・ルイス・スティーヴンソン",
       "url": "https://star-japan.github.io/ai-zukan/#/article/treasure-island",
-      "revision": "979ac975313c18bca2d1bdaaeb9d708ff830c0ae734a82e5b346c7e721c2d73d",
+      "revision": "f1cacbf9bbdd09a4847f9b77a0ba3c7d3d72634c97cfbbe7d622b8268d5c5894",
       "firstPublishedAt": "2026-11-02T01:27:11+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T02:27:45+09:00",
-      "updateStatus": "published",
-      "changeNote": "登場人物の説明・あらすじ・要約の難しい語に読みを追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。"
     },
     {
       "primaryCategory": "japanese-folktale",
