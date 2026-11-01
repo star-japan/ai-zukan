@@ -603,8 +603,8 @@
       "firstPublishedAt": "2026-11-02T01:04:27+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T06:47:51+09:00",
+      "updateStatus": "published",
       "changeNote": "要約の入口に、既存の登場人物6項目の顔と名前・短い役割を追加。原作の人物と群像の区別は末尾で説明。",
       "primaryCategory": "world-fantasy",
       "genreLabel": "海外ファンタジー"
@@ -697,13 +697,13 @@
       "reading": "おずのまほうつかい",
       "author": "ライマン・フランク・ボーム",
       "url": "https://star-japan.github.io/ai-zukan/#/article/wizardofoz",
-      "revision": "92d08a8c7c3a88d0664fbbe1ed554844b0b7225d79bd5c827d2f04992dd68009",
+      "revision": "ea0cb5cb7487030974656031d1cc15a72a70ef6cfc4468a766a18aeacc35b8ec",
       "firstPublishedAt": "2026-11-02T01:27:11+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T05:18:48+09:00",
-      "updateStatus": "published",
-      "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "登場人物8項目へ顔を追加し、冒頭の旅の絵を要約の仲間の段落にも配置。人物と場面の対応を明確に。"
     },
     {
       "primaryCategory": "world-literature",
