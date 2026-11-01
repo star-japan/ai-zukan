@@ -470,11 +470,11 @@
       "author": "楠山正雄／再話",
       "url": "https://star-japan.github.io/ai-zukan/#/article/momotaro",
       "revision": "67b07b01fe71efc3d08e6882f1d92bbe92034d14fd820049035bbe4e76c72f93",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-02T00:53:56+09:00",
+      "firstPublishedDate": "2026-11-02",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-02T00:53:56+09:00",
+      "updateStatus": "published",
       "changeNote": "参照する再話・採集版を明示した昔話のフルガイドを追加。"
     },
     {
@@ -484,12 +484,40 @@
       "author": "グリム兄弟／採集・編纂",
       "url": "https://star-japan.github.io/ai-zukan/#/article/redcap",
       "revision": "811df5893d07e810281f71ebd96d4a9e3e67f81087122b80aa5e72042e14e345",
+      "firstPublishedAt": "2026-11-02T00:53:56+09:00",
+      "firstPublishedDate": "2026-11-02",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-02T00:53:56+09:00",
+      "updateStatus": "published",
+      "changeNote": "参照する再話・採集版を明示した昔話のフルガイドを追加。"
+    },
+    {
+      "id": "orion",
+      "title": "オリオン座とオリオンの神話",
+      "reading": "おりおんざとおりおんのしんわ",
+      "author": "ギリシャ・ローマ神話",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/orion",
+      "revision": "cf4a769b5dcb70ddc86d1dc7ce27863ef7df5b94a543cbc05eb6483632645735",
       "firstPublishedAt": null,
       "firstPublishedDate": null,
       "firstPublishedPrecision": "unknown",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "参照する再話・採集版を明示した昔話のフルガイドを追加。"
+      "changeNote": "古代神話の物語と天文学を区別したガイドを追加。"
+    },
+    {
+      "id": "andromeda",
+      "title": "アンドロメダ座とペルセウスの物語",
+      "reading": "あんどろめだざとぺるせうすのものがたり",
+      "author": "ギリシャ・ローマ神話",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/andromeda",
+      "revision": "b33cd5809e8e7281e212de59b141f8a6ead326d85a6b7276a5491340f8da510c",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "古代神話の物語と天文学を区別したガイドを追加。"
     }
   ]
 }
