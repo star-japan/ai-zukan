@@ -279,13 +279,13 @@
       "reading": "こころ",
       "author": "夏目漱石",
       "url": "https://star-japan.github.io/ai-zukan/#/article/kokoro",
-      "revision": "cb9ee85778c3e05d7fa3afe44eb1ef14d08fd951650d151c33bdbac2a46e84be",
+      "revision": "9f40e751769723ae6731caaf0ae400deefc620e5eb848d00e98ea50fffa7bb04",
       "firstPublishedAt": "2026-11-01T22:30:02+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T02:39:33+09:00",
-      "updateStatus": "published",
-      "changeNote": "原典を再確認し、語り手・人物関係・時間の流れを明確化。難しい語の読みも補足。",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学"
     },
@@ -455,13 +455,13 @@
       "reading": "さんしょうだゆう",
       "author": "森鷗外",
       "url": "https://star-japan.github.io/ai-zukan/#/article/sanshodayu",
-      "revision": "91ff17b9bb273ce066cebffac77c48ab4aa0b297ff606846006d07eb0eb81cd0",
+      "revision": "76d4ca256cadc6306d355252b5dbc60fce7d7bf3ffa9c6eacb1631cf665937d5",
       "firstPublishedAt": "2026-11-02T00:30:34+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T02:39:33+09:00",
-      "updateStatus": "published",
-      "changeNote": "原典を再確認し、語り手・人物関係・時間の流れを明確化。難しい語の読みも補足。",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学"
     },
@@ -861,8 +861,8 @@
       "firstPublishedAt": "2026-11-02T01:57:56+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T05:23:09+09:00",
+      "updateStatus": "published",
       "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。"
     },
     {
@@ -893,8 +893,8 @@
       "firstPublishedAt": "2026-11-02T04:18:50+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T05:23:09+09:00",
+      "updateStatus": "published",
       "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。"
     },
     {
@@ -941,8 +941,8 @@
       "firstPublishedAt": "2026-11-02T04:27:35+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T05:23:09+09:00",
+      "updateStatus": "published",
       "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。"
     },
     {
