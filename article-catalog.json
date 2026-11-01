@@ -498,11 +498,11 @@
       "author": "ギリシャ・ローマ神話",
       "url": "https://star-japan.github.io/ai-zukan/#/article/orion",
       "revision": "cf4a769b5dcb70ddc86d1dc7ce27863ef7df5b94a543cbc05eb6483632645735",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-02T00:58:31+09:00",
+      "firstPublishedDate": "2026-11-02",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-02T00:58:31+09:00",
+      "updateStatus": "published",
       "changeNote": "古代神話の物語と天文学を区別したガイドを追加。"
     },
     {
@@ -512,12 +512,40 @@
       "author": "ギリシャ・ローマ神話",
       "url": "https://star-japan.github.io/ai-zukan/#/article/andromeda",
       "revision": "b33cd5809e8e7281e212de59b141f8a6ead326d85a6b7276a5491340f8da510c",
+      "firstPublishedAt": "2026-11-02T00:58:31+09:00",
+      "firstPublishedDate": "2026-11-02",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-02T00:58:31+09:00",
+      "updateStatus": "published",
+      "changeNote": "古代神話の物語と天文学を区別したガイドを追加。"
+    },
+    {
+      "id": "aliceinwonderland",
+      "title": "不思議の国のアリス",
+      "reading": "ふしぎのくにのありす",
+      "author": "ルイス・キャロル",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/aliceinwonderland",
+      "revision": "d4e2523fd45a1df8c4b46b6efefea2fa1e9867b051f7509f03ef25b403d24c93",
       "firstPublishedAt": null,
       "firstPublishedDate": null,
       "firstPublishedPrecision": "unknown",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "古代神話の物語と天文学を区別したガイドを追加。"
+      "changeNote": "英語原著・旧訳に基づくフルガイドを追加。"
+    },
+    {
+      "id": "cinderella",
+      "title": "シンデレラ",
+      "reading": "しんでれら",
+      "author": "シャルル・ペロー",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/cinderella",
+      "revision": "7fc04baf0cd52727e456194bc5b21731be4dff20d80fe6cc9a1a4da0d3172aff",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "英語原著・旧訳に基づくフルガイドを追加。"
     }
   ]
 }
