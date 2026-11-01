@@ -63,13 +63,13 @@
       "reading": null,
       "author": null,
       "url": "https://star-japan.github.io/ai-zukan/#/article/kawasaki",
-      "revision": "e6ca38ec7b219c695d3254ac093fdbf615583c2f5fe8f7873b84f0bf296ad7ab",
+      "revision": "6080c478ec34e6b8bddec785aa64cb0c87c4998926b18f3f67d9eda27e7e0a07",
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
-      "updatedAt": "2026-11-01T19:33:39+09:00",
-      "updateStatus": "published",
-      "changeNote": "地域を表すオリジナルマークを追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "地域の題材に基づく、非公式キャラクターの創作案3件を追加。"
     },
     {
       "id": "melos",
@@ -372,11 +372,11 @@
       "author": "レオ＝レオニ",
       "url": "https://star-japan.github.io/ai-zukan/#/article/swimmy",
       "revision": "4661648a536eba5f07139d8a23f1e67dfa42fde447ccdad3e2d1c74b802cc64e",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-01T23:04:34+09:00",
+      "firstPublishedDate": "2026-11-01",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-01T23:04:34+09:00",
+      "updateStatus": "published",
       "changeNote": "結末に触れない短い作品紹介を新規追加。"
     },
     {
@@ -386,11 +386,11 @@
       "author": "斎藤隆介",
       "url": "https://star-japan.github.io/ai-zukan/#/article/mochimochi",
       "revision": "9c8045c4853e2fe38067ea0eb06129b52c1cc4ba291f451884bb07b039d0ebc2",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-01T23:04:34+09:00",
+      "firstPublishedDate": "2026-11-01",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-01T23:04:34+09:00",
+      "updateStatus": "published",
       "changeNote": "結末に触れない短い作品紹介を新規追加。"
     }
   ]
