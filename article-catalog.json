@@ -442,11 +442,11 @@
       "author": "ミゲル・デ・セルバンテス",
       "url": "https://star-japan.github.io/ai-zukan/#/article/donquixote",
       "revision": "b5a3a0540378f7721f2e826e076e741ca41b44f7679426d5daaae1b5f053f524",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-02T00:49:37+09:00",
+      "firstPublishedDate": "2026-11-02",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-02T00:49:37+09:00",
+      "updateStatus": "published",
       "changeNote": "海外文学の原文に基づくフルガイドを追加。"
     },
     {
@@ -456,12 +456,40 @@
       "author": "オスカー・ワイルド",
       "url": "https://star-japan.github.io/ai-zukan/#/article/happyprince",
       "revision": "896292394121d988a1fc1d72908d9fa65b8fee128e57f807b1fceb85ffce5cd9",
+      "firstPublishedAt": "2026-11-02T00:49:37+09:00",
+      "firstPublishedDate": "2026-11-02",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-02T00:49:37+09:00",
+      "updateStatus": "published",
+      "changeNote": "海外文学の原文に基づくフルガイドを追加。"
+    },
+    {
+      "id": "momotaro",
+      "title": "桃太郎",
+      "reading": "ももたろう",
+      "author": "楠山正雄／再話",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/momotaro",
+      "revision": "67b07b01fe71efc3d08e6882f1d92bbe92034d14fd820049035bbe4e76c72f93",
       "firstPublishedAt": null,
       "firstPublishedDate": null,
       "firstPublishedPrecision": "unknown",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "海外文学の原文に基づくフルガイドを追加。"
+      "changeNote": "参照する再話・採集版を明示した昔話のフルガイドを追加。"
+    },
+    {
+      "id": "redcap",
+      "title": "赤ずきん",
+      "reading": "あかずきん",
+      "author": "グリム兄弟／採集・編纂",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/redcap",
+      "revision": "811df5893d07e810281f71ebd96d4a9e3e67f81087122b80aa5e72042e14e345",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "参照する再話・採集版を明示した昔話のフルガイドを追加。"
     }
   ]
 }
