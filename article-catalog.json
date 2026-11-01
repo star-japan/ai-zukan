@@ -619,8 +619,8 @@
       "firstPublishedAt": "2026-11-02T01:04:27+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T01:48:12+09:00",
+      "updateStatus": "published",
       "changeNote": "要約の中間に場面イラストと、御者・従者の短い意味を追加。",
       "primaryCategory": "world-fairytale",
       "genreLabel": "世界の童話 · ペロー童話"
@@ -816,6 +816,38 @@
       "updatedAt": "2026-11-02T01:38:55+09:00",
       "updateStatus": "published",
       "changeNote": "公式機関の資料に基づく作者紹介とAI人物イラストを追加。"
+    },
+    {
+      "primaryCategory": "myth",
+      "genreLabel": "神話・星座 · 日本神話",
+      "id": "amanoiwato",
+      "title": "天の岩戸",
+      "reading": "あまのいわと",
+      "author": "日本神話／『古事記』所収",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/amanoiwato",
+      "revision": "46cb0edcac15f7cfa3eef1a968c9bd8f2dce6e43eeaa6c73162370c73b173e08",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "原典の版を明示し、神話と現実の情報を分けたガイドを追加。"
+    },
+    {
+      "primaryCategory": "myth",
+      "genreLabel": "神話・星座 · 七夕伝説",
+      "id": "tanabata",
+      "title": "七夕の物語",
+      "reading": "たなばたのものがたり",
+      "author": "伝承（作者不詳）",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/tanabata",
+      "revision": "f8bed6886922440b34923f6064448564dd9edefe5bc68a0ff6109fe39d6f7eae",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "原典の版を明示し、神話と現実の情報を分けたガイドを追加。"
     }
   ]
 }
