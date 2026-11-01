@@ -507,8 +507,8 @@
       "firstPublishedAt": "2026-11-02T00:49:37+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T08:25:40+09:00",
+      "updateStatus": "published",
       "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。",
       "primaryCategory": "world-literature",
       "genreLabel": "海外文学"
@@ -873,13 +873,13 @@
       "reading": "ふらんけんしゅたいん",
       "author": "メアリー・シェリー",
       "url": "https://star-japan.github.io/ai-zukan/#/article/frankenstein",
-      "revision": "d8e09089e53f91df734bf52ad9cdedbffb3cbc0f6c98d70f3527878b3d70f702",
+      "revision": "fe6344e1de8c188e95445bd5153543fc366545636073ada0c96aa2c8de607fc1",
       "firstPublishedAt": "2026-11-02T01:57:56+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T04:10:13+09:00",
-      "updateStatus": "published",
-      "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     },
     {
       "primaryCategory": "japanese-literature",
