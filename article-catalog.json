@@ -701,8 +701,8 @@
       "firstPublishedAt": "2026-11-02T01:27:11+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T05:18:48+09:00",
+      "updateStatus": "published",
       "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。"
     },
     {
@@ -857,13 +857,13 @@
       "reading": "れみぜらぶる",
       "author": "ヴィクトル・ユゴー",
       "url": "https://star-japan.github.io/ai-zukan/#/article/lesmiserables",
-      "revision": "37163ad4bde7f6845c3f789f0f5ef3a6b873cb29d1f3d0c1cbb177264d5cece7",
+      "revision": "194e3c635b86267e3c5a190d6c67ff6307beabd0c7238903e6c58743955f9fdc",
       "firstPublishedAt": "2026-11-02T01:57:56+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T02:36:22+09:00",
-      "updateStatus": "published",
-      "changeNote": "人物関係と時間の流れを分かりやすくし、場面イラストで補足。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。"
     },
     {
       "primaryCategory": "world-literature",
@@ -889,13 +889,13 @@
       "reading": "まくらのそうし",
       "author": "清少納言",
       "url": "https://star-japan.github.io/ai-zukan/#/article/makuranososhi",
-      "revision": "21cd267aa40b680affed06885034d908a6af503c1b7a916b0ee4a8bcefbf721a",
+      "revision": "aff58332b37b20e3c35fd4f2c2f56b851cf583ba6b87faeebc24da06ea597ffb",
       "firstPublishedAt": "2026-11-02T04:18:50+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T04:18:50+09:00",
-      "updateStatus": "published",
-      "changeNote": "作品全体の性格と確認した原典の範囲を明示した古典ガイドを追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。"
     },
     {
       "primaryCategory": "japanese-literature",
@@ -937,13 +937,13 @@
       "reading": "にごりえ",
       "author": "樋口一葉",
       "url": "https://star-japan.github.io/ai-zukan/#/article/nigorie",
-      "revision": "e6096f70275b9da0f4f1db7c37da07e5c265ab1f87196c437673472ba12e49b6",
+      "revision": "d9a1a710622c85f9cfb01cfd483d76aca0161ae90b4d2e001a5408ecb67ca76b",
       "firstPublishedAt": "2026-11-02T04:27:35+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T04:27:35+09:00",
-      "updateStatus": "published",
-      "changeNote": "原典全文を確認した樋口一葉作品のガイドを追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。"
     },
     {
       "primaryCategory": "world-literature",
