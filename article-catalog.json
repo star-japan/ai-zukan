@@ -25,8 +25,8 @@
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T00:11:38+09:00",
+      "updateStatus": "published",
       "changeNote": "人物を描いたAIイラストを追加（写真ではありません）。"
     },
     {
@@ -347,8 +347,8 @@
       "firstPublishedAt": "2026-11-01T22:59:19+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T00:11:38+09:00",
+      "updateStatus": "published",
       "changeNote": "人物を描いたAIイラストを追加（写真ではありません）。"
     },
     {
@@ -361,8 +361,8 @@
       "firstPublishedAt": "2026-11-01T22:59:19+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T00:11:38+09:00",
+      "updateStatus": "published",
       "changeNote": "人物を描いたAIイラストを追加（写真ではありません）。"
     },
     {
