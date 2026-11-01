@@ -21,13 +21,13 @@
       "reading": "あくたがわりゅうのすけ",
       "author": null,
       "url": "https://star-japan.github.io/ai-zukan/#/article/akutagawa",
-      "revision": "44531585be2e275505a3f7298febdf07dd168538aad2fa87553ccd5978d6c82e",
+      "revision": "3b0e7dab870a1ee50eed6537bf56663a4f755e89af7de66052a8ef42041bc8b7",
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
-      "updatedAt": "2026-11-01T21:12:49+09:00",
-      "updateStatus": "published",
-      "changeNote": "出生地・育った町・作家になるまでの背景を追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "人物を描いたAIイラストを追加（写真ではありません）。"
     },
     {
       "id": "hana",
@@ -343,13 +343,13 @@
       "reading": "なつめそうせき",
       "author": "",
       "url": "https://star-japan.github.io/ai-zukan/#/article/soseki",
-      "revision": "d57e6fe1dcede61569691b150778adf699f5b5a887f8d8ff3e64d7e132cadf0d",
+      "revision": "8d3dad25f9176b750663192f4a6b8cc0ed457716e8bd07bd82dbf3fbca0d163f",
       "firstPublishedAt": "2026-11-01T22:59:19+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-01T22:59:19+09:00",
-      "updateStatus": "published",
-      "changeNote": "公式資料に基づく人物紹介を新規追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "人物を描いたAIイラストを追加（写真ではありません）。"
     },
     {
       "id": "kenji",
@@ -357,13 +357,13 @@
       "reading": "みやざわけんじ",
       "author": "",
       "url": "https://star-japan.github.io/ai-zukan/#/article/kenji",
-      "revision": "fe73fbe91f0d1fa73c586c8f5324eb24f9fdef385c3a17ab01f6e524b25a5bbe",
+      "revision": "21d712078d9786e6b1f3231e7dc492c9e02c6401f1f3670f94152c4e38076989",
       "firstPublishedAt": "2026-11-01T22:59:19+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-01T22:59:19+09:00",
-      "updateStatus": "published",
-      "changeNote": "公式資料に基づく人物紹介を新規追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "人物を描いたAIイラストを追加（写真ではありません）。"
     },
     {
       "id": "yamanashi",
@@ -372,11 +372,11 @@
       "author": "宮沢賢治",
       "url": "https://star-japan.github.io/ai-zukan/#/article/yamanashi",
       "revision": "038ba75fa7512ab47a52f2e0a18e62c6e1cf26b7afe47eb722d47565045b47e9",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-02T00:06:05+09:00",
+      "firstPublishedDate": "2026-11-02",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-02T00:06:05+09:00",
+      "updateStatus": "published",
       "changeNote": "原典に基づく登場人物・あらすじ・要約・まとめを追加。"
     },
     {
@@ -386,11 +386,11 @@
       "author": "有島武郎",
       "url": "https://star-japan.github.io/ai-zukan/#/article/hitofusanobudo",
       "revision": "1c977c915740ef552bd02c831f8770e4bac68c1d27d764d073cb0ca92deb7c7f",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-02T00:06:05+09:00",
+      "firstPublishedDate": "2026-11-02",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-02T00:06:05+09:00",
+      "updateStatus": "published",
       "changeNote": "原典に基づく登場人物・あらすじ・要約・まとめを追加。"
     }
   ]
