@@ -364,6 +364,34 @@
       "updatedAt": "2026-11-01T22:59:19+09:00",
       "updateStatus": "published",
       "changeNote": "公式資料に基づく人物紹介を新規追加。"
+    },
+    {
+      "id": "yamanashi",
+      "title": "やまなし",
+      "reading": "やまなし",
+      "author": "宮沢賢治",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/yamanashi",
+      "revision": "038ba75fa7512ab47a52f2e0a18e62c6e1cf26b7afe47eb722d47565045b47e9",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "原典に基づく登場人物・あらすじ・要約・まとめを追加。"
+    },
+    {
+      "id": "hitofusanobudo",
+      "title": "一房の葡萄",
+      "reading": "ひとふさのぶどう",
+      "author": "有島武郎",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/hitofusanobudo",
+      "revision": "1c977c915740ef552bd02c831f8770e4bac68c1d27d764d073cb0ca92deb7c7f",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "原典に基づく登場人物・あらすじ・要約・まとめを追加。"
     }
   ]
 }
