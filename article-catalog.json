@@ -944,6 +944,38 @@
       "updatedAt": "2026-11-02T04:27:35+09:00",
       "updateStatus": "published",
       "changeNote": "原典全文を確認した樋口一葉作品のガイドを追加。"
+    },
+    {
+      "primaryCategory": "world-literature",
+      "genreLabel": "海外文学",
+      "id": "christmas-carol",
+      "title": "クリスマス・キャロル",
+      "reading": "くりすますきゃろる",
+      "author": "チャールズ・ディケンズ",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/christmas-carol",
+      "revision": "8d08eda565946dfcffb3d932c0655937a21a5aacaa27ed0e4e30bbede91533b7",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "英語原典全文を確認し、人物と出来事の流れが分かるガイドと途中の挿絵を追加。"
+    },
+    {
+      "primaryCategory": "world-literature",
+      "genreLabel": "海外文学",
+      "id": "redheadedleague",
+      "title": "赤毛組合",
+      "reading": "あかげくみあい",
+      "author": "アーサー・コナン・ドイル",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/redheadedleague",
+      "revision": "708d0aa6e00e0de3388ed0e1ba7f2fbbc8b3c195a4c1d3c724823cf212a06042",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "英語原典全文を確認し、人物と出来事の流れが分かるガイドと途中の挿絵を追加。"
     }
   ]
 }
