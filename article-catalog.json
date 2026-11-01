@@ -7,13 +7,13 @@
       "reading": "らしょうもん",
       "author": "芥川龍之介",
       "url": "https://star-japan.github.io/ai-zukan/#/article/rashomon",
-      "revision": "601102b6ae399d98f5d9690757227fa2ae52cacd05b8650448e2ce6e88d46084",
+      "revision": "887fd027b2954d8695801fc0f8e8a4533e30f54e89023832c42bbcd0ce068d1e",
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "本文の難しい漢字に上ルビを追加。"
+      "changeNote": "要約の登場人物初出に上ルビを追加。"
     },
     {
       "id": "akutagawa",
@@ -39,8 +39,8 @@
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-01T22:55:02+09:00",
+      "updateStatus": "published",
       "changeNote": "本文の難しい漢字に上ルビを追加。"
     },
     {
@@ -53,8 +53,8 @@
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-01T22:55:02+09:00",
+      "updateStatus": "published",
       "changeNote": "本文の難しい漢字に上ルビを追加。"
     },
     {
@@ -91,13 +91,13 @@
       "reading": "ちゅうもんのおおいりょうりてん",
       "author": "宮沢賢治",
       "url": "https://star-japan.github.io/ai-zukan/#/article/restaurant",
-      "revision": "4045156e082955406ebcfd06d79c47d1b3d7d4473477a51b1a064d09b85d8aed",
+      "revision": "baf44aea8b78ce0dd934656cc7b34ecb3e20b37ad25919b588254ba234877214",
       "firstPublishedAt": "2026-11-01T19:44:23+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-01T21:12:49+09:00",
-      "updateStatus": "published",
-      "changeNote": "登場人物の読み仮名を追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の登場人物初出に上ルビを追加。"
     },
     {
       "id": "gongitsune",
@@ -105,13 +105,13 @@
       "reading": "ごんぎつね",
       "author": "新美南吉",
       "url": "https://star-japan.github.io/ai-zukan/#/article/gongitsune",
-      "revision": "aef3d1b4b3978f0b2cdc7ab358e545b001a80c0ccf1cd45c5577a1cf4fc964ec",
+      "revision": "e7fdd85b2caab0d06bcbaef5d9fd172d9f22f91afdbf8a0c8e4870feb2c6b240",
       "firstPublishedAt": "2026-11-01T19:44:23+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-01T20:52:19+09:00",
-      "updateStatus": "published",
-      "changeNote": "題名・著者の読み仮名と作品イメージを整備。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の登場人物初出に上ルビを追加。"
     },
     {
       "id": "gloves",
@@ -147,13 +147,13 @@
       "reading": "とししゅん",
       "author": "芥川龍之介",
       "url": "https://star-japan.github.io/ai-zukan/#/article/toshishun",
-      "revision": "1f2c5e56f4f9cc2e4f2036b857df155f268e25a761645c142506879061951cd4",
+      "revision": "a8c53ddf3349cc26020ee2a0e7fa3d559d9150da4f313f5067a7c21404622c95",
       "firstPublishedAt": "2026-11-01T20:38:07+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "本文の難しい漢字に上ルビを追加。"
+      "changeNote": "要約の登場人物初出に上ルビを追加。"
     },
     {
       "id": "yodaka",
@@ -161,13 +161,13 @@
       "reading": "よだかのほし",
       "author": "宮沢賢治",
       "url": "https://star-japan.github.io/ai-zukan/#/article/yodaka",
-      "revision": "b6f0b83095ea03d9d2e572db1e788aefd0d4d94b5657751f2c151c2c97603fe4",
+      "revision": "ea688269d33ef7596e5b0310419d1c3410840d5731c0c65cc047f946f01182bd",
       "firstPublishedAt": "2026-11-01T21:39:36+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-01T21:39:36+09:00",
-      "updateStatus": "published",
-      "changeNote": "原典に基づく作品紹介を新規追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の登場人物初出に上ルビを追加。"
     },
     {
       "id": "trolley",
@@ -175,13 +175,13 @@
       "reading": "トロッコ",
       "author": "芥川龍之介",
       "url": "https://star-japan.github.io/ai-zukan/#/article/trolley",
-      "revision": "72e5c2c28257bc3a81615a89b4acd6f5d827e7fcf0e4b442b0330d0d1807af05",
+      "revision": "5f9bdbdabda7e470e20285707d5a040aade5b32ca69fbdfaf71d3bd944e96ded",
       "firstPublishedAt": "2026-11-01T21:39:36+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-01T21:39:36+09:00",
-      "updateStatus": "published",
-      "changeNote": "原典に基づく作品紹介を新規追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の登場人物初出に上ルビを追加。"
     },
     {
       "id": "lamp",
@@ -189,13 +189,13 @@
       "reading": "おじいさんのランプ",
       "author": "新美南吉",
       "url": "https://star-japan.github.io/ai-zukan/#/article/lamp",
-      "revision": "a470c125c9a6bd743286e8627a9b6aad2ab1f55c27735009aee2715d1e23c635",
+      "revision": "1e037e7ba2b56856238cf6185f388b0e52aef9843ed82874995a9d3bff5d0826",
       "firstPublishedAt": "2026-11-01T21:39:36+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "本文の難しい漢字に上ルビを追加。"
+      "changeNote": "要約の登場人物初出に上ルビを追加。"
     },
     {
       "id": "ginga",
@@ -217,13 +217,13 @@
       "reading": "ぼっちゃん",
       "author": "夏目漱石",
       "url": "https://star-japan.github.io/ai-zukan/#/article/botchan",
-      "revision": "c7ee93795f3941b006dc492fed3c05def66f1102b2296a04ff9764b4cee0cb93",
+      "revision": "a45dd74de89af4822bd85bb9bf609aacc04acdc937bb2fb98d3d065ea99e3709",
       "firstPublishedAt": "2026-11-01T21:49:51+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-01T21:49:51+09:00",
-      "updateStatus": "published",
-      "changeNote": "原典に基づく作品紹介を新規追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の登場人物初出に上ルビを追加。"
     },
     {
       "id": "cat",
@@ -231,13 +231,13 @@
       "reading": "わがはいはねこである",
       "author": "夏目漱石",
       "url": "https://star-japan.github.io/ai-zukan/#/article/cat",
-      "revision": "1bb8cb4a8f38caf0a227ef92cb7288d780087c57701be99e623b4c42db4c797f",
+      "revision": "820120d5f126ef3b474a11cbbc3cd2807c5bd41f43dabda20d1292b52ed2c402",
       "firstPublishedAt": "2026-11-01T22:30:02+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "底本説明を末尾へ移し、甕などの難しい漢字に上ルビを追加。"
+      "changeNote": "要約の登場人物初出に上ルビを追加。"
     },
     {
       "id": "kokoro",
@@ -245,13 +245,13 @@
       "reading": "こころ",
       "author": "夏目漱石",
       "url": "https://star-japan.github.io/ai-zukan/#/article/kokoro",
-      "revision": "920490160273636c5268c9c2b1b4f4cfca318732a9acab3dbde1f6b94a29224b",
+      "revision": "9ebce768c7f17d1583eff9d4aaf68c8b2e05737f7c00a18a4b3d9baae644d29e",
       "firstPublishedAt": "2026-11-01T22:30:02+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-01T22:30:02+09:00",
-      "updateStatus": "published",
-      "changeNote": "原典に基づく作品紹介を新規追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の登場人物初出に上ルビを追加。"
     },
     {
       "id": "lemon",
@@ -277,8 +277,8 @@
       "firstPublishedAt": "2026-11-01T22:33:58+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-01T22:55:02+09:00",
+      "updateStatus": "published",
       "changeNote": "本文の難しい漢字に上ルビを追加。"
     },
     {
@@ -287,13 +287,13 @@
       "reading": "ゆめじゅうや",
       "author": "夏目漱石",
       "url": "https://star-japan.github.io/ai-zukan/#/article/yumejuya",
-      "revision": "10dc870dc5fa71a7e95b5b10461a4e463c8f0205af7bb743cfe9685219503a31",
+      "revision": "2ffafa77b2e5f279bd5e8505aede9055113dfd4a36cefe6181c68a911c9aa9f7",
       "firstPublishedAt": "2026-11-01T22:44:38+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-01T22:44:38+09:00",
-      "updateStatus": "published",
-      "changeNote": "原典に基づく作品紹介を新規追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の登場人物初出に上ルビを追加。"
     },
     {
       "id": "takasebune",
@@ -301,13 +301,13 @@
       "reading": "たかせぶね",
       "author": "森鴎外",
       "url": "https://star-japan.github.io/ai-zukan/#/article/takasebune",
-      "revision": "f165ac489fbac954aefe7c1a011440ced7baba22c40a9420d2c8b5909456d47c",
+      "revision": "c8515948ec4034c3f8fda6ea9fcbc1b6467509e0eb9ef7b370efe9e762318169",
       "firstPublishedAt": "2026-11-01T22:44:38+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-01T22:44:38+09:00",
-      "updateStatus": "published",
-      "changeNote": "原典に基づく作品紹介を新規追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の登場人物初出に上ルビを追加。"
     },
     {
       "id": "maihime",
@@ -315,13 +315,13 @@
       "reading": "まいひめ",
       "author": "森鴎外",
       "url": "https://star-japan.github.io/ai-zukan/#/article/maihime",
-      "revision": "b8a2021e5bffb5d732fd2d39ddd659db8714d56d530c7d00b3345fb8081ecf52",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
+      "revision": "96424a40522c7d54fe46681797b4d0d5a32c9b4e540f63082e05ad2dd648967d",
+      "firstPublishedAt": "2026-11-01T22:55:02+09:00",
+      "firstPublishedDate": "2026-11-01",
+      "firstPublishedPrecision": "second",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "原典に基づく作品紹介を新規追加。"
+      "changeNote": "要約の登場人物初出に上ルビを追加。"
     },
     {
       "id": "ningen",
@@ -329,13 +329,41 @@
       "reading": "にんげんしっかく",
       "author": "太宰治",
       "url": "https://star-japan.github.io/ai-zukan/#/article/ningen",
-      "revision": "3f89b0bc1d76c8dbbb433ba976b39670c59e2e2415fd2a77d1a1917984d77fae",
+      "revision": "52ff59f5702a1889cfed8c24b444ec846d0dd649e8542f46fca47833d7348a5a",
+      "firstPublishedAt": "2026-11-01T22:55:02+09:00",
+      "firstPublishedDate": "2026-11-01",
+      "firstPublishedPrecision": "second",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "要約の登場人物初出に上ルビを追加。"
+    },
+    {
+      "id": "soseki",
+      "title": "夏目漱石",
+      "reading": "なつめそうせき",
+      "author": "",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/soseki",
+      "revision": "d57e6fe1dcede61569691b150778adf699f5b5a887f8d8ff3e64d7e132cadf0d",
       "firstPublishedAt": null,
       "firstPublishedDate": null,
       "firstPublishedPrecision": "unknown",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "原典に基づく作品紹介を新規追加。"
+      "changeNote": "公式資料に基づく人物紹介を新規追加。"
+    },
+    {
+      "id": "kenji",
+      "title": "宮沢賢治",
+      "reading": "みやざわけんじ",
+      "author": "",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/kenji",
+      "revision": "fe73fbe91f0d1fa73c586c8f5324eb24f9fdef385c3a17ab01f6e524b25a5bbe",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "公式資料に基づく人物紹介を新規追加。"
     }
   ]
 }
