@@ -25,8 +25,8 @@
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T00:30:34+09:00",
+      "updateStatus": "published",
       "changeNote": "人物イラストの創作性と写真ではないことの説明を明確化。"
     },
     {
@@ -63,13 +63,13 @@
       "reading": null,
       "author": null,
       "url": "https://star-japan.github.io/ai-zukan/#/article/kawasaki",
-      "revision": "fa8def4b6c7003b6021e299be9e5fd8786a9929fc8ff39e9aabea7055c70aaef",
+      "revision": "086f54ab051ad07860fb4c835b295966c03fcb27b3e33afc626d4490e589e4d3",
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
-      "updatedAt": "2026-11-02T00:27:07+09:00",
-      "updateStatus": "published",
-      "changeNote": "地域の食品と工業を題材にした非公式キャラクター案3件を追加。制作中の案は計24件。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "地域の植物と夜景を題材にした非公式キャラクター案3件を追加。制作中の案は計27件。"
     },
     {
       "id": "melos",
@@ -347,8 +347,8 @@
       "firstPublishedAt": "2026-11-01T22:59:19+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T00:30:34+09:00",
+      "updateStatus": "published",
       "changeNote": "人物イラストの創作性と写真ではないことの説明を明確化。"
     },
     {
@@ -361,8 +361,8 @@
       "firstPublishedAt": "2026-11-01T22:59:19+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T00:30:34+09:00",
+      "updateStatus": "published",
       "changeNote": "人物イラストの創作性と写真ではないことの説明を明確化。"
     },
     {
@@ -400,11 +400,11 @@
       "author": "森鷗外",
       "url": "https://star-japan.github.io/ai-zukan/#/article/sanshodayu",
       "revision": "88734b28e961467b3e99986724f95c8d489d6300b1c0bfe373b396c28c503e5b",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-02T00:30:34+09:00",
+      "firstPublishedDate": "2026-11-02",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-02T00:30:34+09:00",
+      "updateStatus": "published",
       "changeNote": "原典に基づく登場人物・あらすじ・要約・まとめを追加。"
     }
   ]
