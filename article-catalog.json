@@ -921,13 +921,13 @@
       "reading": "たけくらべ",
       "author": "樋口一葉",
       "url": "https://star-japan.github.io/ai-zukan/#/article/takekurabe",
-      "revision": "9476483b6505eaaee30c7a0217ffbef1370bf906ea1f5a3cb73b67422091cd48",
+      "revision": "95354f4a5b8ec8d1536a246b82f1fd926a9e25ec05f5a6c2c1dcaa08cb69e442",
       "firstPublishedAt": "2026-11-02T04:27:35+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T04:27:35+09:00",
-      "updateStatus": "published",
-      "changeNote": "原典全文を確認した樋口一葉作品のガイドを追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "序盤の美登利と正太郎の相談場面を追加し、要約途中の挿絵を3枚に。"
     },
     {
       "primaryCategory": "japanese-literature",
@@ -953,13 +953,13 @@
       "reading": "くりすますきゃろる",
       "author": "チャールズ・ディケンズ",
       "url": "https://star-japan.github.io/ai-zukan/#/article/christmas-carol",
-      "revision": "8d08eda565946dfcffb3d932c0655937a21a5aacaa27ed0e4e30bbede91533b7",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
+      "revision": "6fcd43b7b09b12b9ee048e0855b20d14d74e42e3a5f79223b813901da48f89b6",
+      "firstPublishedAt": "2026-11-02T04:57:05+09:00",
+      "firstPublishedDate": "2026-11-02",
+      "firstPublishedPrecision": "second",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "英語原典全文を確認し、人物と出来事の流れが分かるガイドと途中の挿絵を追加。"
+      "changeNote": "家族の挿絵を、原作に合わせて背もたれのない小さな腰掛けへ修正。"
     },
     {
       "primaryCategory": "world-literature",
@@ -970,11 +970,11 @@
       "author": "アーサー・コナン・ドイル",
       "url": "https://star-japan.github.io/ai-zukan/#/article/redheadedleague",
       "revision": "708d0aa6e00e0de3388ed0e1ba7f2fbbc8b3c195a4c1d3c724823cf212a06042",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-02T04:57:05+09:00",
+      "firstPublishedDate": "2026-11-02",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-02T04:57:05+09:00",
+      "updateStatus": "published",
       "changeNote": "英語原典全文を確認し、人物と出来事の流れが分かるガイドと途中の挿絵を追加。"
     }
   ]
