@@ -890,11 +890,11 @@
       "author": "清少納言",
       "url": "https://star-japan.github.io/ai-zukan/#/article/makuranososhi",
       "revision": "21cd267aa40b680affed06885034d908a6af503c1b7a916b0ee4a8bcefbf721a",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-02T04:18:50+09:00",
+      "firstPublishedDate": "2026-11-02",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-02T04:18:50+09:00",
+      "updateStatus": "published",
       "changeNote": "作品全体の性格と確認した原典の範囲を明示した古典ガイドを追加。"
     },
     {
@@ -906,11 +906,11 @@
       "author": "紫式部",
       "url": "https://star-japan.github.io/ai-zukan/#/article/genjimonogatari",
       "revision": "9d975067b00742c0c0405dd31983e046d2f4169c6b41a2fab42ec27f28bd3aaf",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-02T04:18:50+09:00",
+      "firstPublishedDate": "2026-11-02",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-02T04:18:50+09:00",
+      "updateStatus": "published",
       "changeNote": "作品全体の性格と確認した原典の範囲を明示した古典ガイドを追加。"
     }
   ]
