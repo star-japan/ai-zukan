@@ -43,8 +43,8 @@
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T10:44:30+09:00",
+      "updateStatus": "published",
       "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学"
@@ -219,8 +219,8 @@
       "firstPublishedAt": "2026-11-01T21:39:36+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T10:44:30+09:00",
+      "updateStatus": "published",
       "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学"
@@ -647,13 +647,13 @@
       "reading": "へんぜるとぐれーてる",
       "author": "グリム兄弟／採集・編纂",
       "url": "https://star-japan.github.io/ai-zukan/#/article/hansel",
-      "revision": "493ebd7a3556c0989c167d3df8413ce03d87b8252254524914f0eab70202e474",
+      "revision": "9cb41d3ee937e33c240cbf176d06977701f75867b2d2d03eb46ac82b1f77abc3",
       "firstPublishedAt": "2026-11-02T01:08:10+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T08:41:56+09:00",
-      "updateStatus": "published",
-      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。",
       "primaryCategory": "world-fairytale",
       "genreLabel": "世界の童話 · グリム童話"
     },
@@ -733,8 +733,8 @@
       "firstPublishedAt": "2026-11-02T01:33:55+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T10:44:30+09:00",
+      "updateStatus": "published",
       "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
     },
     {
@@ -761,13 +761,13 @@
       "reading": "ながぐつをはいたねこ",
       "author": "シャルル・ペロー",
       "url": "https://star-japan.github.io/ai-zukan/#/article/pussinboots",
-      "revision": "0e460dc1aec81b3a7c24001ed1eb2e0f1588c959afa38cd421510eb369ef129b",
+      "revision": "0ed88ffebf9ce5c8762d3c3caa3d193bdd0b111d8290911da8cbe072bdcea4cf",
       "firstPublishedAt": "2026-11-02T01:33:55+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T08:59:07+09:00",
-      "updateStatus": "published",
-      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
     },
     {
       "primaryCategory": "world-fairytale",
