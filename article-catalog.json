@@ -487,13 +487,13 @@
       "reading": "ろみおとじゅりえっと",
       "author": "ウィリアム・シェイクスピア",
       "url": "https://star-japan.github.io/ai-zukan/#/article/romeoandjuliet",
-      "revision": "789ed486521e195bac996aa56e83c55c0e52153e6ef3cc6f1d7126106e7ad7b9",
+      "revision": "e7f61d081ed9400a633b6e8e3f105bf6bb1ad070679fb3a90746b003046b8bae",
       "firstPublishedAt": "2026-11-02T00:43:50+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T08:20:51+09:00",
-      "updateStatus": "published",
-      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。",
       "primaryCategory": "world-literature",
       "genreLabel": "海外文学"
     },
@@ -829,8 +829,8 @@
       "firstPublishedAt": "2026-11-02T01:52:47+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T11:15:39+09:00",
+      "updateStatus": "published",
       "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
     },
     {
@@ -845,8 +845,8 @@
       "firstPublishedAt": "2026-11-02T01:52:47+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T11:15:39+09:00",
+      "updateStatus": "published",
       "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
     },
     {
@@ -873,13 +873,13 @@
       "reading": "ふらんけんしゅたいん",
       "author": "メアリー・シェリー",
       "url": "https://star-japan.github.io/ai-zukan/#/article/frankenstein",
-      "revision": "fe6344e1de8c188e95445bd5153543fc366545636073ada0c96aa2c8de607fc1",
+      "revision": "fda50bf04ac06a8d9c5cbfa44e9c1002142c8e84370aef494a3d40561e75d81e",
       "firstPublishedAt": "2026-11-02T01:57:56+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T08:31:13+09:00",
-      "updateStatus": "published",
-      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
     },
     {
       "primaryCategory": "japanese-literature",
