@@ -551,13 +551,13 @@
       "reading": "あかずきん",
       "author": "グリム兄弟／採集・編纂",
       "url": "https://star-japan.github.io/ai-zukan/#/article/redcap",
-      "revision": "0580eab8453720a55d54208074e21c6d632c3c918510768791e021124cee9ab5",
+      "revision": "6322f1c2c29d268c534cc55b31962988093c37b6930b22f95837ecab4afe2e43",
       "firstPublishedAt": "2026-11-02T00:53:56+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T10:28:44+09:00",
-      "updateStatus": "published",
-      "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。",
       "primaryCategory": "world-fairytale",
       "genreLabel": "世界の童話 · グリム童話"
     },
@@ -717,8 +717,8 @@
       "firstPublishedAt": "2026-11-02T01:27:11+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T14:31:26+09:00",
+      "updateStatus": "published",
       "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     },
     {
