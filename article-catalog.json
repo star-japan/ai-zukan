@@ -791,15 +791,15 @@
       "reading": "うぃりあむしぇいくすぴあ",
       "author": "",
       "url": "https://star-japan.github.io/ai-zukan/#/article/shakespeare",
-      "revision": "4f3fe5925f06b45a826927fee4316c7f3a13fadac4afd5f2fa76142ed4172de7",
+      "revision": "5bcede7eeb19b13af8ef56f1f76a471d2448401306213f24aabb30b1fdbe56df",
       "primaryCategory": "person",
       "genreLabel": "人物",
       "firstPublishedAt": "2026-11-02T01:38:55+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T01:38:55+09:00",
-      "updateStatus": "published",
-      "changeNote": "公式機関の資料に基づく作者紹介とAI人物イラストを追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "ハムレット紹介への関連リンクを追加。本文は変更なし。"
     },
     {
       "id": "dostoevsky",
@@ -1018,12 +1018,28 @@
       "primaryCategory": "world-literature",
       "genreLabel": "海外文学",
       "revision": "583b58c0af5a5fd42f3e23b6bfaa72b09372db41fc9bc065ea643e8081eeb2cf",
+      "firstPublishedAt": "2026-11-02T17:23:04+09:00",
+      "firstPublishedDate": "2026-11-02",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-02T17:23:04+09:00",
+      "updateStatus": "published",
+      "changeNote": "原典全38章を確認した独自解説、人物紹介と本文3場面を追加。"
+    },
+    {
+      "id": "hamlet",
+      "title": "ハムレット",
+      "reading": "はむれっと",
+      "author": "ウィリアム・シェイクスピア",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/hamlet",
+      "primaryCategory": "world-literature",
+      "genreLabel": "海外文学",
+      "revision": "a83ba176535516a3afe48448e0b68e827c08d1f90425ca3b03cfe6fb265e77cc",
       "firstPublishedAt": null,
       "firstPublishedDate": null,
       "firstPublishedPrecision": "unknown",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "原典全38章を確認した独自解説、人物紹介と本文3場面を追加。"
+      "changeNote": "第一フォリオ本文の全5幕を確認した独自解説、人物紹介と本文3場面を追加。"
     }
   ]
 }
