@@ -123,8 +123,8 @@
       "firstPublishedAt": "2026-11-01T19:44:23+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T11:10:27+09:00",
+      "updateStatus": "published",
       "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学"
@@ -667,8 +667,8 @@
       "firstPublishedAt": "2026-11-02T01:21:44+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T11:10:27+09:00",
+      "updateStatus": "published",
       "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。",
       "primaryCategory": "world-fairytale",
       "genreLabel": "世界の童話 · アンデルセン童話"
@@ -825,13 +825,13 @@
       "reading": "あまのいわと",
       "author": "日本神話／『古事記』所収",
       "url": "https://star-japan.github.io/ai-zukan/#/article/amanoiwato",
-      "revision": "46cb0edcac15f7cfa3eef1a968c9bd8f2dce6e43eeaa6c73162370c73b173e08",
+      "revision": "0a18d0ef78743ae8c54134c89a4e2e292ed6cce632f6ed247ad0629248327638",
       "firstPublishedAt": "2026-11-02T01:52:47+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T01:52:47+09:00",
-      "updateStatus": "published",
-      "changeNote": "原典の版を明示し、神話と現実の情報を分けたガイドを追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
     },
     {
       "primaryCategory": "myth",
@@ -841,13 +841,13 @@
       "reading": "たなばたのものがたり",
       "author": "伝承（作者不詳）",
       "url": "https://star-japan.github.io/ai-zukan/#/article/tanabata",
-      "revision": "f8bed6886922440b34923f6064448564dd9edefe5bc68a0ff6109fe39d6f7eae",
+      "revision": "7b9298dd993f4752918c6101418d286b6f4e129365afa93a095fc795e2a686d5",
       "firstPublishedAt": "2026-11-02T01:52:47+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T01:52:47+09:00",
-      "updateStatus": "published",
-      "changeNote": "原典の版を明示し、神話と現実の情報を分けたガイドを追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
     },
     {
       "primaryCategory": "world-literature",
