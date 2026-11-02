@@ -1280,6 +1280,22 @@
       "updatedAt": "2026-11-02T23:31:30+09:00",
       "updateStatus": "published",
       "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
+    },
+    {
+      "id": "snow-queen",
+      "title": "雪の女王",
+      "reading": "ゆきのじょおう",
+      "author": "ハンス・クリスチャン・アンデルセン",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/snow-queen",
+      "primaryCategory": "world-fairytale",
+      "genreLabel": "世界の童話（アンデルセン）",
+      "revision": "581064bd96abf5778f36917d21735483c89c3dc423c77e15251bade62304958c",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "採用日本語訳の全7話を確認した独自解説、人物紹介と本文3場面を追加。"
     }
   ]
 }
