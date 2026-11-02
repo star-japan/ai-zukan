@@ -1962,11 +1962,11 @@
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学",
       "revision": "6770d539f9f404f2ad6cd0fe6c63ed7641d90d9d0a366da0f75c5ccc5cb25a6e",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-03T04:13:47+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T04:13:47+09:00",
+      "updateStatus": "published",
       "changeNote": "採用原典の該当全節を確認した独自解説、人物紹介と本文3場面を追加。"
     },
     {
@@ -1978,12 +1978,28 @@
       "primaryCategory": "person",
       "genreLabel": "人物",
       "revision": "e066e74754e7958741b5bae70246839b591827948df32097fee6b01e37a85a97",
+      "firstPublishedAt": "2026-11-03T04:13:47+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T04:13:47+09:00",
+      "updateStatus": "published",
+      "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
+    },
+    {
+      "id": "sakura-no-ki-no-shita-niwa",
+      "title": "桜の樹の下には",
+      "reading": "さくらのきのしたには",
+      "author": "梶井基次郎",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/sakura-no-ki-no-shita-niwa",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学",
+      "revision": "1b2d729b1f2681d11b696e149f5255ae17a85f3ea57a430ae6314324fefbe904",
       "firstPublishedAt": null,
       "firstPublishedDate": null,
       "firstPublishedPrecision": "unknown",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
+      "changeNote": "採用原典の該当全節を確認した独自解説、人物紹介と本文3場面を追加。"
     }
   ]
 }
