@@ -1207,15 +1207,15 @@
       "reading": "せいしょうなごん",
       "author": "",
       "url": "https://star-japan.github.io/ai-zukan/#/article/sei-shonagon",
-      "revision": "6b84da3cef1ae0898b71a5fee189ad990ee124d1ec80ce5271edb81360fe59b9",
+      "revision": "8b1320e897d4a1126f114b8ab9158fcccb123815a1b93045e1e2a13c23e68552",
       "primaryCategory": "person",
       "genreLabel": "人物",
       "firstPublishedAt": "2026-11-02T23:31:30+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T23:31:30+09:00",
-      "updateStatus": "published",
-      "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "実際の容貌は不明と明示した想像イラストを追加。本文は変更していません。"
     },
     {
       "id": "murasaki-shikibu",
@@ -1223,15 +1223,15 @@
       "reading": "むらさきしきぶ",
       "author": "",
       "url": "https://star-japan.github.io/ai-zukan/#/article/murasaki-shikibu",
-      "revision": "9463d1037fbb8e5b8a7d210e51fd754a21e0c382e804b8c1ffdaf5243a746f98",
+      "revision": "fb35ed6ad60317271aceb8661fa4d069c7d727d0c93b3628884cb94f85f33d3d",
       "primaryCategory": "person",
       "genreLabel": "人物",
       "firstPublishedAt": "2026-11-02T23:31:30+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T23:31:30+09:00",
-      "updateStatus": "published",
-      "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "実際の容貌は不明と明示した想像イラストを追加。本文は変更していません。"
     },
     {
       "id": "brothers-grimm",
