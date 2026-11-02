@@ -1866,11 +1866,11 @@
       "primaryCategory": "folktale",
       "genreLabel": "日本の昔話・英語再話版",
       "revision": "b116e55f143a7080b9a19c28c823d8d7b540358179110f30329555edd202b972",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-03T03:29:10+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T03:29:10+09:00",
+      "updateStatus": "published",
       "changeNote": "採用原著の全文を確認した独自解説、人物紹介と本文3場面を追加。"
     },
     {
@@ -1882,12 +1882,28 @@
       "primaryCategory": "person",
       "genreLabel": "人物",
       "revision": "69ae5b681df444c489b27f6f3afbef38f25a3840de854feebdd165c6f147a9d8",
+      "firstPublishedAt": "2026-11-03T03:29:10+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T03:29:10+09:00",
+      "updateStatus": "published",
+      "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
+    },
+    {
+      "id": "mikan",
+      "title": "蜜柑",
+      "reading": "みかん",
+      "author": "芥川龍之介",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/mikan",
+      "primaryCategory": "literature",
+      "genreLabel": "日本文学",
+      "revision": "053ddc9cfddf00f46f0ee1aae1351e99cf9bebb58828045b175d2d7fdd92772b",
       "firstPublishedAt": null,
       "firstPublishedDate": null,
       "firstPublishedPrecision": "unknown",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
+      "changeNote": "採用原典の該当全節を確認した独自解説、人物紹介と本文3場面を追加。"
     }
   ]
 }
