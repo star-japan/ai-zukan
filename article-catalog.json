@@ -1104,6 +1104,22 @@
       "updatedAt": "2026-11-02T19:19:09+09:00",
       "updateStatus": "published",
       "changeNote": "英語原典の散文全区分を確認した独自解説、人物紹介と本文3場面を追加。"
+    },
+    {
+      "id": "niimi-nankichi",
+      "title": "新美南吉",
+      "reading": "にいみなんきち",
+      "author": "",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/niimi-nankichi",
+      "revision": "802d57b69cf3fbea3850802da1f152c50020e407b2f84d67cf88aa14d45ee43f",
+      "primaryCategory": "person",
+      "genreLabel": "人物",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "公式資料に基づく新美南吉の人物紹介を追加。本人の肖像は未掲載。"
     }
   ]
 }
