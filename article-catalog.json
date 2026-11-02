@@ -733,8 +733,8 @@
       "firstPublishedAt": "2026-11-02T01:33:55+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T09:21:02+09:00",
+      "updateStatus": "published",
       "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     },
     {
@@ -745,13 +745,13 @@
       "reading": "しらゆきひめ",
       "author": "グリム兄弟／採集・編纂",
       "url": "https://star-japan.github.io/ai-zukan/#/article/snow-white",
-      "revision": "15e91a00677ba859be94a793f1404bd63111b4dc1c0d867c410080f29ad1fdd3",
+      "revision": "c83efedd0d084ee913d801c436d81c2f47dcadf2fa4753fb206d00d689fda349",
       "firstPublishedAt": "2026-11-02T01:33:55+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T02:27:45+09:00",
-      "updateStatus": "published",
-      "changeNote": "登場人物の説明・あらすじ・要約の難しい語に読みを追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     },
     {
       "primaryCategory": "world-fairytale",
