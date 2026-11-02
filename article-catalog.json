@@ -1994,12 +1994,44 @@
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学",
       "revision": "1b2d729b1f2681d11b696e149f5255ae17a85f3ea57a430ae6314324fefbe904",
+      "firstPublishedAt": "2026-11-03T04:18:27+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T04:18:27+09:00",
+      "updateStatus": "published",
+      "changeNote": "採用原典の該当全節を確認した独自解説、人物紹介と本文3場面を追加。"
+    },
+    {
+      "id": "koya-hijiri",
+      "title": "高野聖",
+      "reading": "こうやひじり",
+      "author": "泉鏡花",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/koya-hijiri",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学",
+      "revision": "16a72c66eaef1a2e57a5572c3ed9d90957bf17fe2703272eb19fb50bd2401b9b",
       "firstPublishedAt": null,
       "firstPublishedDate": null,
       "firstPublishedPrecision": "unknown",
       "updatedAt": null,
       "updateStatus": "pending",
       "changeNote": "採用原典の該当全節を確認した独自解説、人物紹介と本文3場面を追加。"
+    },
+    {
+      "id": "izumi-kyoka",
+      "title": "泉鏡花",
+      "reading": "いずみきょうか",
+      "author": "",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/izumi-kyoka",
+      "primaryCategory": "person",
+      "genreLabel": "人物",
+      "revision": "53845abc59832e93a8766b1cf05763f5fd844c013c2364ad87ea14010c9957f7",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
     }
   ]
 }
