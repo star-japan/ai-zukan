@@ -765,8 +765,8 @@
       "firstPublishedAt": "2026-11-02T01:33:55+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T08:59:07+09:00",
+      "updateStatus": "published",
       "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     },
     {
@@ -777,13 +777,13 @@
       "reading": "はだかのおうさま",
       "author": "ハンス・クリスチャン・アンデルセン",
       "url": "https://star-japan.github.io/ai-zukan/#/article/emperors-new-clothes",
-      "revision": "2241c02a0f25328a0b301193f0ee339eb6ff7c78ec3f79b5cf20997f69acd268",
+      "revision": "d823d277ea8e88bd89000a2456e7afbb05bf26f05109906220f61ab5dcea3908",
       "firstPublishedAt": "2026-11-02T01:33:55+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T01:33:55+09:00",
-      "updateStatus": "published",
-      "changeNote": "参照する再話・採集版を明示した昔話のフルガイドを追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     },
     {
       "id": "shakespeare",
