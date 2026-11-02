@@ -825,13 +825,13 @@
       "reading": "あまのいわと",
       "author": "日本神話／『古事記』所収",
       "url": "https://star-japan.github.io/ai-zukan/#/article/amanoiwato",
-      "revision": "0a18d0ef78743ae8c54134c89a4e2e292ed6cce632f6ed247ad0629248327638",
+      "revision": "c53522cbd95355f8543fb4bfdaa6ae5b2db66be2aa0a532a54f750c89227c081",
       "firstPublishedAt": "2026-11-02T01:52:47+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T11:15:39+09:00",
-      "updateStatus": "published",
-      "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     },
     {
       "primaryCategory": "myth",
@@ -841,13 +841,13 @@
       "reading": "たなばたのものがたり",
       "author": "伝承（作者不詳）",
       "url": "https://star-japan.github.io/ai-zukan/#/article/tanabata",
-      "revision": "7b9298dd993f4752918c6101418d286b6f4e129365afa93a095fc795e2a686d5",
+      "revision": "ee0ac7b8b9d43b31cf7694af801d0df988d70a1a9e1a5b9f150028fd6a6ad93e",
       "firstPublishedAt": "2026-11-02T01:52:47+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T11:15:39+09:00",
-      "updateStatus": "published",
-      "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     },
     {
       "primaryCategory": "world-literature",
@@ -893,8 +893,8 @@
       "firstPublishedAt": "2026-11-02T04:18:50+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T15:41:03+09:00",
+      "updateStatus": "published",
       "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     },
     {
@@ -909,8 +909,8 @@
       "firstPublishedAt": "2026-11-02T04:18:50+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T15:41:03+09:00",
+      "updateStatus": "published",
       "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     },
     {
