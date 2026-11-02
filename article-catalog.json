@@ -87,13 +87,13 @@
       "reading": "はしれメロス",
       "author": "太宰治",
       "url": "https://star-japan.github.io/ai-zukan/#/article/melos",
-      "revision": "f06644497caa4d1dc524d8631cd2d5ce63d3f366b2931f52f1233ce1de02a64e",
+      "revision": "fb2147aaf6cde3053a9fd77910dd6bb66ce9a97667a727ef070c43530f947bcf",
       "firstPublishedAt": "2026-11-01T19:44:23+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T10:33:50+09:00",
-      "updateStatus": "published",
-      "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "作者紹介への関連リンクを追加。本文は変更なし。",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学"
     },
@@ -375,13 +375,13 @@
       "reading": "にんげんしっかく",
       "author": "太宰治",
       "url": "https://star-japan.github.io/ai-zukan/#/article/ningen",
-      "revision": "2996d4f5bf15fd41112445143a7c8397076d3e898687b920fdfc6673687496a9",
+      "revision": "79f8184be8923f4895d3b56b5cc1a345362ee278ea667c704ac3d894751195ea",
       "firstPublishedAt": "2026-11-01T22:55:02+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。",
+      "changeNote": "作者紹介への関連リンクを追加。本文は変更なし。",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学"
     },
@@ -976,6 +976,22 @@
       "updatedAt": "2026-11-02T15:11:04+09:00",
       "updateStatus": "published",
       "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
+    },
+    {
+      "id": "dazai",
+      "title": "太宰治",
+      "reading": "だざいおさむ",
+      "author": "",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/dazai",
+      "revision": "9922538ba12327be245358180af5f19a2ef26a9b8514454eeb583c05c20f7929",
+      "primaryCategory": "person",
+      "genreLabel": "人物",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "公式機関の資料に基づく作者紹介と作品への関連リンクを追加。肖像画像なし。"
     }
   ]
 }
