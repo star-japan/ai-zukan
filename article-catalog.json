@@ -1498,11 +1498,11 @@
       "revision": "1824fec09f47a3616225f61de6d51d81f0277b364cd08fea7272c5f0d255a5df",
       "primaryCategory": "person",
       "genreLabel": "人物",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-03T00:54:48+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T00:54:48+09:00",
+      "updateStatus": "published",
       "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
     },
     {
@@ -1514,11 +1514,11 @@
       "revision": "116db90ebdbab71427a19d4c643a7994fdbe7fc40dc85bb63f454cf9e0eec66e",
       "primaryCategory": "person",
       "genreLabel": "人物",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-03T00:54:48+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T00:54:48+09:00",
+      "updateStatus": "published",
       "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
     }
   ]
