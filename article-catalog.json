@@ -957,8 +957,8 @@
       "firstPublishedAt": "2026-11-02T04:57:05+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T15:03:42+09:00",
+      "updateStatus": "published",
       "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     },
     {
@@ -969,13 +969,13 @@
       "reading": "あかげくみあい",
       "author": "アーサー・コナン・ドイル",
       "url": "https://star-japan.github.io/ai-zukan/#/article/redheadedleague",
-      "revision": "b5a1890873dc24abe5980bd6f65e761a139c5ac8f578a6bb213c2ae1298000e2",
+      "revision": "53bed0c2ebfd3a99d9cc807ab3827f67a0a7a18a47263e30b3469f4a85ec4f43",
       "firstPublishedAt": "2026-11-02T04:57:05+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T11:01:12+09:00",
-      "updateStatus": "published",
-      "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     }
   ]
 }
