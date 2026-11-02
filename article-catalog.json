@@ -713,13 +713,13 @@
       "reading": "たからじま",
       "author": "ロバート・ルイス・スティーヴンソン",
       "url": "https://star-japan.github.io/ai-zukan/#/article/treasure-island",
-      "revision": "21dfd7e3898fb3c6f4617547615236072218f87886888b7699fb903416a5813b",
+      "revision": "cf40efda7578990961065f4e2d714e420dc038b3cec76944ae6065082d0c0a5d",
       "firstPublishedAt": "2026-11-02T01:27:11+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T11:41:13+09:00",
-      "updateStatus": "published",
-      "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     },
     {
       "primaryCategory": "japanese-folktale",
