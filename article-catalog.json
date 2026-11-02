@@ -1213,8 +1213,8 @@
       "firstPublishedAt": "2026-11-02T23:31:30+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-03T01:31:51+09:00",
+      "updateStatus": "published",
       "changeNote": "実際の容貌は不明と明示した想像イラストを追加。本文は変更していません。"
     },
     {
@@ -1229,8 +1229,8 @@
       "firstPublishedAt": "2026-11-02T23:31:30+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-03T01:31:51+09:00",
+      "updateStatus": "published",
       "changeNote": "実際の容貌は不明と明示した想像イラストを追加。本文は変更していません。"
     },
     {
@@ -1519,6 +1519,38 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-03T00:54:48+09:00",
       "updateStatus": "published",
+      "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
+    },
+    {
+      "id": "jack-and-the-beanstalk",
+      "title": "ジャックと豆の木",
+      "reading": "じゃっくとまめのき",
+      "author": "イギリスの昔話／ジョセフ・ジェイコブズ採集・再話",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/jack-and-the-beanstalk",
+      "primaryCategory": "world-fairytale",
+      "genreLabel": "世界の昔話",
+      "revision": "0b18d5fd17e0c6ad775bbb44325c6d09312698081f92ff655e9a93901fe95d6d",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "採用原著の全文を確認した独自解説、人物紹介と本文3場面を追加。"
+    },
+    {
+      "id": "joseph-jacobs",
+      "title": "ジョセフ・ジェイコブズ",
+      "reading": "じょせふじぇいこぶず",
+      "author": "",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/joseph-jacobs",
+      "primaryCategory": "person",
+      "genreLabel": "人物",
+      "revision": "2560ad7e51bb741cb3cd6a7d03a01293a4fab4d40b0a1f140d70f3d1bad43f20",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
       "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
     }
   ]
