@@ -475,8 +475,8 @@
       "firstPublishedAt": "2026-11-02T00:43:50+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T14:55:29+09:00",
+      "updateStatus": "published",
       "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。",
       "primaryCategory": "world-literature",
       "genreLabel": "海外文学"
@@ -507,8 +507,8 @@
       "firstPublishedAt": "2026-11-02T00:49:37+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T14:55:29+09:00",
+      "updateStatus": "published",
       "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。",
       "primaryCategory": "world-literature",
       "genreLabel": "海外文学"
@@ -953,13 +953,13 @@
       "reading": "くりすますきゃろる",
       "author": "チャールズ・ディケンズ",
       "url": "https://star-japan.github.io/ai-zukan/#/article/christmas-carol",
-      "revision": "763ac1751515808fc02ece4ca0705c929b8cdc5d7b09e76f778010728668bbbb",
+      "revision": "ba1c1dd1ada462632b98961dfc34882990c2ace01ccbf555b41900be67ab6164",
       "firstPublishedAt": "2026-11-02T04:57:05+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T11:01:12+09:00",
-      "updateStatus": "published",
-      "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     },
     {
       "primaryCategory": "world-literature",
