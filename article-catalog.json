@@ -167,13 +167,13 @@
       "reading": "とししゅん",
       "author": "芥川龍之介",
       "url": "https://star-japan.github.io/ai-zukan/#/article/toshishun",
-      "revision": "7a9eee96d5f1493c0d2d1abb1f36c60ce63f8c3a70e6c696c0c0a3b3c88f83f3",
+      "revision": "0bf45c189a4aa5369b7f5ffe9985cef1097080cf277614390d0a74119570bd03",
       "firstPublishedAt": "2026-11-01T20:38:07+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T09:15:31+09:00",
-      "updateStatus": "published",
-      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学"
     },
@@ -199,13 +199,13 @@
       "reading": "トロッコ",
       "author": "芥川龍之介",
       "url": "https://star-japan.github.io/ai-zukan/#/article/trolley",
-      "revision": "49a5f342bf28c89dbc534b0aa3648ba0c608e0611eab2ced28003ce997b68a6e",
+      "revision": "3a330770c837fc445dacb08bfe1efde6a3d2719343761565f08f10743aef937d",
       "firstPublishedAt": "2026-11-01T21:39:36+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T08:10:38+09:00",
-      "updateStatus": "published",
-      "changeNote": "顔の識別画像と本文場面を追加し、枕木運びの描写と弟・父母の役割を原典に合わせて整理。",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学"
     },
@@ -957,8 +957,8 @@
       "firstPublishedAt": "2026-11-02T04:57:05+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T11:01:12+09:00",
+      "updateStatus": "published",
       "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
     },
     {
@@ -973,8 +973,8 @@
       "firstPublishedAt": "2026-11-02T04:57:05+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T11:01:12+09:00",
+      "updateStatus": "published",
       "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
     }
   ]
