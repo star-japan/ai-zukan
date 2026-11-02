@@ -631,12 +631,12 @@
       "reading": "うらしまたろう",
       "author": "楠山正雄／再話",
       "url": "https://star-japan.github.io/ai-zukan/#/article/urashimataro",
-      "revision": "65de0c7c1d5736acf4d3a804633fbc12a76684f5fe50f47ed2c3562a49ee2132",
+      "revision": "f6b9ea834aa1296d6318792648ac86178a473501ca13f0b08ce99ce261fb7db2",
       "firstPublishedAt": "2026-11-02T01:08:10+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T10:33:50+09:00",
-      "updateStatus": "published",
+      "updatedAt": null,
+      "updateStatus": "pending",
       "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。",
       "primaryCategory": "japanese-folktale",
       "genreLabel": "日本の昔話"
@@ -729,12 +729,12 @@
       "reading": "かぐやひめ",
       "author": "原作者不詳／和田万吉・再話",
       "url": "https://star-japan.github.io/ai-zukan/#/article/kaguyahime",
-      "revision": "78ade7bc904aa78060ba3d5edfcd9aa8e4dda1e9f1cd2788e2643ab84fdacb28",
+      "revision": "509a766e4dbc22a1d1dca992756070e9fdcd5caf2ee076772073dff7d529b863",
       "firstPublishedAt": "2026-11-02T01:33:55+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T10:44:30+09:00",
-      "updateStatus": "published",
+      "updatedAt": null,
+      "updateStatus": "pending",
       "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
     },
     {
@@ -973,8 +973,8 @@
       "firstPublishedAt": "2026-11-02T04:57:05+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T15:11:04+09:00",
+      "updateStatus": "published",
       "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     }
   ]
