@@ -1792,6 +1792,38 @@
       "updatedAt": "2026-11-03T02:58:02+09:00",
       "updateStatus": "published",
       "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
+    },
+    {
+      "id": "ichiaku-no-suna",
+      "title": "一握の砂",
+      "reading": "いちあくのすな",
+      "author": "石川啄木",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/ichiaku-no-suna",
+      "primaryCategory": "literature",
+      "genreLabel": "日本文学・歌集",
+      "revision": "4c8a3f0f9fe06e48e46e9c77dce9c9bbd550869ea674550caf1e19b0333416e1",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "採用原典の該当全節を確認した独自解説、人物紹介と本文3場面を追加。"
+    },
+    {
+      "id": "ishikawa-takuboku",
+      "title": "石川啄木",
+      "reading": "いしかわたくぼく",
+      "author": "",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/ishikawa-takuboku",
+      "primaryCategory": "person",
+      "genreLabel": "人物",
+      "revision": "146a90137cc07dded8ea1911f1f114fb7b0e85ab6bc02e2bd9f02cee86ebbda8",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
     }
   ]
 }
