@@ -155,8 +155,8 @@
       "firstPublishedAt": "2026-11-01T20:38:07+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T15:22:35+09:00",
+      "updateStatus": "published",
       "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学"
@@ -889,13 +889,13 @@
       "reading": "まくらのそうし",
       "author": "清少納言",
       "url": "https://star-japan.github.io/ai-zukan/#/article/makuranososhi",
-      "revision": "aff58332b37b20e3c35fd4f2c2f56b851cf583ba6b87faeebc24da06ea597ffb",
+      "revision": "277fe60eb7304814d93c5767ccdeedf7f3fcd4cd4bfedd28c633de40ddc00c71",
       "firstPublishedAt": "2026-11-02T04:18:50+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T05:23:09+09:00",
-      "updateStatus": "published",
-      "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     },
     {
       "primaryCategory": "japanese-literature",
@@ -905,13 +905,13 @@
       "reading": "げんじものがたり",
       "author": "紫式部",
       "url": "https://star-japan.github.io/ai-zukan/#/article/genjimonogatari",
-      "revision": "9d975067b00742c0c0405dd31983e046d2f4169c6b41a2fab42ec27f28bd3aaf",
+      "revision": "6b5ea66d7dee729fe76a7ae635e4936cfe5cc84c8e13cba22da5822375e3bc46",
       "firstPublishedAt": "2026-11-02T04:18:50+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T04:18:50+09:00",
-      "updateStatus": "published",
-      "changeNote": "作品全体の性格と確認した原典の範囲を明示した古典ガイドを追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     },
     {
       "primaryCategory": "japanese-literature",
