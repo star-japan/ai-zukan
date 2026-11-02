@@ -1850,12 +1850,44 @@
       "primaryCategory": "literature",
       "genreLabel": "日本文学・詩",
       "revision": "0632bc9e3ad00515f34f4ac62154ccfc24db37776df9f777bafd734f46dfa817",
+      "firstPublishedAt": "2026-11-03T03:17:38+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T03:17:38+09:00",
+      "updateStatus": "published",
+      "changeNote": "採用原典の該当全節を確認した独自解説、人物紹介と本文3場面を追加。"
+    },
+    {
+      "id": "tsuru-no-ongaeshi",
+      "title": "鶴の恩返し（グリフィス再話版）",
+      "reading": "つるのおんがえし",
+      "author": "ウィリアム・エリオット・グリフィス（再話）",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/tsuru-no-ongaeshi",
+      "primaryCategory": "folktale",
+      "genreLabel": "日本の昔話・英語再話版",
+      "revision": "b116e55f143a7080b9a19c28c823d8d7b540358179110f30329555edd202b972",
       "firstPublishedAt": null,
       "firstPublishedDate": null,
       "firstPublishedPrecision": "unknown",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "採用原典の該当全節を確認した独自解説、人物紹介と本文3場面を追加。"
+      "changeNote": "採用原著の全文を確認した独自解説、人物紹介と本文3場面を追加。"
+    },
+    {
+      "id": "william-elliot-griffis",
+      "title": "ウィリアム・エリオット・グリフィス",
+      "reading": "うぃりあむえりおっとぐりふぃす",
+      "author": "",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/william-elliot-griffis",
+      "primaryCategory": "person",
+      "genreLabel": "人物",
+      "revision": "69ae5b681df444c489b27f6f3afbef38f25a3840de854feebdd165c6f147a9d8",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
     }
   ]
 }
