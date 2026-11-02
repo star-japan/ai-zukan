@@ -215,13 +215,13 @@
       "reading": "おじいさんのランプ",
       "author": "新美南吉",
       "url": "https://star-japan.github.io/ai-zukan/#/article/lamp",
-      "revision": "5bc342a40434224531762c0280cb492e21e4e870ce4f1c59e4067ff688870799",
+      "revision": "356c1033df5c0ee5f4dfac475ae993fdaef3b357bb7dc4254864d580119cab63",
       "firstPublishedAt": "2026-11-01T21:39:36+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T02:46:31+09:00",
-      "updateStatus": "published",
-      "changeNote": "原典の該当箇所を再確認し、人物の指示対象と難しい表現を明確化。",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学"
     },
@@ -749,8 +749,8 @@
       "firstPublishedAt": "2026-11-02T01:33:55+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T09:28:40+09:00",
+      "updateStatus": "published",
       "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     },
     {
