@@ -1040,6 +1040,22 @@
       "updatedAt": "2026-11-02T17:41:19+09:00",
       "updateStatus": "published",
       "changeNote": "第一フォリオ本文の全5幕を確認した独自解説、人物紹介と本文3場面を追加。"
+    },
+    {
+      "id": "tom-sawyer",
+      "title": "トム・ソーヤーの冒険",
+      "reading": "とむそーやーのぼうけん",
+      "author": "マーク・トウェイン",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/tom-sawyer",
+      "primaryCategory": "world-literature",
+      "genreLabel": "海外文学",
+      "revision": "3a11a61652b67b8e8e0a5b7ee7f42896c87b2634387f53afd048aaa6c5b70f5d",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "英語原典の全35章と結語を確認した独自解説、人物紹介と本文3場面を追加。"
     }
   ]
 }
