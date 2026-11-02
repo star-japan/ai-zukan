@@ -459,8 +459,8 @@
       "firstPublishedAt": "2026-11-02T00:30:34+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T11:41:13+09:00",
+      "updateStatus": "published",
       "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学"
@@ -683,8 +683,8 @@
       "firstPublishedAt": "2026-11-02T01:21:44+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T11:41:13+09:00",
+      "updateStatus": "published",
       "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。",
       "primaryCategory": "world-fairytale",
       "genreLabel": "世界の童話 · アンデルセン童話"
@@ -717,8 +717,8 @@
       "firstPublishedAt": "2026-11-02T01:27:11+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T11:41:13+09:00",
+      "updateStatus": "published",
       "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
     },
     {
