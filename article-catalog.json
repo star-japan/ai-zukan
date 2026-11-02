@@ -555,8 +555,8 @@
       "firstPublishedAt": "2026-11-02T00:53:56+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T14:44:39+09:00",
+      "updateStatus": "published",
       "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。",
       "primaryCategory": "world-fairytale",
       "genreLabel": "世界の童話 · グリム童話"
@@ -921,13 +921,13 @@
       "reading": "たけくらべ",
       "author": "樋口一葉",
       "url": "https://star-japan.github.io/ai-zukan/#/article/takekurabe",
-      "revision": "95354f4a5b8ec8d1536a246b82f1fd926a9e25ec05f5a6c2c1dcaa08cb69e442",
+      "revision": "b6284805752a35ffd979b32cc0d1b766e03d08762ed597d4110098fd329307d6",
       "firstPublishedAt": "2026-11-02T04:27:35+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T05:02:36+09:00",
-      "updateStatus": "published",
-      "changeNote": "序盤の美登利と正太郎の相談場面を追加し、要約途中の挿絵を3枚に。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     },
     {
       "primaryCategory": "japanese-literature",
@@ -937,13 +937,13 @@
       "reading": "にごりえ",
       "author": "樋口一葉",
       "url": "https://star-japan.github.io/ai-zukan/#/article/nigorie",
-      "revision": "d9a1a710622c85f9cfb01cfd483d76aca0161ae90b4d2e001a5408ecb67ca76b",
+      "revision": "43cba1201a8bf420c32d345579f3071701158a414db4ddccd75bb61ea653a1d6",
       "firstPublishedAt": "2026-11-02T04:27:35+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T05:23:09+09:00",
-      "updateStatus": "published",
-      "changeNote": "要約の場面に沿う途中の挿絵を増やし、人物の位置と役割を視覚的に補助。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     },
     {
       "primaryCategory": "world-literature",
