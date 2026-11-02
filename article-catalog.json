@@ -651,8 +651,8 @@
       "firstPublishedAt": "2026-11-02T01:08:10+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T10:53:25+09:00",
+      "updateStatus": "published",
       "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。",
       "primaryCategory": "world-fairytale",
       "genreLabel": "世界の童話 · グリム童話"
@@ -765,8 +765,8 @@
       "firstPublishedAt": "2026-11-02T01:33:55+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T10:53:25+09:00",
+      "updateStatus": "published",
       "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
     },
     {
@@ -953,13 +953,13 @@
       "reading": "くりすますきゃろる",
       "author": "チャールズ・ディケンズ",
       "url": "https://star-japan.github.io/ai-zukan/#/article/christmas-carol",
-      "revision": "6fcd43b7b09b12b9ee048e0855b20d14d74e42e3a5f79223b813901da48f89b6",
+      "revision": "763ac1751515808fc02ece4ca0705c929b8cdc5d7b09e76f778010728668bbbb",
       "firstPublishedAt": "2026-11-02T04:57:05+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T05:02:36+09:00",
-      "updateStatus": "published",
-      "changeNote": "家族の挿絵を、原作に合わせて背もたれのない小さな腰掛けへ修正。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
     },
     {
       "primaryCategory": "world-literature",
@@ -969,13 +969,13 @@
       "reading": "あかげくみあい",
       "author": "アーサー・コナン・ドイル",
       "url": "https://star-japan.github.io/ai-zukan/#/article/redheadedleague",
-      "revision": "708d0aa6e00e0de3388ed0e1ba7f2fbbc8b3c195a4c1d3c724823cf212a06042",
+      "revision": "b5a1890873dc24abe5980bd6f65e761a139c5ac8f578a6bb213c2ae1298000e2",
       "firstPublishedAt": "2026-11-02T04:57:05+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T04:57:05+09:00",
-      "updateStatus": "published",
-      "changeNote": "英語原典全文を確認し、人物と出来事の流れが分かるガイドと途中の挿絵を追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
     }
   ]
 }

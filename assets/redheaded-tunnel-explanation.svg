@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">赤毛組合の企みを示す模式図</title><desc id="desc">組合の仕事で質屋の店主が不在の間に、助手たちは質屋の地下室から銀行の地下室へ通路を掘っていた。実測の建物配置ではない。</desc>
+<rect width="1200" height="800" rx="32" fill="#f7f0df"/>
+<g font-family="sans-serif" text-anchor="middle" fill="#263b48">
+<rect x="48" y="34" width="1104" height="110" rx="22" fill="#e8d8ae"/>
+<text x="600" y="108" font-size="58" font-weight="bold">店主は組合の仕事で不在</text>
+<path d="M68 332L310 184 552 332" fill="#c78160" stroke="#724f3d" stroke-width="12" stroke-linejoin="round"/>
+<rect x="90" y="332" width="440" height="168" rx="8" fill="#fffaf0" stroke="#724f3d" stroke-width="12"/>
+<text x="310" y="442" font-size="72" font-weight="bold">質屋</text>
+<path d="M660 308L880 192 1100 308Z" fill="#7e9fa3" stroke="#45666d" stroke-width="12" stroke-linejoin="round"/>
+<rect x="660" y="332" width="440" height="168" rx="8" fill="#f4faf7" stroke="#45666d" stroke-width="12"/>
+<text x="880" y="442" font-size="72" font-weight="bold">銀行</text>
+<path d="M40 510H1160" stroke="#9b8b6d" stroke-width="12"/>
+<rect x="40" y="516" width="1120" height="246" rx="16" fill="#ded3bb"/>
+<rect x="90" y="540" width="440" height="116" rx="18" fill="#fffaf0" stroke="#724f3d" stroke-width="8"/>
+<rect x="660" y="540" width="440" height="116" rx="18" fill="#f4faf7" stroke="#45666d" stroke-width="8"/>
+<text x="310" y="615" font-size="54">質屋の地下室</text>
+<text x="880" y="615" font-size="54">銀行の地下室</text>
+<path d="M310 660V712H880V676" fill="none" stroke="#9a6848" stroke-width="22" stroke-linejoin="round"/>
+<path d="M858 691L880 663 902 691" fill="none" stroke="#9a6848" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="434" y="666" width="330" height="82" rx="14" fill="#f7f0df"/>
+<text x="600" y="725" font-size="55" font-weight="bold">地下通路</text>
+</g></svg>
