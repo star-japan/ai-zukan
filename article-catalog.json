@@ -171,8 +171,8 @@
       "firstPublishedAt": "2026-11-01T20:38:07+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T09:15:31+09:00",
+      "updateStatus": "published",
       "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学"
@@ -729,13 +729,13 @@
       "reading": "かぐやひめ",
       "author": "原作者不詳／和田万吉・再話",
       "url": "https://star-japan.github.io/ai-zukan/#/article/kaguyahime",
-      "revision": "4c6326df5c727fd8544221349cd97e760e2773acc1567ed17a17804175ea87e9",
+      "revision": "26fbaf9629075487a8b739676ebbfc2df8ac6c03eddc3a9321652a311cb7ea5c",
       "firstPublishedAt": "2026-11-02T01:33:55+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T01:33:55+09:00",
-      "updateStatus": "published",
-      "changeNote": "参照する再話・採集版を明示した昔話のフルガイドを追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
     },
     {
       "primaryCategory": "world-fairytale",
