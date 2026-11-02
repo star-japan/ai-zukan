@@ -443,8 +443,8 @@
       "firstPublishedAt": "2026-11-02T00:06:05+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-02T10:14:03+09:00",
+      "updateStatus": "published",
       "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学"
@@ -745,13 +745,13 @@
       "reading": "しらゆきひめ",
       "author": "グリム兄弟／採集・編纂",
       "url": "https://star-japan.github.io/ai-zukan/#/article/snow-white",
-      "revision": "c83efedd0d084ee913d801c436d81c2f47dcadf2fa4753fb206d00d689fda349",
+      "revision": "57aec5ee1b095f15286593e5b784a588d2dfdc794c3c699412c31ec933d0d287",
       "firstPublishedAt": "2026-11-02T01:33:55+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T09:28:40+09:00",
-      "updateStatus": "published",
-      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
     },
     {
       "primaryCategory": "world-fairytale",
@@ -777,13 +777,13 @@
       "reading": "はだかのおうさま",
       "author": "ハンス・クリスチャン・アンデルセン",
       "url": "https://star-japan.github.io/ai-zukan/#/article/emperors-new-clothes",
-      "revision": "d823d277ea8e88bd89000a2456e7afbb05bf26f05109906220f61ab5dcea3908",
+      "revision": "72cc5533fe6aa2e5de57589ff66cca16ccbf1941d0931b31ede93c5dee1ac63f",
       "firstPublishedAt": "2026-11-02T01:33:55+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T09:04:18+09:00",
-      "updateStatus": "published",
-      "changeNote": "先頭の登場人物を顔と名前で紹介。原典の人物像と本文場面の対応を確認。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。"
     },
     {
       "id": "shakespeare",
