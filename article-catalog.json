@@ -2250,11 +2250,11 @@
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学・童話",
       "revision": "1cc045e25fda741a476ca3d4e7a51671492038e7df4868a4b71ea8d181da96ef",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-03T11:05:14+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T11:05:14+09:00",
+      "updateStatus": "published",
       "changeNote": "原典全本文を確認した独自解説と創作挿絵を追加。"
     }
   ]
