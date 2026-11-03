@@ -2286,13 +2286,13 @@
       "url": "https://star-japan.github.io/ai-zukan/#/article/yamanaka-shinya",
       "primaryCategory": "person",
       "genreLabel": "人物・科学",
-      "revision": "c4912e4248feb06c692ec029a481dfcd5c4dd8d8931fa3198cfc98869d5782ae",
+      "revision": "825bfdfc04167426689660a221810f4aecac8e2581598cbaedaa51c92a783f32",
       "firstPublishedAt": "2026-11-03T11:32:29+09:00",
       "firstPublishedDate": "2026-11-03",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-03T12:11:48+09:00",
-      "updateStatus": "published",
-      "changeNote": "本文の節ごとの出典表示を末尾へ集約し、重複URLを整理。本文・図・根拠データは維持。",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "医師経験から研究へつながる導入と、iPS・核・DNAの初出説明を読みやすく整理。",
       "updateHistory": [
         {
           "updatedAt": "2026-11-03T12:01:38+09:00",
@@ -2303,6 +2303,11 @@
           "updatedAt": "2026-11-03T12:07:26+09:00",
           "changeNote": "細胞・核・DNA、初期化とゲノム編集、ES/iPSの出発点を補う模式図3点を追加。",
           "revision": "c1fa3b13ac2b0e00b645dea70e9567ca2c7afb430245c4cce303dc69b264c2ba"
+        },
+        {
+          "updatedAt": "2026-11-03T12:11:48+09:00",
+          "changeNote": "本文の節ごとの出典表示を末尾へ集約し、重複URLを整理。本文・図・根拠データは維持。",
+          "revision": "c4912e4248feb06c692ec029a481dfcd5c4dd8d8931fa3198cfc98869d5782ae"
         }
       ]
     },
