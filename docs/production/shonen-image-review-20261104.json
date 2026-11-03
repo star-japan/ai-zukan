@@ -1,0 +1,76 @@
+{
+  "articleId": "shonen-tanteidan",
+  "checkedAt": "2026-11-04T05:35:11+09:00",
+  "basePRHead": "69c45894e0d29b991674e1c32be7caefb2125aae",
+  "originalRights": "日本で2015年12月31日満了、原作と現代の素材の権利を区別。新しい翻訳なし。",
+  "sourceCard": "https://www.aozora.gr.jp/cards/001779/card56669.html",
+  "originalImage": {
+    "original": "generated_images/exec-822f4557-db74-4fda-9220-befc7c167f6b.png",
+    "public": "assets/shonen-tanteidan-editorial-v01.webp",
+    "originalSha256": "b39d854938d00230eb7a602384b9854b15a0e2770adb21cce9dd464802b5f2e1",
+    "publicSha256": "bca93f935e87e754dfad0924efd62a3423ea702a6ff0c1542edfa3521cd9ba3c",
+    "publicBytes": 518028,
+    "width": 1536,
+    "height": 1024,
+    "alt": "春の夕暮れの路地。木の板塀と街灯の明かりが続き、手前の地面に鈍い銀灰色の小さな円盤が置かれている。",
+    "caption": "導入の路地と手掛かりの描写から着想したAI生成の独自挿絵。街並み、桜、光や円盤の配置・大きさは創作です。原作のバッジの正確な復元ではなく、文字を省いています。",
+    "promptSummary": "春の夕暮れの古い日本の住宅街、板塀と街灯、小さな無文字の銀灰色の円盤。水彩とガッシュ、質感・奥行き・照明。人物・人影・怪物・BD・文字・貨幣表示・ロゴ・既存書影模倣なし。独自構成。",
+    "tool": "built-in image_gen",
+    "rightsReview": "既存の書影・映画・挿絵を参照画像に使用せず独自生成。全第三者作品との非類似を保証する調査ではない。"
+  },
+  "team": [
+    {
+      "role": "統括",
+      "work": "最新版・原稿照合、画像生成・実見、組込み・統合",
+      "status": "completed"
+    },
+    {
+      "role": "補助1",
+      "work": "main/PR/catalog/Library下書きと候補一覧照合",
+      "status": "completed"
+    },
+    {
+      "role": "補助2",
+      "work": "手掛かりの原文再確認とPNG/WebP実見、本文整合とネタバレ確認",
+      "status": "completed"
+    },
+    {
+      "role": "補助3",
+      "work": "画像HTML/native静的QA・旧データと描画の回帰検証",
+      "status": "completed"
+    }
+  ],
+  "validation": {
+    "oldSavedArticles": 160,
+    "oldRenderedArticles": 158,
+    "allOldDataAndRenderedHTMLUnchanged": true,
+    "newSavedArticles": 161,
+    "newRenderedArticles": 159,
+    "hiddenArticlesRetained": true,
+    "bodyParagraphs": 16,
+    "peopleReadings": 5,
+    "spoilerInitiallyClosed": true,
+    "publicCatalog": 153,
+    "publicCatalogChanged": false,
+    "realBrowserVerified": false
+  },
+  "remaining": [
+    "1937初出誌・1987底本現物との対校と版差確認",
+    "実ブラウザー表示・操作確認",
+    "新規公開の承認確認"
+  ],
+  "publication": {
+    "status": "draft",
+    "firstPublishedAt": null
+  },
+  "sourceReview": {
+    "range": [
+      0,
+      1389
+    ],
+    "lines": 1390,
+    "headings": 24,
+    "missingLines": 0,
+    "method": "前回2026年11月4日04:30に抽出本文を前後半で分担通読。今回それを全篇再通読したと上乗せしない。"
+  }
+}
