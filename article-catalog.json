@@ -2256,6 +2256,22 @@
       "updatedAt": "2026-11-03T11:05:14+09:00",
       "updateStatus": "published",
       "changeNote": "原典全本文を確認した独自解説と創作挿絵を追加。"
+    },
+    {
+      "id": "yamanaka-shinya",
+      "title": "山中伸弥",
+      "reading": "やまなかしんや",
+      "author": "",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/yamanaka-shinya",
+      "primaryCategory": "person",
+      "genreLabel": "人物・科学",
+      "revision": "a763861006ff0f091c3bff2f8c99888f12c4757dfb9f398f31a4e13c24bcc0aa",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "ノーベル賞受賞研究とiPS細胞を説明する一次資料に基づく解説・模式図3点を追加。"
     }
   ]
 }
