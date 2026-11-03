@@ -2106,11 +2106,11 @@
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学・詩集",
       "revision": "e00a17d95e8857d5d6c289930db4d40923a37281ae1520b591f6417211199ad7",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-03T10:01:52+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T10:01:52+09:00",
+      "updateStatus": "published",
       "changeNote": "採用原典の該当全節を確認した独自解説、人物紹介と本文3場面を追加。"
     },
     {
@@ -2122,11 +2122,11 @@
       "primaryCategory": "person",
       "genreLabel": "人物",
       "revision": "d7b59f1f05467295eaac1fc8fc9ee3d32982505707bedafe7117bbe51b7934ac",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-03T10:01:52+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T10:01:52+09:00",
+      "updateStatus": "published",
       "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
     },
     {
@@ -2138,11 +2138,11 @@
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本の創作童話",
       "revision": "633a880f138cd00b04549c46607b4cdbf4c01cb6fe55e908b7c71ed8aec9e8ce",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-03T10:01:52+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T10:01:52+09:00",
+      "updateStatus": "published",
       "changeNote": "採用原典の該当全節を確認した独自解説、人物紹介と本文3場面を追加。"
     },
     {
@@ -2154,11 +2154,11 @@
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本の創作童話",
       "revision": "569c9b5016a9cc0a083a4d18c67b08617b687d5e55bc1abd3a93cffcbe421efc",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-03T10:01:52+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T10:01:52+09:00",
+      "updateStatus": "published",
       "changeNote": "採用原典の該当全節を確認した独自解説、人物紹介と本文3場面を追加。"
     }
   ]
