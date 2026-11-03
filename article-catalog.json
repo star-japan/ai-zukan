@@ -2508,6 +2508,21 @@
       "updatedAt": "2026-11-03T15:52:35+09:00",
       "updateStatus": "published",
       "changeNote": "測定条件を分けた医療ドローン比較記事と説明図3点を追加。"
+    },
+    {
+      "id": "cherry-tree-homecoming",
+      "title": "海をわたった桜、枝になって里帰り",
+      "reading": "うみをわたったさくら、えだになってさとがえり",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/cherry-tree-homecoming",
+      "primaryCategory": "region",
+      "genreLabel": "地域文化",
+      "revision": "092840978b4ef5cee62f9dc375a2a88d985ec657718138f9da13a0ce7670ecf3",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "桜の贈呈と枝の返送をたどる記事と説明図3点を追加。"
     }
   ]
 }
