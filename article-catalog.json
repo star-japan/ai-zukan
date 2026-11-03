@@ -2176,6 +2176,38 @@
       "updatedAt": "2026-11-03T10:13:12+09:00",
       "updateStatus": "published",
       "changeNote": "原典の全文を確認した独自解説、人物紹介4点と本文3場面を追加。"
+    },
+    {
+      "id": "onnarashisa-toha-nanika",
+      "title": "「女らしさ」とは何か",
+      "reading": "おんならしさとはなにか",
+      "author": "与謝野晶子",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/onnarashisa-toha-nanika",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学・評論",
+      "revision": "2bfa0a9b5f4ea3912a45826f11354be251b1a094255f01be4bc7555c2cafa6cb",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "原典の全文を確認した評論解説と、論点を整理する説明図3点を追加。"
+    },
+    {
+      "id": "yosano-akiko",
+      "title": "与謝野晶子",
+      "reading": "よさのあきこ",
+      "author": "",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/yosano-akiko",
+      "primaryCategory": "person",
+      "genreLabel": "人物",
+      "revision": "daa2c22e345a395e973ee9ab88f683f87ee8e9489a5852f9072238e233eb659b",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
     }
   ]
 }
