@@ -2041,13 +2041,13 @@
       "url": "https://star-japan.github.io/ai-zukan/#/article/kaze-tachinu",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学・小説",
-      "revision": "36f81945b1c4365f609a57feb2a3624408731c98c4b2a1e19dd856ca72b53f77",
+      "revision": "7964a61c7bf340ee0cd3b6aa33934908b65d8f022456efcb9d3985886a7f56db",
       "firstPublishedAt": "2026-11-03T04:30:35+09:00",
       "firstPublishedDate": "2026-11-03",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-03T04:30:35+09:00",
-      "updateStatus": "published",
-      "changeNote": "採用原典の該当全節を確認した独自解説、人物紹介と本文3場面を追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "物語上の人物4人の顔付き紹介を補完。実作者や実在モデルの肖像ではないことを明記。"
     },
     {
       "id": "hori-tatsuo",
@@ -2186,11 +2186,11 @@
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学・評論",
       "revision": "2bfa0a9b5f4ea3912a45826f11354be251b1a094255f01be4bc7555c2cafa6cb",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-03T10:21:12+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T10:21:12+09:00",
+      "updateStatus": "published",
       "changeNote": "原典の全文を確認した評論解説と、論点を整理する説明図3点を追加。"
     },
     {
@@ -2202,11 +2202,11 @@
       "primaryCategory": "person",
       "genreLabel": "人物",
       "revision": "daa2c22e345a395e973ee9ab88f683f87ee8e9489a5852f9072238e233eb659b",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-03T10:21:12+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T10:21:12+09:00",
+      "updateStatus": "published",
       "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
     }
   ]
