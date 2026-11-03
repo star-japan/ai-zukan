@@ -2326,11 +2326,11 @@
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学・小説",
       "revision": "531577efceba1e79489b406dbd68a11dd04014b6796670e77b90b4685314c51f",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-03T12:24:39+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T12:24:39+09:00",
+      "updateStatus": "published",
       "changeNote": "原典全文を確認した独自解説、人物紹介5項目と本文5場面を追加。"
     },
     {
@@ -2342,12 +2342,28 @@
       "primaryCategory": "person",
       "genreLabel": "人物",
       "revision": "d99178661cfce65ad6863b2c44081f43c74badc27f032e6d51580216f32010ad",
+      "firstPublishedAt": "2026-11-03T12:24:39+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T12:24:39+09:00",
+      "updateStatus": "published",
+      "changeNote": "公式資料に基づく小林多喜二の人物紹介を追加。本人肖像は未掲載。"
+    },
+    {
+      "id": "ningen-isu",
+      "title": "人間椅子",
+      "reading": "にんげんいす",
+      "author": "江戸川乱歩",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/ningen-isu",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学・短編小説",
+      "revision": "94b3e3efb72d36f23eb0368b5079023919bdfb30a9f5ddff05b39c96038bfd05",
       "firstPublishedAt": null,
       "firstPublishedDate": null,
       "firstPublishedPrecision": "unknown",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "公式資料に基づく小林多喜二の人物紹介を追加。本人肖像は未掲載。"
+      "changeNote": "原典全文を確認した独自解説、人物紹介3項目と本文4場面を追加。"
     }
   ]
 }
