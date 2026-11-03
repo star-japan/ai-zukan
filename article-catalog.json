@@ -2417,6 +2417,22 @@
       "updatedAt": "2026-11-03T13:22:42+09:00",
       "updateStatus": "published",
       "changeNote": "原典全文を確認した独自解説、人物紹介8項目と本文6場面を追加。"
+    },
+    {
+      "id": "yabunonaka",
+      "title": "藪の中",
+      "reading": "やぶのなか",
+      "author": "芥川龍之介",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/yabunonaka",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学・短編小説",
+      "revision": "28adda9d9a41177e61fb03183c3850e4e2a5564986e7475cee952308c13b0f54",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "原典全文を確認した独自解説、人物紹介8項目と本文4場面を追加。"
     }
   ]
 }
