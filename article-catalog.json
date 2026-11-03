@@ -2502,11 +2502,11 @@
       "primaryCategory": "science",
       "genreLabel": "技術・くらべて考える",
       "revision": "bb0ab39a35b5286ff7fa6b0b234e7696e2576d322ce0873150eee8dfa1b9c358",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-03T15:52:35+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T15:52:35+09:00",
+      "updateStatus": "published",
       "changeNote": "測定条件を分けた医療ドローン比較記事と説明図3点を追加。"
     }
   ]
