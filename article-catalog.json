@@ -2224,6 +2224,22 @@
       "updatedAt": "2026-11-03T10:35:15+09:00",
       "updateStatus": "published",
       "changeNote": "原典全六節を確認した独自解説、人物・存在9組と本文3場面を追加。"
+    },
+    {
+      "id": "otsugomori",
+      "title": "大つごもり",
+      "reading": "おおつごもり",
+      "author": "樋口一葉",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/otsugomori",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学・短編小説",
+      "revision": "6a32cd237e82ee0be714fc730eb1f4443b931ad2cf59a52a88df78c2f0f68957",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "原典上下を確認した独自解説、人物7人と本文3場面を追加。"
     }
   ]
 }
