@@ -2265,13 +2265,29 @@
       "url": "https://star-japan.github.io/ai-zukan/#/article/yamanaka-shinya",
       "primaryCategory": "person",
       "genreLabel": "人物・科学",
-      "revision": "a763861006ff0f091c3bff2f8c99888f12c4757dfb9f398f31a4e13c24bcc0aa",
+      "revision": "4781d9ff900a4b50fd0ad671b6cdc889e8f15a6abde25dfe083f6acba13cd740",
       "firstPublishedAt": "2026-11-03T11:32:29+09:00",
       "firstPublishedDate": "2026-11-03",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-03T11:32:29+09:00",
-      "updateStatus": "published",
-      "changeNote": "ノーベル賞受賞研究とiPS細胞を説明する一次資料に基づく解説・模式図3点を追加。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "重複する読み仮名・資料名を整理し、iPSの正式名と発音・用語の平易な説明を追加。"
+    },
+    {
+      "id": "shayo",
+      "title": "斜陽",
+      "reading": "しゃよう",
+      "author": "太宰治",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/shayo",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学・長編小説",
+      "revision": "38743f0205d1c3289248fa34fa7789cdbc925bf3975127b158e38a3bc56ab5d5",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "原典全八章を確認した独自解説、主要人物5人と本文5場面を追加。"
     }
   ]
 }
