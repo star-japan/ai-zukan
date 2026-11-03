@@ -2269,8 +2269,8 @@
       "firstPublishedAt": "2026-11-03T11:32:29+09:00",
       "firstPublishedDate": "2026-11-03",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-03T12:11:48+09:00",
+      "updateStatus": "published",
       "changeNote": "本文の節ごとの出典表示を末尾へ集約し、重複URLを整理。本文・図・根拠データは維持。",
       "updateHistory": [
         {
@@ -2316,6 +2316,38 @@
       "updatedAt": "2026-11-03T12:07:26+09:00",
       "updateStatus": "published",
       "changeNote": "原典全本文を確認した独自解説、人物紹介9項目と本文5場面を追加。"
+    },
+    {
+      "id": "kanikosen",
+      "title": "蟹工船",
+      "reading": "かにこうせん",
+      "author": "小林多喜二",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/kanikosen",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学・小説",
+      "revision": "531577efceba1e79489b406dbd68a11dd04014b6796670e77b90b4685314c51f",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "原典全文を確認した独自解説、人物紹介5項目と本文5場面を追加。"
+    },
+    {
+      "id": "kobayashi-takiji",
+      "title": "小林多喜二",
+      "reading": "こばやしたきじ",
+      "author": "",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/kobayashi-takiji",
+      "primaryCategory": "person",
+      "genreLabel": "人物",
+      "revision": "d99178661cfce65ad6863b2c44081f43c74badc27f032e6d51580216f32010ad",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "公式資料に基づく小林多喜二の人物紹介を追加。本人肖像は未掲載。"
     }
   ]
 }
