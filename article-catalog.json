@@ -391,15 +391,22 @@
       "reading": "なつめそうせき",
       "author": "",
       "url": "https://star-japan.github.io/ai-zukan/#/article/soseki",
-      "revision": "a901c8f78c3c400bccf4fd244b7442c920610636973f2fbc80c36b605bf68497",
+      "revision": "0dbc98900d7a4778cced3253839339a03352d30eeefd383443de3e8ba5bdbafa",
       "firstPublishedAt": "2026-11-01T22:59:19+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T00:30:34+09:00",
-      "updateStatus": "published",
-      "changeNote": "人物イラストの創作性と写真ではないことの説明を明確化。",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "人物説明を補う独自の年表・刊行比較図を追加。既存本文と肖像説明は維持。",
       "primaryCategory": "person",
-      "genreLabel": "人物"
+      "genreLabel": "人物",
+      "updateHistory": [
+        {
+          "updatedAt": "2026-11-02T00:30:34+09:00",
+          "changeNote": "人物イラストの創作性と写真ではないことの説明を明確化。",
+          "revision": "a901c8f78c3c400bccf4fd244b7442c920610636973f2fbc80c36b605bf68497"
+        }
+      ]
     },
     {
       "id": "kenji",
@@ -407,15 +414,22 @@
       "reading": "みやざわけんじ",
       "author": "",
       "url": "https://star-japan.github.io/ai-zukan/#/article/kenji",
-      "revision": "d322917411b299515778fdedde8a17ba26d46cc3e458d793f552b4498c42a10b",
+      "revision": "9225f12aac5ab9fb49aae78bdf0188dc491431a2d64f87bfb6729dd6102c4fe2",
       "firstPublishedAt": "2026-11-01T22:59:19+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T00:30:34+09:00",
-      "updateStatus": "published",
-      "changeNote": "人物イラストの創作性と写真ではないことの説明を明確化。",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "人物説明を補う独自の年表・刊行比較図を追加。既存本文と肖像説明は維持。",
       "primaryCategory": "person",
-      "genreLabel": "人物"
+      "genreLabel": "人物",
+      "updateHistory": [
+        {
+          "updatedAt": "2026-11-02T00:30:34+09:00",
+          "changeNote": "人物イラストの創作性と写真ではないことの説明を明確化。",
+          "revision": "d322917411b299515778fdedde8a17ba26d46cc3e458d793f552b4498c42a10b"
+        }
+      ]
     },
     {
       "id": "yamanashi",
@@ -1111,15 +1125,22 @@
       "reading": "にいみなんきち",
       "author": "",
       "url": "https://star-japan.github.io/ai-zukan/#/article/niimi-nankichi",
-      "revision": "802d57b69cf3fbea3850802da1f152c50020e407b2f84d67cf88aa14d45ee43f",
+      "revision": "a7d688a210d6274b1e2bf386b690105636ad30109cf6d0a46f5706cdd0b15e24",
       "primaryCategory": "person",
       "genreLabel": "人物",
       "firstPublishedAt": "2026-11-02T22:29:33+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T22:29:33+09:00",
-      "updateStatus": "published",
-      "changeNote": "公式資料に基づく新美南吉の人物紹介を追加。本人の肖像は未掲載。"
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "確認済みの旧写真を参考にした新美南吉のイラストを掲載し、写真ではないことと撮影情報を明記。",
+      "updateHistory": [
+        {
+          "updatedAt": "2026-11-02T22:29:33+09:00",
+          "changeNote": "公式資料に基づく新美南吉の人物紹介を追加。本人の肖像は未掲載。",
+          "revision": "802d57b69cf3fbea3850802da1f152c50020e407b2f84d67cf88aa14d45ee43f"
+        }
+      ]
     },
     {
       "id": "mori-ogai",
@@ -2358,11 +2379,11 @@
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学・短編小説",
       "revision": "94b3e3efb72d36f23eb0368b5079023919bdfb30a9f5ddff05b39c96038bfd05",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-03T12:30:02+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T12:30:02+09:00",
+      "updateStatus": "published",
       "changeNote": "原典全文を確認した独自解説、人物紹介3項目と本文4場面を追加。"
     }
   ]
