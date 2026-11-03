@@ -2401,6 +2401,22 @@
       "updatedAt": "2026-11-03T12:59:34+09:00",
       "updateStatus": "published",
       "changeNote": "原典全文を確認した独自解説、人物紹介5項目と本文4場面を追加。"
+    },
+    {
+      "id": "kusamakura",
+      "title": "草枕",
+      "reading": "くさまくら",
+      "author": "夏目漱石",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/kusamakura",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学・小説",
+      "revision": "42aa523a8f08b497602028865dfa2a9ee402d281d11c8b40ec7d565077e58d3a",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "原典全文を確認した独自解説、人物紹介8項目と本文6場面を追加。"
     }
   ]
 }
