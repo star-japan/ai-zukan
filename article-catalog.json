@@ -2443,11 +2443,11 @@
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学・小説",
       "revision": "f79be7ffad1bb3e54aa5f977a57b32ad767c0280c81318e61cc565be71b35165",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-03T14:14:26+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T14:14:26+09:00",
+      "updateStatus": "published",
       "changeNote": "原典全文を確認した独自解説、人物紹介9項目と本文6場面を追加。"
     }
   ]
