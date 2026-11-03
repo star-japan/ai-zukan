@@ -2493,36 +2493,6 @@
       "updatedAt": "2026-11-03T14:54:21+09:00",
       "updateStatus": "published",
       "changeNote": "独立資料照合済みの人物紹介と創作説明図を追加。本人の肖像は未掲載。"
-    },
-    {
-      "id": "medical-drone-rwanda-goto",
-      "title": "医療ドローンは、何の時間を減らす？",
-      "reading": "いりょうどろーんはなんのじかんをへらす",
-      "url": "https://star-japan.github.io/ai-zukan/#/article/medical-drone-rwanda-goto",
-      "primaryCategory": "science",
-      "genreLabel": "技術・くらべて考える",
-      "revision": "211c5546b011cd1fe847774e65ab70deee5a5253ecfe4789b3b82ad6a7df590b",
-      "firstPublishedAt": "2026-11-03T15:52:35+09:00",
-      "firstPublishedDate": "2026-11-03",
-      "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-03T17:15:54+09:00",
-      "updateStatus": "published",
-      "changeNote": "測定条件を分けた医療ドローン比較記事と説明図3点を追加。"
-    },
-    {
-      "id": "cherry-tree-homecoming",
-      "title": "海をわたった桜、枝になって里帰り",
-      "reading": "うみをわたったさくら、えだになってさとがえり",
-      "url": "https://star-japan.github.io/ai-zukan/#/article/cherry-tree-homecoming",
-      "primaryCategory": "region",
-      "genreLabel": "地域文化",
-      "revision": "092840978b4ef5cee62f9dc375a2a88d985ec657718138f9da13a0ce7670ecf3",
-      "firstPublishedAt": "2026-11-03T16:40:06+09:00",
-      "firstPublishedDate": "2026-11-03",
-      "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-03T16:40:06+09:00",
-      "updateStatus": "published",
-      "changeNote": "桜の贈呈と枝の返送をたどる記事と説明図3点を追加。"
     }
   ]
 }
