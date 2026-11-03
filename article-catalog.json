@@ -2265,13 +2265,20 @@
       "url": "https://star-japan.github.io/ai-zukan/#/article/yamanaka-shinya",
       "primaryCategory": "person",
       "genreLabel": "人物・科学",
-      "revision": "4781d9ff900a4b50fd0ad671b6cdc889e8f15a6abde25dfe083f6acba13cd740",
+      "revision": "c1fa3b13ac2b0e00b645dea70e9567ca2c7afb430245c4cce303dc69b264c2ba",
       "firstPublishedAt": "2026-11-03T11:32:29+09:00",
       "firstPublishedDate": "2026-11-03",
       "firstPublishedPrecision": "second",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "重複する読み仮名・資料名を整理し、iPSの正式名と発音・用語の平易な説明を追加。"
+      "changeNote": "細胞・核・DNA、初期化とゲノム編集、ES/iPSの出発点を補う模式図3点を追加。",
+      "updateHistory": [
+        {
+          "updatedAt": "2026-11-03T12:01:38+09:00",
+          "changeNote": "重複する読み仮名・資料名を整理し、iPSの正式名と発音・用語の平易な説明を追加。",
+          "revision": "4781d9ff900a4b50fd0ad671b6cdc889e8f15a6abde25dfe083f6acba13cd740"
+        }
+      ]
     },
     {
       "id": "shayo",
@@ -2282,12 +2289,28 @@
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学・長編小説",
       "revision": "38743f0205d1c3289248fa34fa7789cdbc925bf3975127b158e38a3bc56ab5d5",
+      "firstPublishedAt": "2026-11-03T12:01:38+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T12:01:38+09:00",
+      "updateStatus": "published",
+      "changeNote": "原典全八章を確認した独自解説、主要人物5人と本文5場面を追加。"
+    },
+    {
+      "id": "kaze-no-matasaburo",
+      "title": "風の又三郎",
+      "reading": "かぜのまたさぶろう",
+      "author": "宮沢賢治",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/kaze-no-matasaburo",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学（童話）",
+      "revision": "3ae35ec5b882384730efa29fb2d2c9c7e3ebb11c08a69e8485c511aa3fd9606b",
       "firstPublishedAt": null,
       "firstPublishedDate": null,
       "firstPublishedPrecision": "unknown",
       "updatedAt": null,
       "updateStatus": "pending",
-      "changeNote": "原典全八章を確認した独自解説、主要人物5人と本文5場面を追加。"
+      "changeNote": "原典全本文を確認した独自解説、人物紹介9項目と本文5場面を追加。"
     }
   ]
 }
