@@ -2517,11 +2517,11 @@
       "primaryCategory": "region",
       "genreLabel": "地域文化",
       "revision": "092840978b4ef5cee62f9dc375a2a88d985ec657718138f9da13a0ce7670ecf3",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-03T16:40:06+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T16:40:06+09:00",
+      "updateStatus": "published",
       "changeNote": "桜の贈呈と枝の返送をたどる記事と説明図3点を追加。"
     }
   ]
