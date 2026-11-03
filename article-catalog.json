@@ -2218,11 +2218,11 @@
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本の創作童話",
       "revision": "02aa5bb089937fc9c5f54e361a2e3656b674c4b6178c42fc46b65ff7c436e662",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "firstPublishedAt": "2026-11-03T10:35:15+09:00",
+      "firstPublishedDate": "2026-11-03",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-03T10:35:15+09:00",
+      "updateStatus": "published",
       "changeNote": "原典全六節を確認した独自解説、人物・存在9組と本文3場面を追加。"
     }
   ]
