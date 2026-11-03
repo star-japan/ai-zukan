@@ -2045,8 +2045,8 @@
       "firstPublishedAt": "2026-11-03T04:30:35+09:00",
       "firstPublishedDate": "2026-11-03",
       "firstPublishedPrecision": "second",
-      "updatedAt": null,
-      "updateStatus": "pending",
+      "updatedAt": "2026-11-03T10:26:10+09:00",
+      "updateStatus": "published",
       "changeNote": "物語上の人物4人の顔付き紹介を補完。実作者や実在モデルの肖像ではないことを明記。"
     },
     {
@@ -2208,6 +2208,22 @@
       "updatedAt": "2026-11-03T10:21:12+09:00",
       "updateStatus": "published",
       "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
+    },
+    {
+      "id": "inutofue",
+      "title": "犬と笛",
+      "reading": "いぬとふえ",
+      "author": "芥川龍之介",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/inutofue",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本の創作童話",
+      "revision": "02aa5bb089937fc9c5f54e361a2e3656b674c4b6178c42fc46b65ff7c436e662",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "原典全六節を確認した独自解説、人物・存在9組と本文3場面を追加。"
     }
   ]
 }
