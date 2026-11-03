@@ -2454,6 +2454,38 @@
       "updatedAt": "2026-11-03T14:14:26+09:00",
       "updateStatus": "published",
       "changeNote": "原典全文を確認した独自解説、人物紹介9項目と本文6場面を追加。"
+    },
+    {
+      "id": "kawabata-yasunari",
+      "title": "川端康成",
+      "reading": "かわばたやすなり",
+      "author": null,
+      "url": "https://star-japan.github.io/ai-zukan/#/article/kawabata-yasunari",
+      "primaryCategory": "person",
+      "genreLabel": "人物・文学",
+      "revision": "b37355d732a74dffe958226b7605bf220c291aabfa04743334c0e715f3f22f67",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "独立資料照合済みの人物紹介と創作説明図を追加。本人の肖像は未掲載。"
+    },
+    {
+      "id": "edgar-allan-poe",
+      "title": "エドガー・アラン・ポー",
+      "reading": "えどがーあらんぽー",
+      "author": null,
+      "url": "https://star-japan.github.io/ai-zukan/#/article/edgar-allan-poe",
+      "primaryCategory": "person",
+      "genreLabel": "人物・作家",
+      "revision": "6926a68d7e83a9d49a9be33e7b391fe1b7a1b165fc5d6b1b9da417f6a32b0a6a",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "独立資料照合済みの人物紹介と創作説明図を追加。本人の肖像は未掲載。"
     }
   ]
 }
