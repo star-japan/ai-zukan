@@ -2493,6 +2493,21 @@
       "updatedAt": "2026-11-03T14:54:21+09:00",
       "updateStatus": "published",
       "changeNote": "独立資料照合済みの人物紹介と創作説明図を追加。本人の肖像は未掲載。"
+    },
+    {
+      "id": "medical-drone-rwanda-goto",
+      "title": "医療ドローンは、何の時間を減らす？",
+      "reading": "いりょうどろーんはなんのじかんをへらす",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/medical-drone-rwanda-goto",
+      "primaryCategory": "science",
+      "genreLabel": "技術・くらべて考える",
+      "revision": "bb0ab39a35b5286ff7fa6b0b234e7696e2576d322ce0873150eee8dfa1b9c358",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "測定条件を分けた医療ドローン比較記事と説明図3点を追加。"
     }
   ]
 }
