@@ -23,15 +23,22 @@
       "reading": "あくたがわりゅうのすけ",
       "author": null,
       "url": "https://star-japan.github.io/ai-zukan/#/article/akutagawa",
-      "revision": "4ad7c7d48e543b0735f10db662cec80c0ae8710513f498fcf6e9392e1afd2046",
+      "revision": "cfb2bb96781dbdd078e90ca39b10987c3c3e3909c82920ab22c4397d393a792c",
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
-      "updatedAt": "2026-11-02T00:30:34+09:00",
-      "updateStatus": "published",
-      "changeNote": "人物イラストの創作性と写真ではないことの説明を明確化。",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "人物紹介の難語を平易化し、漱石との関わりの説明を確認できた資料に合わせて修正。既存出典を保持。",
       "primaryCategory": "person",
-      "genreLabel": "人物"
+      "genreLabel": "人物",
+      "updateHistory": [
+        {
+          "updatedAt": "2026-11-02T00:30:34+09:00",
+          "changeNote": "人物イラストの創作性と写真ではないことの説明を明確化。",
+          "revision": "4ad7c7d48e543b0735f10db662cec80c0ae8710513f498fcf6e9392e1afd2046"
+        }
+      ]
     },
     {
       "id": "hana",
