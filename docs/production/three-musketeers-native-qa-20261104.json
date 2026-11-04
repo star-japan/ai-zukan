@@ -1,0 +1,989 @@
+{
+  "native": {
+    "checkedAt": "2026-11-04T16:37:09+09:00",
+    "method": "offline DOM-stub JS rendering + lxml full narrative comparison + PIL PNG/WebP decoding; no browser",
+    "candidateSha256": "69c28f5b030095da037acc3f3abf8c19c2a7cc910e1881ee2fd7e9c594566b6d",
+    "standaloneSha256": "90410f18469fece8092e78ed21b00c293e8f938246998a1933a5c7277f0ce13b",
+    "paragraphsAndPeopleChecked": 66,
+    "missingNarrative": [],
+    "summaryHeadingsChecked": 13,
+    "missingSummaryHeadings": [],
+    "tableRows": [
+      {
+        "cells": [
+          "王妃から受け取った指輪",
+          "舞踏会後、青年が受け取る品。ミレディのサファイアとは別で、第38章の金策に使った指輪ではありません。第47章で、密使を送る費用を得るため売却します。"
+        ],
+        "preserved_as_labeled_paragraph": true
+      },
+      {
+        "cells": [
+          "ミレディから渡ったサファイア",
+          "青年がワルド伯になりすましていた際に受け取る品。アトスが家伝の品と認め、第38章で質入れ後に売却。売却額は合計500ピストールで、質入れの300に追加200を受け取ります。"
+        ],
+        "preserved_as_labeled_paragraph": true
+      }
+    ],
+    "sourcePeopleCount": 17,
+    "renderedPeopleCount": 17,
+    "peopleNamesEqual": true,
+    "sourcesChecked": 16,
+    "missingSources": [],
+    "summaryCollapsible": true,
+    "allDetailsClosed": true,
+    "initialSpecificSpoilerMatches": [],
+    "rubyCount": 29,
+    "rubyMissingRt": 0,
+    "image": [
+      {
+        "role": "public",
+        "path": "/workspace/scratch/880b25f3808c/integration-1630/assets/images/three-musketeers-editorial-v01.webp",
+        "bytes": 305366,
+        "sha256": "6b7e0017784e07d3f86b0641761a7133363185fdf4f8cff64de84554adce109a",
+        "pixels": [
+          1672,
+          941
+        ],
+        "format": "WEBP",
+        "decode": "pass",
+        "record_matches": true
+      },
+      {
+        "role": "original",
+        "path": "/workspace/scratch/880b25f3808c/integration-1630/assets/images/originals/three-musketeers-editorial-v01.png",
+        "bytes": 2693993,
+        "sha256": "5867dd91c2ac428b783d3d73a77d0272f3c4210c8fc2345ede5be6ea1981e6ce",
+        "pixels": [
+          1672,
+          941
+        ],
+        "format": "PNG",
+        "decode": "pass",
+        "record_matches": true
+      }
+    ],
+    "nativeImageTagMatches": true,
+    "nativeCaptionMatches": true,
+    "missingRelatedIds": [],
+    "selfLink": false,
+    "publication": {
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": null,
+      "updatedAt": "2026-11-04T16:37:01+09:00",
+      "updateStatus": "pending",
+      "changeNote": "三銃士の採用フランス語電子本文通読に基づく紹介稿を追加。未公開。"
+    },
+    "publicationPending": true,
+    "regressionPass": true,
+    "preservedBefore": 161,
+    "preservedAfter": 162,
+    "visibleBefore": 159,
+    "visibleAfter": 160,
+    "sourceReview": {
+      "checkedDate": "2026-11-04",
+      "lineRange": [
+        114,
+        14997
+      ],
+      "lineCount": 14884,
+      "chapterCount": 67,
+      "epilogueRead": true,
+      "missingLines": 0,
+      "method": "PG13951原ページ直接取得を各回の担当が分担通読し統括が統合",
+      "firstEditionCollation": false,
+      "translationAdopted": false,
+      "browserVerified": false,
+      "recordFile": "three-musketeers-native-review-record.json"
+    },
+    "editorialStatus": "draft-source-read-awaiting-edition-and-browser-review",
+    "formatTransforms": [
+      "入口の2段落はintro文字列へ連結し両方を表示",
+      "要約内の13小見出しをnative見出しへ保持。包括的なh2はアプリ標準の折り畳み案内へ置換",
+      "指輪表2行は同じ折り畳み内のラベル付き2段落へ変換。デュパン固定表は不使用",
+      "主題的リードは一覧カードgistへ保持",
+      "詳細確認履歴は専用HTMLとnative-review-record JSONへ保存。本文の出典欄には権利と未確認の要点を保持"
+    ],
+    "unverified": [
+      "actual browser layout at1440/390/320px",
+      "keyboard/click interaction",
+      "font metrics and responsive overflow",
+      "remote image loading",
+      "first-edition facsimile collation",
+      "exhaustive third-party-image rights matching"
+    ],
+    "externalWrites": false,
+    "pass": true
+  },
+  "render": {
+    "method": "offline JS syntax + sandboxed app initialisation + HTML string rendering; DOM is stubbed",
+    "html": "/workspace/scratch/880b25f3808c/integration-1630/index-three-musketeers-candidate.html",
+    "scripts_compiled": 3,
+    "item_count": 160,
+    "duplicate_ids": [],
+    "catalog_missing_ids": [],
+    "rendered": [
+      {
+        "id": "three-musketeers",
+        "characters": 18339,
+        "undefined_output": false,
+        "has_article": true,
+        "missing_related_ids": [],
+        "output": "integration-1630/qa-rendered-three-musketeers.html"
+      }
+    ],
+    "unverified": [
+      "actual DOM parsing in a browser",
+      "layout at 1440/390/320px",
+      "click/keyboard behavior",
+      "image loading",
+      "font metrics",
+      "responsive overflow"
+    ],
+    "pass": true
+  },
+  "regression": {
+    "hiddenRouteTests": [
+      {
+        "id": "medical-drone-rwanda-goto",
+        "notFound": true
+      },
+      {
+        "id": "cherry-tree-homecoming",
+        "notFound": true
+      }
+    ],
+    "hiddenListLinks": [],
+    "preservedThoughtsChanges": [],
+    "preservedPublicationChanges": [],
+    "preservedMainCount": 161,
+    "preservedCandidateCount": 162,
+    "preservationChanges": [],
+    "hiddenIds": [
+      "medical-drone-rwanda-goto",
+      "cherry-tree-homecoming"
+    ],
+    "hiddenIdsSame": true,
+    "hiddenReactivated": [],
+    "method": "offline JS execution with DOM stubs; no browser layout or interaction tested",
+    "existingCount": 159,
+    "candidateCount": 160,
+    "unchangedRendered": 159,
+    "changed": [],
+    "dataChanges": [],
+    "thoughtsChanges": [],
+    "publicationChanges": [],
+    "failures": [],
+    "new": [
+      {
+        "id": "three-musketeers",
+        "name": "三銃士",
+        "publication": {
+          "firstPublishedAt": null,
+          "firstPublishedDate": null,
+          "firstPublishedPrecision": null,
+          "updatedAt": "2026-11-04T16:37:01+09:00",
+          "updateStatus": "pending",
+          "changeNote": "三銃士の採用フランス語電子本文通読に基づく紹介稿を追加。未公開。"
+        }
+      }
+    ],
+    "results": [
+      {
+        "id": "rashomon",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "akutagawa",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "hana",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "spider",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "kawasaki",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "melos",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "restaurant",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "gongitsune",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "gloves",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "goshu",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "toshishun",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "yodaka",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "trolley",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "lamp",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "ginga",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "botchan",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "cat",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "kokoro",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "lemon",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "sangetsuki",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "yumejuya",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "takasebune",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "maihime",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "ningen",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "soseki",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "kenji",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "yamanashi",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "hitofusanobudo",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "sanshodayu",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "crimeandpunishment",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "romeoandjuliet",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "donquixote",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "happyprince",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "momotaro",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "redcap",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "orion",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "andromeda",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "aliceinwonderland",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "cinderella",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "urashimataro",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "hansel",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "uglyduckling",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "mermaid",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "wizardofoz",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "treasure-island",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "kaguyahime",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "snow-white",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "pussinboots",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "emperors-new-clothes",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "shakespeare",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "dostoevsky",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "amanoiwato",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "tanabata",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "lesmiserables",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "frankenstein",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "makuranososhi",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "genjimonogatari",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "takekurabe",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "nigorie",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "christmas-carol",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "redheadedleague",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "dazai",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "andersen",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "anne-green-gables",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "hamlet",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "tom-sawyer",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "little-princess",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "little-match-girl",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "daddy-long-legs",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "niimi-nankichi",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "mori-ogai",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "higuchi-ichiyo",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "arishima-takeo",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "kajii-motojiro",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "nakajima-atsushi",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "sei-shonagon",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "murasaki-shikibu",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "brothers-grimm",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "charles-perrault",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "miguel-de-cervantes",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "snow-queen",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "kusuyama-masao",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "oscar-wilde",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "lewis-carroll",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "l-frank-baum",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "robert-louis-stevenson",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "victor-hugo",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "mary-shelley",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "charles-dickens",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "arthur-conan-doyle",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "l-m-montgomery",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "mark-twain",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "frances-hodgson-burnett",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "jean-webster",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "wada-mankichi",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "jack-and-the-beanstalk",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "joseph-jacobs",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "pinocchio",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "carlo-collodi",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "pandora",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "hesiod",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "gakumon-no-susume",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "fukuzawa-yukichi",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "obata-tokujiro",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "utayomi-ni-atauru-sho",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "masaoka-shiki",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "time-machine",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "h-g-wells",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "oku-no-hosomichi",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "matsuo-basho",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "bushido",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "nitobe-inazo",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "ichiaku-no-suna",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "ishikawa-takuboku",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "kanashiki-gangu",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "ame-ni-mo-makezu",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "tsuru-no-ongaeshi",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "william-elliot-griffis",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "mikan",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "fugaku-hyakkei",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "imogayu",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "joseito",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "nogiku-no-haka",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "ito-sachio",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "sakura-no-ki-no-shita-niwa",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "koya-hijiri",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "izumi-kyoka",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "kaze-tachinu",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "hori-tatsuo",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "nisen-doka",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "edogawa-ranpo",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "yagi-no-uta",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "nakahara-chuya",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "ushi-o-tsunaida-tsubaki-no-ki",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "amedama",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "majutsu",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "onnarashisa-toha-nanika",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "yosano-akiko",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "inutofue",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "otsugomori",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "kyonen-no-ki",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "yamanaka-shinya",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "shayo",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "kaze-no-matasaburo",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "kanikosen",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "kobayashi-takiji",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "ningen-isu",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "jigokuhen",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "kusamakura",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "yabunonaka",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "sanshiro",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "kawabata-yasunari",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "edgar-allan-poe",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "poe-black-cat",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "poe-rue-morgue",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "poe-gold-bug",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "poe-fall-of-house-of-usher",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "kaijin-nijumenso",
+        "same": true,
+        "noUndefined": true
+      },
+      {
+        "id": "shonen-tanteidan",
+        "same": true,
+        "noUndefined": true
+      }
+    ]
+  }
+}

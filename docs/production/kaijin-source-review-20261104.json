@@ -1,0 +1,744 @@
+{
+  "schemaVersion": 1,
+  "articleId": "kaijin-nijumenso",
+  "checkedAt": "2026-11-04T03:31:12+09:00",
+  "sourceUrl": "https://www.aozora.gr.jp/cards/001779/files/57228_58735.html",
+  "method": "原ページの直接openによる番号付き抽出本文。統括が前半・中盤を取得し、後半は補助3が取得。補助3名が0–559、560–1119、1120–1670を分担通読。統括が書誌・権利根拠・境界と主要事実を照合し統合。",
+  "lineCoverage": {
+    "start": 0,
+    "end": 1670,
+    "count": 1671,
+    "missing": []
+  },
+  "chapterHeadingCount": 31,
+  "chapters": [
+    {
+      "title": "はしがき",
+      "startLine": 3,
+      "endLine": 15,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "鉄のわな",
+      "startLine": 16,
+      "endLine": 59,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "人か魔か",
+      "startLine": 60,
+      "endLine": 157,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "魔法使い",
+      "startLine": 158,
+      "endLine": 201,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "池の中",
+      "startLine": 202,
+      "endLine": 239,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "樹上の怪人",
+      "startLine": 240,
+      "endLine": 286,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "壮二君のゆくえ",
+      "startLine": 287,
+      "endLine": 316,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "少年探偵",
+      "startLine": 317,
+      "endLine": 379,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "仏像の奇跡",
+      "startLine": 380,
+      "endLine": 437,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "おとしあな",
+      "startLine": 438,
+      "endLine": 493,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "七つ道具",
+      "startLine": 494,
+      "endLine": 527,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "伝書バト",
+      "startLine": 528,
+      "endLine": 565,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "奇妙な取りひき",
+      "startLine": 566,
+      "endLine": 587,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "小林少年の勝利",
+      "startLine": 588,
+      "endLine": 638,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "おそろしき挑戦状",
+      "startLine": 639,
+      "endLine": 692,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "美術城",
+      "startLine": 693,
+      "endLine": 749,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "名探偵明智小五郎",
+      "startLine": 750,
+      "endLine": 794,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "不安の一夜",
+      "startLine": 795,
+      "endLine": 862,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "悪魔の知恵",
+      "startLine": 863,
+      "endLine": 929,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "巨人と怪人",
+      "startLine": 930,
+      "endLine": 1004,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "トランクとエレベーター",
+      "startLine": 1005,
+      "endLine": 1096,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "二十面相の逮捕",
+      "startLine": 1097,
+      "endLine": 1153,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "「わしがほんものじゃ」",
+      "startLine": 1154,
+      "endLine": 1184,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "二十面相の新弟子",
+      "startLine": 1185,
+      "endLine": 1257,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "名探偵の危急",
+      "startLine": 1258,
+      "endLine": 1305,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "怪盗の巣くつ",
+      "startLine": 1306,
+      "endLine": 1368,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "少年探偵団",
+      "startLine": 1369,
+      "endLine": 1415,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "午後四時",
+      "startLine": 1416,
+      "endLine": 1465,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "名探偵の狼藉",
+      "startLine": 1466,
+      "endLine": 1521,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "種明し",
+      "startLine": 1522,
+      "endLine": 1578,
+      "status": "continuous-read-and-draft-compared"
+    },
+    {
+      "title": "怪盗捕縛",
+      "startLine": 1579,
+      "endLine": 1670,
+      "status": "continuous-read-and-draft-compared"
+    }
+  ],
+  "reviewers": [
+    {
+      "role": "統括",
+      "scope": "取得の完全性、書誌・権利根拠、前半の帰宅と宝石奪還・後半の解決の事実、結果統合",
+      "status": "completed"
+    },
+    {
+      "role": "補助1/catalog_priority_review",
+      "scope": "最新main・PR・公開用カタログ・重複照合、L0–559連続通読と原稿照合",
+      "status": "completed"
+    },
+    {
+      "role": "補助2/poe_content_review",
+      "scope": "L560–1119連続通読と原稿照合",
+      "status": "completed"
+    },
+    {
+      "role": "補助3/local_render_qa",
+      "scope": "L1120–1670連続通読と原稿照合、更新稿の静的確認は別チェック記録",
+      "status": "completed-content-review"
+    }
+  ],
+  "findings": [
+    "壮二は家へ戻った後、小林が仏像に変装して潜入する。小林が隠れ家で壮二を救出する話とはしない。",
+    "小林の宝石回収と救援は成功するが、二十面相は警官に変装して逃れる。",
+    "日下部が依頼した明智は偽物。後に帰国した本物と対決する。",
+    "ホテルのトランク監禁計画は失敗。実際に明智が閉じ込められたとはしない。",
+    "明智は赤井寅三として潜入。誘拐対象は替え玉で、盗品の保管と部下逮捕は警察へ依頼。",
+    "壮二たちが先に少年団を作り、小林に協力を申し出る。博物館のすり替えを明智が暴き、逃走を少年団が阻む。"
+  ],
+  "draftChanges": [
+    "別枠要約の最初の段落に壮二の帰宅、小林の変装潜入と宝石回収を補い、行動主体と順序を明確化。",
+    "全文確認待ちから参照抽出本文の全章通読済へ確認段階を更新。本文の逐字対校完了とは扱わない。"
+  ],
+  "rights": {
+    "original": "日本で保護期間終了確認済。1965年没、通常の本人単独小説は2015年12月31日満了。2018年延長による復活なし。",
+    "translation": "日本語原作を使用、翻訳不使用。",
+    "edition": "1987年9月25日第1刷を底本とする青空文庫本文。1936年初出誌との異同・他者の創作的改変主体は未確認。",
+    "illustrationPhotoFilmAudio": "既存の独自AI静物画のみ。第三者素材は未確認・未使用。",
+    "trademarks": "未確認。事実上の作品名紹介に限定。",
+    "foreignRules": "日本人著者の国内小説原作。外国語訳の権利は今回対象外。"
+  },
+  "sources": [
+    {
+      "url": "https://www.aozora.gr.jp/cards/001779/card57228.html",
+      "checkedDate": "2026-11-04"
+    },
+    {
+      "url": "https://www.aozora.gr.jp/index_pages/person1779.html",
+      "checkedDate": "2026-11-04"
+    },
+    {
+      "url": "https://www.bunka.go.jp/seisaku/chosakuken/hokaisei/kantaiheiyo_chosakuken/1411890.html",
+      "checkedDate": "2026-11-04"
+    }
+  ],
+  "remaining": [
+    "1936初出誌・1987底本現物との逐字対校と版差の個別確認",
+    "実ブラウザー表示・操作の確認",
+    "新規公開の承認確認"
+  ],
+  "publication": {
+    "state": "draft",
+    "firstPublishedAt": null,
+    "catalogChanged": false,
+    "candidateColor": "black"
+  },
+  "nextCandidate": {
+    "title": "少年探偵団",
+    "articleId": "shonen-tanteidan",
+    "status": "書誌と冒頭を直接確認。全文通読・原稿制作は次工程。仮の固定IDは既存未発見で、次回最新照合後に採用。",
+    "originalStatus": "日本で原作保護期間終了確認済（乱歩単独著作の通常計算）。版の変更・挿絵・映像等は別。",
+    "cardUrl": "https://www.aozora.gr.jp/cards/001779/card56669.html",
+    "textUrl": "https://www.aozora.gr.jp/cards/001779/files/56669_58756.html",
+    "firstPublication": "少年倶楽部1937年1–12月号",
+    "edition": "怪人二十面相／少年探偵団、江戸川乱歩推理文庫、講談社1987年9月25日第1刷",
+    "translation": "不使用予定",
+    "assets": "未選定・未確認",
+    "checkedAt": "2026-11-04T03:31:12+09:00"
+  },
+  "evidenceSha256": {
+    "kaijin-front-source-lines0-559.txt": "f35d13d12699c08926666a4e121522bd1a4931accde08b383fb37440c437c679",
+    "kaijin-middle-source-lines560-1119.txt": "6b899d974b9a14b2cdffc2dce010ceb39bb72b7c6e2470f03b0f9318b7a25b1a",
+    "kaijin-late-source-lines1120-1670.txt": "6e07cfc33e266b628d0f3898a240a598027a235a96a4cbbde7d027f65dd03f34"
+  },
+  "reviewReports": [
+    {
+      "schemaVersion": 1,
+      "reviewer": "補助1/catalog_priority_review",
+      "checkedAt": "2026-11-04T03:29:00+09:00",
+      "status": "completed-assigned-range",
+      "source": {
+        "url": "https://www.aozora.gr.jp/cards/001779/files/57228_58735.html",
+        "localPath": "integration-0330/kaijin-front-source-lines0-559.txt",
+        "acquisition": "統括が原ページ直接openで取得した行番号付きテキスト抽出。補助1はローカル保存物を通読。検索索引要約だけの確認ではない。",
+        "range": [
+          0,
+          559
+        ],
+        "lineCount": 560,
+        "missingLines": [],
+        "readMethod": "0–119、120–239、240–359、360–479、480–559の分割表示をすべて実際に読了。最初の一括表示は出力が切れたため読了根拠にせず分割再読。",
+        "firstEditionFacsimileCompared": false,
+        "fullBookReadByThisReviewer": false
+      },
+      "currentDraft": {
+        "path": "integration-0330/pr-index.html",
+        "head": "c1b8799ed2b47307a9371963c14c59f7ad60814f",
+        "id": "kaijin-nijumenso",
+        "fieldsChecked": [
+          "intro",
+          "people",
+          "synopsisSummary（前半の該当部分）",
+          "analysisSections",
+          "spoilerNotes（前半で根拠のある部分）",
+          "textNote",
+          "sourceNote",
+          "editorialStatus"
+        ]
+      },
+      "chapters": [
+        {
+          "title": "はしがき",
+          "range": [
+            3,
+            15
+          ],
+          "complete": true,
+          "notes": [
+            "二十面相は変装による異名で本当の顔は不明。宝石・美術品を狙い、現金への関心は薄いと語られる。",
+            "予告状の理由は公正さ・腕前の誇示等、語り手が可能性として挙げる。心理を確定事項として書かない。",
+            "人を傷つけたことがないという導入がある一方、危機には何をするか分からないとも留保される。"
+          ],
+          "draftResult": "人物の変装・宝石美術品・予告状の説明と一致。『絶対に無害』等の断定を追加しない。"
+        },
+        {
+          "title": "鉄のわな",
+          "range": [
+            16,
+            59
+          ],
+          "complete": true,
+          "notes": [
+            "実業家羽柴壮太郎家。長男壮一の10年ぶり帰宅予告と宝石盗難予告が同時に訪れる。",
+            "対象は旧ロマノフ家由来と物語内で説明される6個のダイヤモンド、書斎の金庫に保管。",
+            "小学生壮二は夢に基づき窓下の花壇に鉄わなを仕掛ける。語り手は読者に記憶を促す。"
+          ],
+          "draftResult": "壮太郎・壮二の説明、予告状・手掛かりを覚える解説に本文根拠あり。創作挿絵の小型金庫はL102/L111でも確認。"
+        },
+        {
+          "title": "人か魔か",
+          "range": [
+            60,
+            157
+          ],
+          "complete": true,
+          "notes": [
+            "帰宅した『壮一』と父が書斎で警戒。二通目の電報が正午でなく午前零時を指定する。",
+            "父は金庫から小箱を取り出し、2人で見守る。転がる卓球球に注意が逸れる。零時後の箱は空。"
+          ],
+          "draftResult": "予告と心理、確かめたつもりになる読み方を支持。原稿は犯行方法まで一般導入に書いておらずネタバレ境界も適切。"
+        },
+        {
+          "title": "魔法使い",
+          "range": [
+            158,
+            201
+          ],
+          "complete": true,
+          "notes": [
+            "『壮一』は二十面相の変装。海外の協力者を利用した写真と手紙が仕込みで、本当の壮一はまだ行方不明。",
+            "卓球球で父の注意を逸らしダイヤを盗む。使用した銃は玩具。逃走時の窓下に鉄わな。"
+          ],
+          "draftResult": "服装・顔・名前で信じる危うさという独自解説を支持。壮一の帰国を史実・本物の帰宅として記事説明に固定しない。"
+        },
+        {
+          "title": "池の中",
+          "range": [
+            202,
+            239
+          ],
+          "complete": true,
+          "notes": [
+            "賊は鉄わなで時間を失うが脱出、庭で逃走。追っ手は池に潜んだ賊を見失う。",
+            "松野運転手が水面の竹筒と呼吸の兆候を発見し、単独で引き上げる。"
+          ],
+          "draftResult": "少年の思いつきが役立つ描写は確認。ただし危険な罠や単独追跡を現実の推奨行動として紹介しない現稿の配慮と整合。"
+        },
+        {
+          "title": "樹上の怪人",
+          "range": [
+            240,
+            286
+          ],
+          "complete": true,
+          "notes": [
+            "運転手姿の者が登校の早苗・壮二を車で連れ出す。",
+            "木上から下ろされた二十面相の服の男は、本物の松野。",
+            "犬ジョンの毒死と、その前に偽壮一が何か食べさせていたとの説明あり。"
+          ],
+          "draftResult": "変装の仕組みが服だけでも成立する局面の根拠。人に無傷という導入を動物への無害まで拡張しない。"
+        },
+        {
+          "title": "壮二君のゆくえ",
+          "range": [
+            287,
+            316
+          ],
+          "complete": true,
+          "notes": [
+            "二十面相が松野を縛り、服を交換して逃走。早苗は学校に到着、壮二だけが誘拐。",
+            "返却車の封書で、壮二を人質に観音像を要求。仏像の受け渡しは当夜22時、壮二との交換。"
+          ],
+          "draftResult": "要約の『ダイヤを奪われ、壮二も誘拐』と一致。姉も一緒に監禁されたとは書かない。"
+        },
+        {
+          "title": "少年探偵",
+          "range": [
+            317,
+            379
+          ],
+          "complete": true,
+          "notes": [
+            "早苗が明智への相談を提案。明智は重大事件で外国出張中。小林が留守中の依頼を任される。",
+            "小林芳雄は12–13歳と描写される。家族情報は実業雑誌の切り抜き帳で事前調査。",
+            "小林が羽柴に秘密計画を説明し実行を決める。ルパンへの言及は物語内の設定。"
+          ],
+          "draftResult": "導入の明智海外出張、小林が事件へ向かうという流れと一致。人物ルビは小林芳雄=こばやしよしお等を本文で確認。"
+        },
+        {
+          "title": "仏像の奇跡",
+          "range": [
+            380,
+            437
+          ],
+          "complete": true,
+          "notes": [
+            "仏像と引き換えに壮二は既に家へ戻る。小林が隠れ家から救出するのではない。",
+            "二十面相は人質交換の見届け後、老人へ変装し戸山ヶ原の古洋館へ。",
+            "運ばれた仏像が銃を向ける。"
+          ],
+          "draftResult": "現稿は小林が壮二を直接救出したとは述べておらず誤りなし。詳細追加時も救出順序を維持する。"
+        },
+        {
+          "title": "おとしあな",
+          "range": [
+            438,
+            493
+          ],
+          "complete": true,
+          "notes": [
+            "仏像に変装した小林が実弾をガラスへ撃ち、ダイヤ6個を受け取る。",
+            "二十面相は小林の正体を推測し、隠しボタンで落とし穴を開く。小林が地下へ落下。"
+          ],
+          "draftResult": "小林が宝石を一度取り返すという注記は根拠あり。二十面相がこの時点で逮捕されたとは書かない。"
+        },
+        {
+          "title": "七つ道具",
+          "range": [
+            494,
+            527
+          ],
+          "complete": true,
+          "notes": [
+            "小林はダイヤと銃を拾いカバンへ。伝書バトのピッポが無事と確認。",
+            "ライト、万能ナイフ、縄梯子、望遠鏡、時計、磁石、手帳鉛筆、銃等を説明。名称の『七つ』を厳密な現代装備リストと同一視しない。",
+            "地下の梯子は天井へ引き上げられ、逃げ出せない。"
+          ],
+          "draftResult": "前半要約の隠れ家で救援を求めるまでの因果を支持。宝石を返したのにこの段階で全て再奪取されたという記述は不可。"
+        },
+        {
+          "title": "伝書バト",
+          "range": [
+            528,
+            559
+          ],
+          "complete": false,
+          "notes": [
+            "縄梯子で地下窓へ登るが鉄格子から本人は脱出不能。窓の景色と磁石で場所を推定。",
+            "手帳に場所と監禁のことを書き、通信筒を付けたピッポを放す。",
+            "L559は警察到着への小林の期待まで。救援の実現と賊の逃走はこの担当範囲の外。"
+          ],
+          "draftResult": "要約の『外へ救援を求めます』を直接支持。伝書バト章の後半は次担当に引き継ぐ。"
+        }
+      ],
+      "findings": [
+        {
+          "severity": "none",
+          "result": "前半担当範囲に関する現稿の明白な事実誤認は発見しなかった。",
+          "scope": "要約後半・結末は本担当の根拠外"
+        },
+        {
+          "severity": "editorial-note",
+          "result": "壮二帰宅→小林の隠れ家潜入とダイヤ奪還→落下・地下監禁→ハトで救援という順序を維持する。",
+          "lines": [
+            380,
+            559
+          ]
+        },
+        {
+          "severity": "editorial-note",
+          "result": "予告状の動機は原文でも推測を含む。現稿の『相手を動かす芝居の一部として見る』は読み方の提示として妥当。",
+          "lines": [
+            12,
+            12
+          ]
+        },
+        {
+          "severity": "editorial-note",
+          "result": "『語り手が読者に覚えておいてと呼びかける』はL59/L200/L536等に明示され、解説に根拠あり。",
+          "lines": [
+            59,
+            59
+          ]
+        }
+      ],
+      "unverified": [
+        "L560以降の本担当による通読と照合",
+        "初出『少年倶楽部』誌面・初刊本画像との対校",
+        "青空文庫底本と初出の創作的改変有無",
+        "原ページのDOM・ルビ画像等の完全再現（本担当は抽出テキストを読了）",
+        "法的権利状態は今回再審査していない"
+      ],
+      "recommendedStatus": "本担当分は0–559全行読了。全書読了や初出対校完了をこの担当単独で主張しない。統括が他担当の完了結果を統合して確認範囲表示を更新する。"
+    },
+    {
+      "work": "怪人二十面相",
+      "reviewer": "補助2 / poe_content_review",
+      "status": "completed_for_assigned_contiguous_range",
+      "source_url": "https://www.aozora.gr.jp/cards/001779/files/57228_58735.html",
+      "source_type": "青空文庫原ページの直接openから統括が抽出した行番号付きテキスト。検索索引や初出誌画像ではない。",
+      "source_file": "integration-0330/kaijin-middle-source-lines560-1119.txt",
+      "source_sha256": "6b899d974b9a14b2cdffc2dce010ceb39bb72b7c6e2470f03b0f9318b7a25b1a",
+      "source_line_range": [
+        560,
+        1119
+      ],
+      "source_line_count": 560,
+      "missing_numbers": [],
+      "duplicate_number_count": 0,
+      "continuous_read_completed": true,
+      "full_work_read_completed_by_this_reviewer": false,
+      "full_read_started_at_jst": "2026-11-04T03:28:42+09:00",
+      "completed_at_jst": "2026-11-04T03:29:39+09:00",
+      "reading_method": "ローカル抽出本文を順番に分割表示して通読。最初の表示のL657付近の出力省略は、それ以前の原ページ直接取得で補完確認。番号の連続性は別途機械確認。",
+      "chapters": [
+        {
+          "start": 560,
+          "end": 565,
+          "heading": "伝書バト（末尾のみ）",
+          "finding": "鳩を飛ばした直後。二十面相に気づかれたかを小林が警戒。章前半は範囲外。",
+          "whole_chapter_contiguous_read_in_this_file": false
+        },
+        {
+          "start": 566,
+          "end": 587,
+          "heading": "奇妙な取りひき",
+          "finding": "小林は救援到着を信じ、武器と食事の交換に応じる。宝石はまだ手元に保持。",
+          "whole_chapter_contiguous_read_in_this_file": true
+        },
+        {
+          "start": 588,
+          "end": 638,
+          "heading": "小林少年の勝利",
+          "finding": "警官到着で小林を救出し、宝石6個と仏像を保全。ただし捕らえた老人の正体には疑義が残る。",
+          "whole_chapter_contiguous_read_in_this_file": true
+        },
+        {
+          "start": 639,
+          "end": 692,
+          "heading": "おそろしき挑戦状",
+          "finding": "捕らえた老人は木下虎吉。二十面相は警官に変装して逃れたと明らかになる。",
+          "whole_chapter_contiguous_read_in_this_file": true
+        },
+        {
+          "start": 693,
+          "end": 749,
+          "heading": "美術城",
+          "finding": "日下部左門の収集と警戒。11月15日夜を指定する予告、新聞記事を見て明智へ頼ろうとする。",
+          "whole_chapter_contiguous_read_in_this_file": true
+        },
+        {
+          "start": 750,
+          "end": 794,
+          "heading": "名探偵明智小五郎",
+          "finding": "谷川の釣り人へ依頼。この時点の明智は後章で偽物と判明。",
+          "whole_chapter_contiguous_read_in_this_file": true
+        },
+        {
+          "start": 795,
+          "end": 862,
+          "heading": "不安の一夜",
+          "finding": "偽明智と偽刑事3名の警備。老人が眠り、翌朝に名画がなくなっていることを発見。",
+          "whole_chapter_contiguous_read_in_this_file": true
+        },
+        {
+          "start": 863,
+          "end": 929,
+          "heading": "悪魔の知恵",
+          "finding": "偽刑事の被害者を装う演技の後、偽明智が正体を明かす。新聞記事・刑事の身分・警戒は計略の一部。",
+          "whole_chapter_contiguous_read_in_this_file": true
+        },
+        {
+          "start": 930,
+          "end": 1004,
+          "heading": "巨人と怪人",
+          "finding": "美術城事件の半月後、本物明智が東京駅着。辻野を名乗る二十面相とホテルで互いの正体を承知した対決。",
+          "whole_chapter_contiguous_read_in_this_file": true
+        },
+        {
+          "start": 1005,
+          "end": 1096,
+          "heading": "トランクとエレベーター",
+          "finding": "盗品と部下も押さえるため明智は即時逮捕を控える。小林の外部見張りでトランク監禁を回避し、エレベーター妨害も退ける。",
+          "whole_chapter_contiguous_read_in_this_file": true
+        },
+        {
+          "start": 1097,
+          "end": 1119,
+          "heading": "二十面相の逮捕（冒頭のみ）",
+          "finding": "今西刑事が外務省への電話確認を説明。明智の方針に反対し、車両追跡の手配に入る。章後半は範囲外。",
+          "whole_chapter_contiguous_read_in_this_file": false
+        }
+      ],
+      "draft_compared": "integration-0230/kaijin-nijumenso-review.html",
+      "draft_assessment": {
+        "result": "今回の中盤連続通読で要約の重大な誤りは見つからず、本文訂正不要。",
+        "confirmed": [
+          "羽柴事件で小林は宝石回収と救出に成功するが、犯人逃走を許すという記述。",
+          "日下部の頼った明智は偽物で、本物明智との対決はその後。",
+          "現行の短い要約はホテルの小事件を省略しているが、前後の順序と矛盾しない。",
+          "外見・肩書に対する信頼を問い直す読解案は、偽刑事・新聞記事・偽辻野の展開で裏づけられる。"
+        ],
+        "edits_made": []
+      },
+      "new_cautions": [
+        "美術城の見張り刑事は3人とも賊の部下。刑事が麻酔被害に遭ったという演技を、本物警官の被害と誤記しない。",
+        "新聞記事は一記者が計略に掛かったとの登場人物の説明。新聞社全体や女中を賊の共犯と断定しない。",
+        "トランクに入れる計画は実行前に阻止。明智が実際にトランク内へ閉じ込められたとはしない。",
+        "ホテル全体が一味に占拠されているわけではないとL1065が明記。",
+        "明智が逮捕を控えるのは部下・盗品も押さえる狙い。現実の犯罪対応の推奨へ一般化しない。"
+      ],
+      "unverified": [
+        "本ファイル範囲外の0〜559と1120〜1670は、この担当の今回の連続通読の対象外。過去の抜粋確認を全量精読に加算しない。",
+        "初出誌画像・底本現物との対校、1936年初出と1987年底本間の版差。",
+        "原ページの行分割・ルビ表示と底本の字面の完全な同一性。"
+      ],
+      "delegation": false,
+      "external_writes": false
+    },
+    {
+      "checked_at": "2026-11-04T03:28:13.488911+09:00",
+      "source": "https://www.aozora.gr.jp/cards/001779/files/57228_58735.html",
+      "method": "Direct original-page retrieval through web search service open; overlapping numbered extracts combined; not indexed snippet-only, raw XHTML, facsimile or 1936 first printing",
+      "range": [
+        1120,
+        1670
+      ],
+      "numbered_lines": 551,
+      "missing_numbered_lines": [],
+      "local_text": "/workspace/scratch/880b25f3808c/integration-0330/kaijin-late-source-lines1120-1670.txt",
+      "source_sha256": "6e07cfc33e266b628d0f3898a240a598027a235a96a4cbbde7d027f65dd03f34",
+      "draft_examined": "integration-0230/kaijin-nijumenso-review.html",
+      "findings": [
+        {
+          "draft_fact": "壮二たちがつくった少年探偵団が小林の指揮で捜索に参加",
+          "lines": [
+            1386,
+            1415
+          ],
+          "status": "supported",
+          "note": "小林が最初に結成したとは書かない。捜索はこの時点では手掛かりを得られない（1417-1418）。"
+        },
+        {
+          "draft_fact": "明智が賊の隠れ家へ潜入し、盗難品を取り戻す",
+          "lines": [
+            1583,
+            1597
+          ],
+          "status": "supported",
+          "note": "赤井寅三として潜入。誘拐されたのは明智の替え玉。原稿は詳細な方法を省略しているが矛盾なし。厳密には警察に部下逮捕と地下室の品の保管を依頼。"
+        },
+        {
+          "draft_fact": "博物館の館長たちへのなりすましと展示品すり替えを暴く",
+          "lines": [
+            1450,
+            1630
+          ],
+          "status": "supported",
+          "note": "職員3人は誘拐され替え玉が宿直。古材木運搬を使う犯行は現稿に追加不要。"
+        },
+        {
+          "draft_fact": "逮捕後に逃走を図る二十面相を少年団が阻む",
+          "lines": [
+            1635,
+            1670
+          ],
+          "status": "supported",
+          "note": "小林と壮二を含む少年団が取り押さえ、警官が引き渡しを受ける。"
+        },
+        {
+          "draft_fact": "予告状が人々の不安と警戒を動かす",
+          "lines": [
+            1419,
+            1449
+          ],
+          "status": "supported as interpretation",
+          "note": "新聞投書の期日・時刻予告と市民・館長・警察の描写が根拠。"
+        },
+        {
+          "draft_fact": "外見や名乗りを信用する判断が揺らぐ",
+          "lines": [
+            1120,
+            1184
+          ],
+          "status": "supported as interpretation",
+          "note": "逮捕された松下が本物で、二十面相がその姿に変装したという取り違え。"
+        },
+        {
+          "draft_fact": "語り手が読者へ呼びかける",
+          "lines": [
+            1386,
+            1660
+          ],
+          "status": "supported",
+          "note": "原稿の読者への問いかけという観察に整合。"
+        }
+      ],
+      "required_corrections": [],
+      "optional_clarification": "明智の潜入を詳述する場合は、赤井寅三への変装と替え玉誘拐を区別。現在の短い要約なら追記不要。",
+      "unverified": [
+        "冒頭から1119行の事実はこの担当の今回通読範囲外（他担当の照合対象）",
+        "1936初出誌画像と1987底本の逐語対校",
+        "版間の全改変主体の特定",
+        "実ブラウザー表示・操作"
+      ],
+      "chapter_review_scope": "assigned latter range read; no independent claim of full-book completion",
+      "extraction_script": "integration-0330/extract-numbered-source.py",
+      "coverage_report": "integration-0330/source-extraction-coverage.json",
+      "read_status": "All assigned lines 1120-1670 read in displayed overlapping chunks; missing display gaps supplemented explicitly; not extraction-only"
+    }
+  ]
+}
