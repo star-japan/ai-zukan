@@ -421,7 +421,7 @@
       "reading": "みやざわけんじ",
       "author": "",
       "url": "https://star-japan.github.io/ai-zukan/#/article/kenji",
-      "revision": "3d7da9831397161549f43c38a3b16795c419e133450627f185d46e0fdc1d926b",
+      "revision": "b7ca2c72ba8472f66030f65f1780a54018dd20216f3c96ef076e461996aecb29",
       "firstPublishedAt": "2026-11-01T22:59:19+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
@@ -2653,6 +2653,38 @@
       "updatedAt": "2026-11-04T23:05:48+09:00",
       "updateStatus": "published",
       "changeNote": "三銃士の採用フランス語電子本文通読に基づく紹介稿を追加。"
+    },
+    {
+      "id": "otuber-to-zo",
+      "title": "オツベルと象",
+      "reading": "おつべるとぞう",
+      "author": "宮沢賢治",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/otuber-to-zo",
+      "revision": "b196f43e81e458fe8ed3a853eaa5b7e6b7726ffe55ac86199acadd779c8a6b68",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": null,
+      "updatedAt": "2026-11-04T23:44:20+09:00",
+      "updateStatus": "pending",
+      "changeNote": "既存原稿とAI生成の創作挿絵3枚を統合した未公開候補。結末欄・出典・原版未対校の留保を保持。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学・童話"
+    },
+    {
+      "id": "konjaku-rashomon",
+      "title": "『今昔物語集』羅城門の上で出会った盗人と老婆",
+      "reading": "こんじゃくものがたりしゅう らじょうもんのうえでであったぬすびととろうば",
+      "author": "原作者未詳",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/konjaku-rashomon",
+      "revision": "b643ddf04d2862eb3fc0548a8ba6d3e285ae5bf55fa67727c88da1b04545ba09",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": null,
+      "updatedAt": "2026-11-04T23:44:20+09:00",
+      "updateStatus": "pending",
+      "changeNote": "既存原稿とAI生成の創作挿絵3枚を統合した未公開候補。電子翻刻の出典・利用条件の説明と芥川版との区別を保持。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学・説話"
     }
   ]
 }
