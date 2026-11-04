@@ -27,9 +27,9 @@
       "firstPublishedAt": null,
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "date",
-      "updatedAt": "2026-11-03T15:25:16+09:00",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
       "updateStatus": "published",
-      "changeNote": "人物紹介の難語を平易化し、漱石との関わりの説明を確認できた資料に合わせて修正。既存出典を保持。",
+      "changeNote": "年表の資料説明を末尾の出典欄へ整理。年譜と創作図の注意書きは保持。",
       "primaryCategory": "person",
       "genreLabel": "人物",
       "updateHistory": [
@@ -402,9 +402,9 @@
       "firstPublishedAt": "2026-11-01T22:59:19+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-03T12:41:03+09:00",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
       "updateStatus": "published",
-      "changeNote": "人物説明を補う独自の年表・刊行比較図を追加。既存本文と肖像説明は維持。",
+      "changeNote": "教師時代と執筆の年表の資料説明を末尾の出典欄へ整理。",
       "primaryCategory": "person",
       "genreLabel": "人物",
       "updateHistory": [
@@ -425,9 +425,9 @@
       "firstPublishedAt": "2026-11-01T22:59:19+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-03T12:41:03+09:00",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
       "updateStatus": "published",
-      "changeNote": "人物説明を補う独自の年表・刊行比較図を追加。既存本文と肖像説明は維持。",
+      "changeNote": "『なめとこ山の熊』への作者側リンクを追加。",
       "primaryCategory": "person",
       "genreLabel": "人物",
       "updateHistory": [
@@ -1010,9 +1010,9 @@
       "firstPublishedAt": "2026-11-02T16:49:10+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-03T17:50:02+09:00",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
       "updateStatus": "published",
-      "changeNote": "ユーザー提供の参考画像に基づくAI創作肖像を追加。本文は変更なし。"
+      "changeNote": "年表の資料説明を末尾の出典欄へ整理し、『駈込み訴え』へのリンクを追加。"
     },
     {
       "id": "andersen",
@@ -1161,9 +1161,9 @@
       "firstPublishedAt": "2026-11-02T23:22:27+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-02T23:22:27+09:00",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
       "updateStatus": "published",
-      "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
+      "changeNote": "『舞姫』草稿の資料説明を末尾の出典欄へ整理。"
     },
     {
       "id": "higuchi-ichiyo",
@@ -1241,9 +1241,9 @@
       "firstPublishedAt": "2026-11-02T23:31:30+09:00",
       "firstPublishedDate": "2026-11-02",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-03T01:31:51+09:00",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
       "updateStatus": "published",
-      "changeNote": "実際の容貌は不明と明示した想像イラストを追加。本文は変更していません。"
+      "changeNote": "『枕草子』成立時期の根拠を末尾の出典欄へ整理し、諸説の留保を保持。"
     },
     {
       "id": "murasaki-shikibu",
@@ -1337,9 +1337,9 @@
       "firstPublishedAt": "2026-11-03T00:17:08+09:00",
       "firstPublishedDate": "2026-11-03",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-03T00:17:08+09:00",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
       "updateStatus": "published",
-      "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
+      "changeNote": "『雪の女王』の底本情報を末尾の出典欄へ整理し、原作初刊年と区別。"
     },
     {
       "id": "oscar-wilde",
@@ -1433,9 +1433,9 @@
       "firstPublishedAt": "2026-11-03T00:42:30+09:00",
       "firstPublishedDate": "2026-11-03",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-03T00:42:30+09:00",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
       "updateStatus": "published",
-      "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
+      "changeNote": "『フランケンシュタイン』の採用版情報を末尾の出典欄へ整理し、初版と改訂版を区別。"
     },
     {
       "id": "charles-dickens",
@@ -1513,9 +1513,9 @@
       "firstPublishedAt": "2026-11-03T00:49:42+09:00",
       "firstPublishedDate": "2026-11-03",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-03T00:49:42+09:00",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
       "updateStatus": "published",
-      "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
+      "changeNote": "『小公女』の採用版と作者序文の確認情報を末尾の出典欄へ整理。"
     },
     {
       "id": "jean-webster",
@@ -1529,9 +1529,9 @@
       "firstPublishedAt": "2026-11-03T00:54:48+09:00",
       "firstPublishedDate": "2026-11-03",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-03T00:54:48+09:00",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
       "updateStatus": "published",
-      "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
+      "changeNote": "ジーンと名乗るようになった理由の根拠を末尾の出典欄へ整理。"
     },
     {
       "id": "wada-mankichi",
@@ -1545,9 +1545,9 @@
       "firstPublishedAt": "2026-11-03T00:54:48+09:00",
       "firstPublishedDate": "2026-11-03",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-03T00:54:48+09:00",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
       "updateStatus": "published",
-      "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
+      "changeNote": "『竹取物語』の底本情報を末尾の出典欄へ整理し、1928年の刊本と1981年の復刻版を区別。"
     },
     {
       "id": "jack-and-the-beanstalk",
@@ -1577,9 +1577,9 @@
       "firstPublishedAt": "2026-11-03T01:57:04+09:00",
       "firstPublishedDate": "2026-11-03",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-03T01:57:04+09:00",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
       "updateStatus": "published",
-      "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
+      "changeNote": "昔話集の採用版・版刷と刊年未確定の注記を末尾の出典欄へ整理。"
     },
     {
       "id": "pinocchio",
@@ -1641,9 +1641,9 @@
       "firstPublishedAt": "2026-11-03T02:19:31+09:00",
       "firstPublishedDate": "2026-11-03",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-03T02:19:31+09:00",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
       "updateStatus": "published",
-      "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
+      "changeNote": "活動時期と『仕事と日々』の説明の根拠を末尾の出典欄へ整理。生没年の不確実性は保持。"
     },
     {
       "id": "gakumon-no-susume",
@@ -2121,9 +2121,9 @@
       "firstPublishedAt": "2026-11-03T04:35:08+09:00",
       "firstPublishedDate": "2026-11-03",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-03T04:35:08+09:00",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
       "updateStatus": "published",
-      "changeNote": "公式資料に基づく人物紹介を追加。本人の肖像は未掲載。"
+      "changeNote": "『怪人二十面相』『少年探偵団』への作者側リンクを追加。"
     },
     {
       "id": "yagi-no-uta",
@@ -2297,9 +2297,9 @@
       "firstPublishedAt": "2026-11-03T11:32:29+09:00",
       "firstPublishedDate": "2026-11-03",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-03T14:37:11+09:00",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
       "updateStatus": "published",
-      "changeNote": "医師経験から研究へつながる導入と、iPS・核・DNAの初出説明を読みやすく整理。",
+      "changeNote": "資料確認日を末尾の出典欄へ整理し、ノーベル賞受賞発表のCiRA出典を追加。",
       "updateHistory": [
         {
           "updatedAt": "2026-11-03T12:01:38+09:00",
@@ -2490,9 +2490,9 @@
       "firstPublishedAt": "2026-11-03T14:54:21+09:00",
       "firstPublishedDate": "2026-11-03",
       "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-03T14:54:21+09:00",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
       "updateStatus": "published",
-      "changeNote": "独立資料照合済みの人物紹介と創作説明図を追加。本人の肖像は未掲載。"
+      "changeNote": "乱歩とのつながりの根拠を末尾の出典欄へ整理し、4作品へのリンクを追加。"
     },
     {
       "id": "poe-black-cat",
@@ -2503,12 +2503,12 @@
       "primaryCategory": "world-literature",
       "genreLabel": "海外文学",
       "revision": "c6d1a7f5580d0ccd8db7ff0718efb24d04b6f53a3c7dfccad6353db1c66935f1",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": null,
-      "updatedAt": "2026-11-03T19:35:06+09:00",
-      "updateStatus": "pending",
-      "changeNote": "公開前原稿を既存形式へ統合。公開日時は未設定。"
+      "firstPublishedAt": "2026-11-04T23:05:48+09:00",
+      "firstPublishedDate": "2026-11-04",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
+      "updateStatus": "published",
+      "changeNote": "本文確認稿と創作挿絵を既存形式へ統合。"
     },
     {
       "id": "poe-rue-morgue",
@@ -2519,12 +2519,12 @@
       "primaryCategory": "world-literature",
       "genreLabel": "海外文学",
       "revision": "55c49d1e46e76bba35ef7a206e6718aac4dde0c0ceb81cb8a2569b234f75aa26",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": null,
-      "updatedAt": "2026-11-03T19:35:06+09:00",
-      "updateStatus": "pending",
-      "changeNote": "公開前原稿を既存形式へ統合。公開日時は未設定。"
+      "firstPublishedAt": "2026-11-04T23:05:48+09:00",
+      "firstPublishedDate": "2026-11-04",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
+      "updateStatus": "published",
+      "changeNote": "本文確認稿と創作挿絵を既存形式へ統合。"
     },
     {
       "id": "poe-gold-bug",
@@ -2535,12 +2535,12 @@
       "primaryCategory": "world-literature",
       "genreLabel": "海外文学",
       "revision": "d9b11486675deb1f76b20541e96eb56224ec1f0e3f7cc91ffdab2e65e610bd9c",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": null,
-      "updatedAt": "2026-11-03T22:27:52+09:00",
-      "updateStatus": "pending",
-      "changeNote": "黄金虫の本文確認稿と独自挿絵を追加。未公開。"
+      "firstPublishedAt": "2026-11-04T23:05:48+09:00",
+      "firstPublishedDate": "2026-11-04",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
+      "updateStatus": "published",
+      "changeNote": "黄金虫の本文確認稿と独自挿絵を追加。"
     },
     {
       "id": "poe-fall-of-house-of-usher",
@@ -2551,12 +2551,12 @@
       "primaryCategory": "world-literature",
       "genreLabel": "海外文学",
       "revision": "44910334bdc6207c1a3642d7c2f9ccf57801f396369712d324c28cc079b5ae38",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": null,
-      "updatedAt": "2026-11-04T00:33:21+09:00",
-      "updateStatus": "pending",
-      "changeNote": "アッシャー家の本文確認稿と独自挿絵を追加。未公開。"
+      "firstPublishedAt": "2026-11-04T23:05:48+09:00",
+      "firstPublishedDate": "2026-11-04",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
+      "updateStatus": "published",
+      "changeNote": "アッシャー家の本文確認稿と独自挿絵を追加。"
     },
     {
       "id": "kaijin-nijumenso",
@@ -2567,12 +2567,12 @@
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学",
       "revision": "d6c4d8fb47452694278262b9ab86cafe79e9f17da6a132a9a627b7ffb73b9eb6",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": null,
-      "updatedAt": "2026-11-04T03:31:12+09:00",
-      "updateStatus": "pending",
-      "changeNote": "参照本文の全章分担通読と照合を統合。壮二帰宅と小林の潜入・宝石回収の順序を要約へ明記。未公開、初出対校・実ブラウザー確認は未完。"
+      "firstPublishedAt": "2026-11-04T23:05:48+09:00",
+      "firstPublishedDate": "2026-11-04",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
+      "updateStatus": "published",
+      "changeNote": "参照本文の全章通読と照合を反映。壮二帰宅と小林の潜入・宝石回収の順序を要約へ明記。初出対校・実ブラウザー確認は未完。"
     },
     {
       "id": "shonen-tanteidan",
@@ -2583,12 +2583,12 @@
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学",
       "revision": "b51fd0ad02ea8a09b26beb5e5b9d6d9af6114cc1280ed6045607c496f2508e25",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": null,
-      "updatedAt": "2026-11-04T05:33:58+09:00",
-      "updateStatus": "pending",
-      "changeNote": "少年探偵団の確認稿と独自挿絵を追加。未公開。"
+      "firstPublishedAt": "2026-11-04T23:05:48+09:00",
+      "firstPublishedDate": "2026-11-04",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
+      "updateStatus": "published",
+      "changeNote": "少年探偵団の確認稿と独自挿絵を追加。"
     },
     {
       "id": "kakekomi-uttae",
@@ -2599,12 +2599,12 @@
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学",
       "revision": "3e71e853fca3ad910209097614dc3c060449c4048d0aba6e78c9ad1d81a79ac0",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
-      "changeNote": "公開前候補。本文・創作図3枚・閉じた結末欄・作者相互リンク。表示確認未完了。"
+      "firstPublishedAt": "2026-11-04T23:05:48+09:00",
+      "firstPublishedDate": "2026-11-04",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
+      "updateStatus": "published",
+      "changeNote": "本文・AI生成の創作図3枚・初期状態で閉じた結末欄・作者相互リンクを追加。実ブラウザーでの表示・操作確認は未完了。"
     },
     {
       "id": "nametokoyama-no-kuma",
@@ -2615,12 +2615,12 @@
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学・童話",
       "revision": "e1f15e9b588294e5d4aa8293f29678d01de8ed03126c5e21ce2b43c4926d0d96",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
-      "changeNote": "公開前候補。本文・想像図3枚・結末開閉・作者相互リンクを追加。実画面検証は未完了。"
+      "firstPublishedAt": "2026-11-04T23:05:48+09:00",
+      "firstPublishedDate": "2026-11-04",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
+      "updateStatus": "published",
+      "changeNote": "本文・AI生成の想像図3枚・結末開閉・作者相互リンクを追加。実ブラウザーでの実画面検証は未完了。"
     },
     {
       "id": "cement-taru-no-naka-no-tegami",
@@ -2631,12 +2631,12 @@
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学・短編小説",
       "revision": "b5a45e899b02fb95e321d9ccbcee9084e8c1c213c0f23138007dbedd673b8828",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": "unknown",
-      "updatedAt": null,
-      "updateStatus": "pending",
-      "changeNote": "公開前の隔離候補。既存本文・3図・出典補足を保持し、出典で確定した題名・作者・難語の上ルビを追加。紙面対校・個別利用条件・実画面は未確認。"
+      "firstPublishedAt": "2026-11-04T23:05:48+09:00",
+      "firstPublishedDate": "2026-11-04",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
+      "updateStatus": "published",
+      "changeNote": "既存本文・3図・出典補足を保持し、出典で確定した題名・作者・難語の上ルビを追加。紙面対校・個別利用条件・実画面は未確認。"
     },
     {
       "id": "three-musketeers",
@@ -2647,12 +2647,12 @@
       "primaryCategory": "world-literature",
       "genreLabel": "海外文学",
       "revision": "b48419500d9e7394741f664969ce16c2f45da76679d36da45df5c2e3fdae0de9",
-      "firstPublishedAt": null,
-      "firstPublishedDate": null,
-      "firstPublishedPrecision": null,
-      "updatedAt": "2026-11-04T16:37:01+09:00",
-      "updateStatus": "pending",
-      "changeNote": "三銃士の採用フランス語電子本文通読に基づく紹介稿を追加。未公開。"
+      "firstPublishedAt": "2026-11-04T23:05:48+09:00",
+      "firstPublishedDate": "2026-11-04",
+      "firstPublishedPrecision": "second",
+      "updatedAt": "2026-11-04T23:05:48+09:00",
+      "updateStatus": "published",
+      "changeNote": "三銃士の採用フランス語電子本文通読に基づく紹介稿を追加。"
     }
   ]
 }
