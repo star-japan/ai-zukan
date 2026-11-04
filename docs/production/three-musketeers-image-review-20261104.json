@@ -1,0 +1,187 @@
+{
+  "image_record": {
+    "article_id": "three-musketeers",
+    "image_id": "three-musketeers-editorial-v01",
+    "method": "built-in image generation and edit; PNG to WebP conversion only",
+    "original": {
+      "path": "integration-1530/assets/images/originals/three-musketeers-editorial-v01.png",
+      "size": 2693993,
+      "sha256": "5867dd91c2ac428b783d3d73a77d0272f3c4210c8fc2345ede5be6ea1981e6ce",
+      "pixels": [
+        1672,
+        941
+      ]
+    },
+    "public": {
+      "path": "integration-1530/assets/images/three-musketeers-editorial-v01.webp",
+      "size": 305366,
+      "sha256": "6b7e0017784e07d3f86b0641761a7133363185fdf4f8cff64de84554adce109a",
+      "pixels": [
+        1672,
+        941
+      ]
+    },
+    "caption": "第5章で青年と三銃士が対立から協力へ向く展開に着想した、AI生成の独自挿絵。人物の顔・服装、背景・光・配置は創作で、本文の特定場面や実在建築を正確に再現したものではありません。",
+    "alt": "石壁のそばで語り合う、茶色の服の青年と三人の男性。剣は鞘に収められている。",
+    "rights": "原作の既存保護期間終了確認に基づく創作。第三者の挿絵・映画画像や俳優写真は参照入力していない。署名風模様が出た初稿は不採用、編集生成で除去。全世界の既存画像との網羅的類似照合・法的保証は未実施。",
+    "initial_image": "generated_images/exec-e2b21916-5544-4f4e-a0e8-0878f93d7d6f.png",
+    "initial_image_status": "署名風模様のため不採用",
+    "input_basis": "PG13951 chapter V; textual inspiration only; four adults in varied period clothing, calm conversation beside monastery wall; no adaptation or movie reference",
+    "source_url": "https://www.gutenberg.org/cache/epub/13951/pg13951-images.html",
+    "checked_at_jst": "2026-11-04T15:34:09+09:00",
+    "final_image_reviewed_at_jst": "2026-11-04T15:33:38+09:00",
+    "compression_reduction_percent": 88.7
+  },
+  "concept": {
+    "agent": "補助2 / poe_content_review",
+    "checked_at_jst": "2026-11-04T15:30:38+09:00",
+    "source_url": "https://www.gutenberg.org/cache/epub/13951/pg13951-images.html",
+    "source_method": "PG13951原ページdirect findで第5章762〜982/第6章983境界を確認し、direct open 844で第5章全221行を取得・再読。検索索引で代用していない。",
+    "saved_source": "integration-1530/pg13951-chapterV-image-reference-lines762-982.txt",
+    "source_sha256": "54d99663b8f25705c3138d4618f196e20b1bbe783f432c33797b6e064f55dcf3",
+    "coverage": {
+      "chapter": "V",
+      "range": [
+        762,
+        982
+      ],
+      "line_count": 221,
+      "missing": 0,
+      "actually_re_read": true
+    },
+    "concept_verdict": "特定の一場面の正確な復元ではなく、第5章で四人が対立から協力へ向く関係の変化を表す独自構成として適合。石造の庭・人物配置・顔・服装配色・光・剣をすべて鞘に収めた瞬間の組み合わせは創作と説明する。",
+    "text_supported": [
+      {
+        "lines": [
+          770,
+          772
+        ],
+        "element": "修道院近くの小さな荒地で待ち合わせ。アトスは既に肩を負傷している。正確な庭・回廊の寸法や構造は書かれない。"
+      },
+      {
+        "lines": [
+          804,
+          817
+        ],
+        "element": "PorthosとAramisがAthosの立会人として到着し青年と四人が揃う。"
+      },
+      {
+        "lines": [
+          824,
+          826
+        ],
+        "element": "Porthosは帯を替え、外套を脱いでいる。四人同じ外套の制服姿を第5章の忠実再現としない。"
+      },
+      {
+        "lines": [
+          879,
+          908
+        ],
+        "element": "枢機卿護衛到来後、青年は三人側へ加わる意思を示す。青年には銃士の服はまだないと明記。Athosが青年と握手する。"
+      },
+      {
+        "lines": [
+          917,
+          943
+        ],
+        "element": "四人は共闘を選び、その後実際に剣を抜いて敵と戦う。本文自体が非戦闘の平穏な会合だけで終わるわけではない。"
+      },
+      {
+        "lines": [
+          980,
+          982
+        ],
+        "element": "戦闘後は剣を鞘に収める。四人の連帯とトレヴィル邸へ向かう姿。青年はまだ正式銃士でないと話す。"
+      }
+    ],
+    "creative_elements": [
+      "人物の顔・細かな年代感・髭や髪型・服の具体意匠と配色。映画俳優や現代翻案の人物造形を模倣しない。",
+      "石造の庭/通路の全体配置と装飾。実在する修道院建築の復元ではない。",
+      "四人だけを配置し、敵兵・戦闘・血・負傷を描かず、関係の変化を非戦闘の構図へまとめる。",
+      "四人がすべて鞘入りの細身剣を持って協力へ向き直る特定瞬間は、本文の一場面そのままではない。",
+      "帽子や羽根、手袋、帯等の配置は創作。既刊挿絵・書影・映像の衣装に依存しない。"
+    ],
+    "recommendations": [
+      "青年の服装は三人と揃えず、三人も全員同じ制服模様にしない。",
+      "三本/四本の裸剣を空で合わせる決めポーズや標語は採用しない。今回原ページにその構図はない。",
+      "剣は鞘に収め、手を柄へ強く掛けた戦闘準備や抜剣の動作に見えないようにする。",
+      "石造の庭を選ぶ場合は独自構成とcaptionへ明記。背景を荒地に変えることは必須ではない。"
+    ],
+    "caption_proposal": "第5章で青年と三銃士が対立から協力へ向く展開に着想した、AI生成の独自挿絵。人物の顔・服装、石造の庭や配置は創作で、本文の特定場面や実在建築を正確に再現したものではありません。",
+    "alt_proposal_pending_visual": "石造りの庭で向き合う青年と三人の男性。四人とも剣を鞘に収めている。",
+    "spoiler_assessment": "序盤の協力関係という導入情報に限り、王妃・ダイヤ・Milady・暗殺・Constance結末は描かない。初期表示で作品の結末を明かさない。",
+    "image_visual_review": "画像生成後に実見予定。現時点では人物数・鞘・ポーズ・図像の有無を確認済みとしていない。",
+    "unverified": [
+      "17世紀の服飾・建築・武器を独立史料で厳密に復元した図ではない。",
+      "既刊/映像の全画像との網羅的類似性確認は未実施。特定作品を参照した生成は行わない方針。",
+      "画像未提示のため視覚品質・caption/alt適合は未判定。"
+    ],
+    "external_writes": false,
+    "subdelegation": false
+  },
+  "visual_review": {
+    "agent": "補助2 / poe_content_review",
+    "status": "completed",
+    "image_path": "/workspace/scratch/880b25f3808c/generated_images/exec-e2b21916-5544-4f4e-a0e8-0878f93d7d6f.png",
+    "method": "view_imageで画像を実見。原作照合は別concept JSONの第5章direct open根拠を使用。",
+    "observed": {
+      "people": 4,
+      "composition": "左の茶系の服の青年と、灰/青/葡萄色の服の三人が石壁そばで静かに話す。三人座位、一人立位。",
+      "weapons": "剣の柄と鞘が見える。抜身の刀身を掲げる人や戦闘姿勢は見えない。",
+      "spoiler_content": "宝石・王妃・Milady・暗殺・Constanceの結末を示す図像はない。",
+      "text": "右下に白い署名風の小さなノイズを視認。標語や本文の引用は見えない。"
+    },
+    "required_action_before_final": "なし（初稿の署名風ノイズ除去を最終画像で確認済み）",
+    "source_vs_creation": "石壁沿いで静かに四人のみが話す配置、三人の外套、遠景の町、秋色の木、夕方風の光は創作。第5章は正午の修道院外の荒地、Porthosは外套を脱いでいる。誤りを含む正確復元とはせず関係変化に着想する挿絵とcaptionで明示。",
+    "caption_proposal": "第5章で青年と三銃士が対立から協力へ向く展開に着想した、AI生成の独自挿絵。人物の顔・服装、石壁や遠景、光と人物配置は創作で、本文の特定場面や実在建築を正確に再現したものではありません。",
+    "alt_proposal": "石壁のそばで語り合う、茶色の服の青年と三人の男性。剣は鞘に収められている。",
+    "limitations": [
+      "人物ごとの位置をAthos/Porthos/Aramisと断定していない。",
+      "服飾・武器・建築の厳密な考証図ではない。",
+      "既存の全作品/俳優と画像類似性を網羅比較したものではない。"
+    ],
+    "external_writes": false,
+    "subdelegation": false,
+    "checked_at_jst": "2026-11-04T15:32:52+09:00",
+    "final_image_review": {
+      "checked_at_jst": "2026-11-04T15:33:38+09:00",
+      "image_path": "/workspace/scratch/880b25f3808c/generated_images/exec-fd1bc3b0-f824-441b-b8b5-3ec52128a705.png",
+      "sha256": "5867dd91c2ac428b783d3d73a77d0272f3c4210c8fc2345ede5be6ea1981e6ce",
+      "method": "view_imageで編集後の最終画像を実見。初稿と比較。",
+      "verdict": "本文の関係変化に着想した創作挿絵として適合。必須修正なし。",
+      "checks": {
+        "people_count_4": true,
+        "young_man_distinguished_by_brown_clothing": true,
+        "no_drawn_sword_or_fighting_pose_visible": true,
+        "no_blood_or_ending_spoiler_visible": true,
+        "bottom_right_signature_like_noise_removed": true,
+        "no_legible_text_or_slogan_visible": true,
+        "caption_explicitly_describes_creative_composition": true
+      },
+      "observed_description": "初稿の構図を保ち、石壁そばの四人、灰/青/葡萄色の三人と茶色の青年が静かに会話。剣は鞘に入り、右下の白い署名風模様は消えて草地と石に置き換わる。",
+      "caption_suitable": "第5章で青年と三銃士が対立から協力へ向く展開に着想した、AI生成の独自挿絵。人物の顔・服装、石壁や遠景、光と人物配置は創作で、本文の特定場面や実在建築を正確に再現したものではありません。",
+      "alt_final_proposal": "石壁のそばで語り合う、茶色の服の青年と三人の男性。剣は鞘に収められている。",
+      "limitations": [
+        "実在建築・服飾の厳密な復元図や、個々の人物の容貌の確定図ではない。",
+        "既存の全作品/俳優との網羅的類似性照合は未実施。"
+      ]
+    }
+  },
+  "root_review": {
+    "reviewer": "統括/root",
+    "checked_at_jst": "2026-11-04T15:34:09+09:00",
+    "scope": "本文第5章と画像構図の照合、生成・編集・圧縮、下書き制作と統合",
+    "source_url": "https://www.gutenberg.org/cache/epub/13951/pg13951-images.html",
+    "method": "原ページdirect findと900付近direct openでL793–980を確認。制服未所持L903、協力と握手L898–930、戦闘後納刀L980を照合。全章の再通読ではない。",
+    "findings": [
+      "実際の握手・協力選択時点は戦闘前で裸剣や敵兵がいる。4人の休息会話を特定場面の正確再現とはしない。",
+      "四人の服装差は青年がまだ銃士制服を持たない点と整合。顔・色・背景・光は創作とする。",
+      "初稿の右下署名風模様を確認して不採用、編集生成した最終画像では除去を視認。",
+      "最終PNGと公開用WebPを分離し、WebPを実際に開いて四人と鞘入り剣、文字なしを確認。"
+    ],
+    "rights": "既存保護期間終了原作への着想。既刊邦訳/第三者挿絵・俳優写真・映画画像は参照入力なし。網羅的類似照合や法的保証は未実施。",
+    "public_status": "未公開。候補黒★維持。公開前のローカル組込候補を準備。",
+    "browser_qa": "未実施",
+    "subdelegation": false
+  }
+}
