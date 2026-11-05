@@ -1155,7 +1155,7 @@
       "reading": "もりおうがい",
       "author": "",
       "url": "https://star-japan.github.io/ai-zukan/#/article/mori-ogai",
-      "revision": "de14558dfd462e031a3fbb75823ba4c2698cf4e768de36376597c0fdb270bb4b",
+      "revision": "d39d1065d8fefafc2dae1f57e8d3d073f5487da8bb1ac8ff820868bdd6c84068",
       "primaryCategory": "person",
       "genreLabel": "人物",
       "firstPublishedAt": "2026-11-02T23:22:27+09:00",
@@ -2685,6 +2685,22 @@
       "changeNote": "既存原稿とAI生成の創作挿絵3枚を統合して初公開。電子翻刻の出典・利用条件の説明と芥川版との区別を保持。",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学・説話"
+    },
+    {
+      "id": "saigo-no-ikku",
+      "title": "最後の一句",
+      "reading": "さいごのいっく",
+      "author": "森鴎外",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/saigo-no-ikku",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学・歴史小説",
+      "revision": "9163a02d2b2afd0ad9ffa8dbeef83b35561c950ed6b7859099e61c68f95c546e",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "unknown",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "採用原典の該当全節を確認した独自解説、人物紹介と本文3場面を追加。"
     }
   ]
 }
