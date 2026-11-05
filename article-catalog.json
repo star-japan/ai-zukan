@@ -2758,7 +2758,11 @@
       "updateStatus": "pending",
       "changeNote": "承認済みの本文・人物・差し絵を統合。公開画面の確認後に公開日時を確定する。",
       "primaryCategory": "japanese-literature",
-      "genreLabel": "日本文学・短章"
+      "genreLabel": "日本文学・短章",
+      "deploymentSucceededAt": "2026-11-06T08:40:10+09:00",
+      "deploymentCommit": "bc22d13ce92e3230b7ad8263dd354b757f07cd73",
+      "deploymentEvidenceUrl": "https://github.com/star-japan/ai-zukan/actions/runs/42131004310",
+      "publicDisplayVerification": "unverified"
     },
     {
       "id": "haru-to-shura",
@@ -2774,7 +2778,11 @@
       "updateStatus": "pending",
       "changeNote": "承認済みの本文・人物・差し絵を統合。公開画面の確認後に公開日時を確定する。",
       "primaryCategory": "japanese-literature",
-      "genreLabel": "日本文学・詩集"
+      "genreLabel": "日本文学・詩集",
+      "deploymentSucceededAt": "2026-11-06T08:40:10+09:00",
+      "deploymentCommit": "bc22d13ce92e3230b7ad8263dd354b757f07cd73",
+      "deploymentEvidenceUrl": "https://github.com/star-japan/ai-zukan/actions/runs/42131004310",
+      "publicDisplayVerification": "unverified"
     }
   ]
 }
