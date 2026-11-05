@@ -421,7 +421,7 @@
       "reading": "みやざわけんじ",
       "author": "",
       "url": "https://star-japan.github.io/ai-zukan/#/article/kenji",
-      "revision": "b7ca2c72ba8472f66030f65f1780a54018dd20216f3c96ef076e461996aecb29",
+      "revision": "21817d85c41299b58be475eff4c932fe94bcffada8139833e90e91f95574f039",
       "firstPublishedAt": "2026-11-01T22:59:19+09:00",
       "firstPublishedDate": "2026-11-01",
       "firstPublishedPrecision": "second",
@@ -1331,7 +1331,7 @@
       "reading": "くすやままさお",
       "author": "",
       "url": "https://star-japan.github.io/ai-zukan/#/article/kusuyama-masao",
-      "revision": "dd225bd562a578009964bbe0b6b7db2d1a15dba039ec4539240f133aad839396",
+      "revision": "3a4e14fbc45430599d1c163c1ffaf3d5f3e1ababeb1853b9fe11167e415e7ecb",
       "primaryCategory": "person",
       "genreLabel": "人物",
       "firstPublishedAt": "2026-11-03T00:17:08+09:00",
@@ -2701,6 +2701,38 @@
       "updatedAt": null,
       "updateStatus": "pending",
       "changeNote": "採用原典の該当全節を確認した独自解説、人物紹介と本文3場面を追加。"
+    },
+    {
+      "id": "shita-kiri-suzume",
+      "title": "舌切りすずめ",
+      "reading": "したきりすずめ",
+      "author": "楠山正雄",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/shita-kiri-suzume",
+      "revision": "d00e66e0bcff4b8d3e9b7105fb341badfe411d0c54998e220173c0e459f01e2c",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "pending",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "原典を確認した要約・解説とAI生成の人物図3枚・本文挿絵4枚・独立ヘッダー1枚を準備。公開日時は公開成功後に記録。",
+      "primaryCategory": "japanese-folktale",
+      "genreLabel": "日本の昔話"
+    },
+    {
+      "id": "donguri-yamaneko",
+      "title": "どんぐりと山猫",
+      "reading": "どんぐりとやまねこ",
+      "author": "宮沢賢治",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/donguri-yamaneko",
+      "revision": "79e2b06dd52d2618ead034d9e56d3647e1a3f5a2679505537d528801747742fc",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "pending",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "原典を確認した要約・解説とAI生成の人物図4枚・本文挿絵5枚・独立ヘッダー1枚を準備。公開日時は公開成功後に記録。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学・童話"
     }
   ]
 }
