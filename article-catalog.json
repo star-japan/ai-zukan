@@ -2708,7 +2708,7 @@
       "reading": "したきりすずめ",
       "author": "楠山正雄",
       "url": "https://star-japan.github.io/ai-zukan/#/article/shita-kiri-suzume",
-      "revision": "d00e66e0bcff4b8d3e9b7105fb341badfe411d0c54998e220173c0e459f01e2c",
+      "revision": "3c781ee6e1fc841d1beba34f06880f585599a6af95a2fd29bef31d8e29780c58",
       "firstPublishedAt": null,
       "firstPublishedDate": null,
       "firstPublishedPrecision": "pending",
@@ -2716,7 +2716,12 @@
       "updateStatus": "pending",
       "changeNote": "原典を確認した要約・解説とAI生成の人物図3枚・本文挿絵4枚・独立ヘッダー1枚を準備。公開日時は公開成功後に記録。",
       "primaryCategory": "japanese-folktale",
-      "genreLabel": "日本の昔話"
+      "genreLabel": "日本の昔話",
+      "deploymentSucceededAt": "2026-11-06T07:15:10+09:00",
+      "deploymentCommit": "2600b28ac255c0909fb96a2edc01a7696f960501",
+      "deploymentEvidenceUrl": "https://github.com/star-japan/ai-zukan/actions/runs/42119713704",
+      "publicDisplayVerification": "unverified",
+      "sourceCheckedDate": "2026-11-06"
     },
     {
       "id": "donguri-yamaneko",
@@ -2724,7 +2729,7 @@
       "reading": "どんぐりとやまねこ",
       "author": "宮沢賢治",
       "url": "https://star-japan.github.io/ai-zukan/#/article/donguri-yamaneko",
-      "revision": "79e2b06dd52d2618ead034d9e56d3647e1a3f5a2679505537d528801747742fc",
+      "revision": "f664f5a81b1a61fbf37c1e20dbc96bd9fb545b0aac2048e05c14ee8b7c05390e",
       "firstPublishedAt": null,
       "firstPublishedDate": null,
       "firstPublishedPrecision": "pending",
@@ -2732,7 +2737,12 @@
       "updateStatus": "pending",
       "changeNote": "原典を確認した要約・解説とAI生成の人物図4枚・本文挿絵5枚・独立ヘッダー1枚を準備。公開日時は公開成功後に記録。",
       "primaryCategory": "japanese-literature",
-      "genreLabel": "日本文学・童話"
+      "genreLabel": "日本文学・童話",
+      "deploymentSucceededAt": "2026-11-06T07:15:10+09:00",
+      "deploymentCommit": "2600b28ac255c0909fb96a2edc01a7696f960501",
+      "deploymentEvidenceUrl": "https://github.com/star-japan/ai-zukan/actions/runs/42119713704",
+      "publicDisplayVerification": "unverified",
+      "sourceCheckedDate": "2026-11-06"
     }
   ]
 }
