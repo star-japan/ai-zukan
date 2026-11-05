@@ -2743,6 +2743,38 @@
       "deploymentEvidenceUrl": "https://github.com/star-japan/ai-zukan/actions/runs/42119713704",
       "publicDisplayVerification": "unverified",
       "sourceCheckedDate": "2026-11-06"
+    },
+    {
+      "id": "shuju-no-kotoba",
+      "title": "侏儒の言葉",
+      "reading": "しゅじゅのことば",
+      "author": "芥川龍之介",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/shuju-no-kotoba",
+      "revision": "6e22508c539f1d168fe63abe43ee0155ba33c5848854d45d8b4a59b51bcd57f6",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "pending",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "承認済みの本文・人物・差し絵を統合。公開画面の確認後に公開日時を確定する。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学・短章"
+    },
+    {
+      "id": "haru-to-shura",
+      "title": "春と修羅",
+      "reading": "はるとしゅら",
+      "author": "宮沢賢治",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/haru-to-shura",
+      "revision": "0a162c1c91251b626bee3caa5a5639a0f566f13cfd23889e960866446931deac",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "pending",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "承認済みの本文・人物・差し絵を統合。公開画面の確認後に公開日時を確定する。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学・詩集"
     }
   ]
 }
