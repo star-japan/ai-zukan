@@ -2501,38 +2501,6 @@
       "changeNote": "乱歩とのつながりの根拠を末尾の出典欄へ整理し、4作品へのリンクを追加。"
     },
     {
-      "id": "kaijin-nijumenso",
-      "title": "怪人二十面相",
-      "reading": "かいじんにじゅうめんそう",
-      "author": "江戸川乱歩",
-      "url": "https://star-japan.github.io/ai-zukan/#/article/kaijin-nijumenso",
-      "primaryCategory": "japanese-literature",
-      "genreLabel": "日本文学",
-      "revision": "d6c4d8fb47452694278262b9ab86cafe79e9f17da6a132a9a627b7ffb73b9eb6",
-      "firstPublishedAt": "2026-11-04T23:05:48+09:00",
-      "firstPublishedDate": "2026-11-04",
-      "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-04T23:05:48+09:00",
-      "updateStatus": "published",
-      "changeNote": "参照本文の全章通読と照合を反映。壮二帰宅と小林の潜入・宝石回収の順序を要約へ明記。初出対校・実ブラウザー確認は未完。"
-    },
-    {
-      "id": "shonen-tanteidan",
-      "title": "少年探偵団",
-      "reading": "しょうねんたんていだん",
-      "author": "江戸川乱歩",
-      "url": "https://star-japan.github.io/ai-zukan/#/article/shonen-tanteidan",
-      "primaryCategory": "japanese-literature",
-      "genreLabel": "日本文学",
-      "revision": "b51fd0ad02ea8a09b26beb5e5b9d6d9af6114cc1280ed6045607c496f2508e25",
-      "firstPublishedAt": "2026-11-04T23:05:48+09:00",
-      "firstPublishedDate": "2026-11-04",
-      "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-04T23:05:48+09:00",
-      "updateStatus": "published",
-      "changeNote": "少年探偵団の確認稿と独自挿絵を追加。"
-    },
-    {
       "id": "kakekomi-uttae",
       "title": "駈込み訴え",
       "reading": "かけこみうったえ",
@@ -2579,22 +2547,6 @@
       "updatedAt": "2026-11-04T23:05:48+09:00",
       "updateStatus": "published",
       "changeNote": "既存本文・3図・出典補足を保持し、出典で確定した題名・作者・難語の上ルビを追加。紙面対校・個別利用条件・実画面は未確認。"
-    },
-    {
-      "id": "three-musketeers",
-      "title": "三銃士",
-      "reading": "さんじゅうし",
-      "author": "アレクサンドル・デュマ（制作協力：オーギュスト・マケ）",
-      "url": "https://star-japan.github.io/ai-zukan/#/article/three-musketeers",
-      "primaryCategory": "world-literature",
-      "genreLabel": "海外文学",
-      "revision": "b48419500d9e7394741f664969ce16c2f45da76679d36da45df5c2e3fdae0de9",
-      "firstPublishedAt": "2026-11-04T23:05:48+09:00",
-      "firstPublishedDate": "2026-11-04",
-      "firstPublishedPrecision": "second",
-      "updatedAt": "2026-11-04T23:05:48+09:00",
-      "updateStatus": "published",
-      "changeNote": "三銃士の採用フランス語電子本文通読に基づく紹介稿を追加。"
     },
     {
       "id": "saigo-no-ikku",
