@@ -2783,6 +2783,38 @@
       "deploymentCommit": "bc22d13ce92e3230b7ad8263dd354b757f07cd73",
       "deploymentEvidenceUrl": "https://github.com/star-japan/ai-zukan/actions/runs/42131004310",
       "publicDisplayVerification": "unverified"
+    },
+    {
+      "id": "oguri-mushitaro",
+      "title": "小栗虫太郎",
+      "reading": "おぐりむしたろう",
+      "author": "小栗虫太郎",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/oguri-mushitaro",
+      "revision": "97599553cf1ea8db9666b495aa1141fdb7ec2b936efb193e11a08735abbac25e",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "pending",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "出典照合済みの作者紹介と作品への双方向リンクを掲載。創作の作者肖像は掲載しない。",
+      "primaryCategory": "person",
+      "genreLabel": "人物・作家"
+    },
+    {
+      "id": "kokushikan-satsujin-jiken",
+      "title": "黒死館殺人事件",
+      "reading": "こくしかんさつじんじけん",
+      "author": "小栗虫太郎",
+      "url": "https://star-japan.github.io/ai-zukan/#/article/kokushikan-satsujin-jiken",
+      "revision": "e7bda0e8fb0cc5e2397740022b29179aecec1b4074fab344977b31a493845847",
+      "firstPublishedAt": null,
+      "firstPublishedDate": null,
+      "firstPublishedPrecision": "pending",
+      "updatedAt": null,
+      "updateStatus": "pending",
+      "changeNote": "確認済み本文と本文挿絵15枚を掲載。人物・器物・風景等の創作範囲は図注に明記。",
+      "primaryCategory": "japanese-literature",
+      "genreLabel": "日本文学・長編探偵小説"
     }
   ]
 }
