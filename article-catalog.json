@@ -102,7 +102,10 @@
       "updateStatus": "published",
       "changeNote": "物語の重要な場面に、原典を確認した挿絵を追加。",
       "primaryCategory": "japanese-literature",
-      "genreLabel": "日本文学"
+      "genreLabel": "日本文学",
+      "pendingRevision": "c4578fb7b6bc720bbe9b1d1e0eb5f8260138d3af86ebcaf4694439e7a31e0487",
+      "pendingChangeNote": "承認済み本文挿絵6枚版を統合。原典・原作権利確認日と書誌を補足。公開画面の更新表示は未確認。",
+      "publicDisplayVerification": "unverified"
     },
     {
       "id": "restaurant",
