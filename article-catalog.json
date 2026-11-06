@@ -2677,6 +2677,7 @@
       "changeNote": "確認済み本文と本文挿絵15枚を掲載。人物・器物・風景等の創作範囲は図注に明記。",
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学・長編探偵小説"
-    }
+    },
+    {"id": "otuber-to-zo", "title": "オツベルと象", "reading": "おつべるとぞう", "author": "宮沢賢治", "url": "https://star-japan.github.io/ai-zukan/#/article/otuber-to-zo", "revision": "806b6e9ec39062e978da98c0e47237eee155def40484fdcae164514492af4de3", "firstPublishedAt": "2026-11-05T00:29:26+09:00", "firstPublishedDate": "2026-11-05", "firstPublishedPrecision": "second", "updatedAt": "2026-11-05T00:29:26+09:00", "updateStatus": "published", "changeNote": "既存原稿とAI生成の創作挿絵3枚を統合して初公開。結末欄・出典・原版未対校の留保を保持。", "primaryCategory": "japanese-literature", "genreLabel": "日本文学・童話"}
   ]
 }
