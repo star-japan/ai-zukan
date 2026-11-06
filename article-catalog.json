@@ -2348,7 +2348,10 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-03T12:07:26+09:00",
       "updateStatus": "published",
-      "changeNote": "原典全本文を確認した独自解説、人物紹介9項目と本文5場面を追加。"
+      "changeNote": "原典全本文を確認した独自解説、人物紹介9項目と本文5場面を追加。",
+      "pendingRevision": "14585b08451516a16d2e26b6d8545ca7454e038de5e8171d53cc21752475338b",
+      "pendingChangeNote": "承認済み本文挿絵12枚版を統合。原典・原作権利確認日と書誌を補足。公開画面の更新表示は未確認。",
+      "publicDisplayVerification": "unverified"
     },
     {
       "id": "kanikosen",
