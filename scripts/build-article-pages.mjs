@@ -36,12 +36,22 @@ const legacyPath = (id) => '/ai-zukan/#/article/' + id;
 const analytics = index.match(/<!-- Google Analytics 4 -->[\s\S]*?<\/script>\s*<script>[\s\S]*?<\/script>/)?.[0] ?? '';
 const footer = index.match(/<footer\b[\s\S]*?<\/footer>/)?.[0] ?? '';
 const home = '/ai-zukan/';
-function page({ title, description, canonical, body }) {
+function page({ title, description, canonical, body, type = 'website', image = null }) {
   return '<!doctype html>\n<html lang="ja">\n<head>\n<meta charset="utf-8">\n'
     + '<meta name="viewport" content="width=device-width,initial-scale=1">\n'
     + '<title>' + escape(title) + '</title>\n'
     + '<meta name="description" content="' + escape(description) + '">\n'
     + '<link rel="canonical" href="' + escape(canonical) + '">\n'
+    + '<meta property="og:site_name" content="知識の大図鑑">\n'
+    + '<meta property="og:type" content="' + escape(type) + '">\n'
+    + '<meta property="og:title" content="' + escape(title) + '">\n'
+    + '<meta property="og:description" content="' + escape(description) + '">\n'
+    + '<meta property="og:url" content="' + escape(canonical) + '">\n'
+    + (image ? '<meta property="og:image" content="' + escape(image) + '">\n' : '')
+    + '<meta name="twitter:card" content="' + (image ? 'summary_large_image' : 'summary') + '">\n'
+    + '<meta name="twitter:title" content="' + escape(title) + '">\n'
+    + '<meta name="twitter:description" content="' + escape(description) + '">\n'
+    + (image ? '<meta name="twitter:image" content="' + escape(image) + '">\n' : '')
     + '<link rel="stylesheet" href="' + home + 'assets/article-pages.css">\n'
     + analytics + '\n</head>\n<body>\n<a class="skip" href="#main">本文へ移動</a>\n'
     + '<header class="masthead"><div class="wrap"><a class="brand" href="' + home + '">知識の大図鑑</a></div></header>\n'
@@ -72,6 +82,8 @@ for (const entry of published) {
     title: name + (topics.length ? 'の' + topics.join('・') : 'の解説') + '｜知識の大図鑑',
     description: item.gist,
     canonical: articleUrl(entry.id),
+    type: 'article',
+    image: (() => { const src = article.match(/<img\b[^>]*\bsrc="([^"]+)"/)?.[1]; return src ? (src.startsWith('http') ? src : 'https://star-japan.github.io' + (src.startsWith('/') ? src : '/ai-zukan/' + src)) : null; })(),
     body: article
   }));
 }
