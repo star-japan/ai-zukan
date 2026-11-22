@@ -36,7 +36,7 @@
 
 - **メグ（マーガレット）**：四姉妹の長女。責任感が強く、家族を助けるため働く。ジョン・ブルックと結婚し、家庭を築く。
 - **ジョー（ジョセフィン）**：次女。率直で活発。書くことを続け、生活と自分の表現の両立を探る。
-- **ベス（エリザベス）**：三女。内気で音楽を愛し、家族や近隣の人を気遣う。猩紅熱の後、体が弱くなり、家族に見守られて亡くなる。
+- **ベス（エリザベス）**：三女。内気で音楽を愛し、家族や近隣の人を気遣う。猩紅熱（しょうこうねつ）の後、体が弱くなり、家族に見守られて亡くなる。
 - **エイミー**：末娘。絵を学び、芸術家として認められたいと願う。成長とともに自分の望みを考え直す。
 - **マーチ夫人（マーミー）**：姉妹の母。娘たちの悩みを聞き、怒りや失敗と向き合うよう導く。
 - **ローリー（セオドア・ローレンス）**：隣家に住む青年。姉妹と親しくなり、特にジョーと友情を育む。のちにエイミーと結婚する。
@@ -56,7 +56,7 @@
 - 原題：Little Women; or, Meg, Jo, Beth, and Amy。
 - 第1部 Little Women は1868年、第2部は翌1869年に Good Wives として刊行された後、両部を合わせた形でも流通した。公開記事では底本の版・巻構成を明示する。
 - 本文確認用の基礎資料には Project Gutenberg の電子本文（eBook 514）を使用する。
-- 第1版の書誌・ページ画像を参照する際は、University of Virginia の Literature in Context（1868年、Roberts Brothers刊の版面を底本とする旨を記載）と Library of Congress の Alcott Resource Guide を照合する。
+- 第1版の書誌・挿絵を参照する際は、Library of Congress の展示と著者ガイド、University of Virginia の Literature in Context を照合する。
 - 日本語訳の特定版を採用したかのような記述は避ける。本文のあらすじ・人物説明は原作を参照した独自要約とする。
 
 ## 参照先
@@ -84,7 +84,10 @@
 
 - Project Gutenberg eBook 514の検索結果に表示された章別本文抜粋：第1章（父の役割）、第16章（母の旅）、第19章（ベスの病気に伴うエイミーの隔離）、第30章（エイミーの渡欧）、第47章など終盤の出来事。
 - 原文HTML: https://www.gutenberg.org/files/514/514-h/514-h.htm
-- 初版の公開年と背景の確認：Library of Congress, Books That Shaped America: https://loc.gov/exhibits/books-that-shaped-america/1850-to-1900.html
+- 刊行年・初版挿絵の補助資料：Library of Congress, Books That Shaped America: https://loc.gov/exhibits/books-that-shaped-america/1850-to-1900.html#obj7
+- 第2部の翌年刊行・巻表示の補助資料：Library of Congress, Today in History, November 29: https://www.loc.gov/item/today-in-history/november-29/
+- 著者生没年：Library of Congress, Louisa May Alcott Resource Guide: https://guides.loc.gov/louisa-may-alcott-resource-guide
+- 翻訳・翻案の権利説明：文化庁『著作権テキスト 令和8年度版』: https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/pdf/94383901_01.pdf
 
 ## サイト掲載用本文案（7段落・要約）
 
