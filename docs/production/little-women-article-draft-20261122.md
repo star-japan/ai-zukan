@@ -101,6 +101,7 @@
 5. University of Virginia, [Literature in Context: Little Women](https://anthology.lib.virginia.edu/work/Alcott/alcott-little-women) — 1868年版の本文・書誌。
 6. BYU L. Tom Perry Special Collections, [May Alcott](https://archives.lib.byu.edu/agents/people/12220) — 初版挿絵者の記録。
 7. 文化庁, [著作権テキスト 令和8年度版](https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/pdf/94383901_01.pdf) — 翻訳・翻案等の権利に関する説明。
+8. BYU L. Tom Perry Special Collections, [Louisa May Alcott Collection: Novels and Stories](https://guides.lib.byu.edu/c.php?g=216509&p=1430031) — 1868年・1869年版の書誌と第2部の異なる刊行題名。
 
 ## サイト統合前チェック
 
