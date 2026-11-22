@@ -81,7 +81,7 @@
 |1|父は従軍牧師。クリスマスの家族と隣人への食事、ローリーとの出会い。|第1部 第1–3章|
 |2–3|メグのキング家勤務、ジョーの執筆、ベスの音楽、エイミーの芸術への関心、姉妹の成長。|第1部 第1–8章、第2部 第26章|
 |4|母は父のもとへ出発。ベスはハンメル家を訪れた後、猩紅熱を発症し、回復後も健康が戻りきらない。|第1部 第16–19章|
-|5|メグとジョンの結婚、エイミーのキャロル伯母との渡欧。|第2部 第25章、第30章|
+|5|メグとジョンの結婚、エイミーのキャロル伯母との渡欧。|第2部 第25章、第30–31章|
 |6|ジョーのニューヨーク滞在、ローリーの求婚と拒絶、ベスの死、エイミーへの知らせ。|第2部 第34–41章|
 |7|ローリーとエイミーが夫婦として帰国、ジョーとベーアの結婚、プラムフィールドと学校。|第2部 第43–47章|
 
@@ -90,7 +90,7 @@
 - [第1部 第1章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_1)、[第2章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_2)、[第3章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_3)、[第4章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_4)、[第5章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_5)、[第6章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_6)、[第7章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_7)、[第8章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_8)
 - [第1部 第6章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_6)、[第7章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_7)、[第8章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_8)、[第9章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_9)、[第23章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_23)
 - [第1部 第16章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_16)、[第17章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_17)、[第19章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_19)
-- [第2部 第25章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_25)、[第26章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_26)、[第30章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_30)、[第34章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_34)、[第35章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_35)、[第40章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_40)、[第41章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_41)、[第43章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_43)、[第44章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_44)、[第46章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_46)、[第47章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_47)
+- [第2部 第25章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_25)、[第26章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_26)、[第30章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_30)、[第31章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_31)、[第34章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_34)、[第35章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_35)、[第40章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_40)、[第41章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_41)、[第43章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_43)、[第44章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_44)、[第46章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_46)、[第47章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_47)
 
 ## 参照資料
 
