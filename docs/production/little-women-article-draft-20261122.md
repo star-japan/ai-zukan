@@ -13,7 +13,7 @@
 
 ## あらすじ（ネタバレを抑えた案）
 
-南北戦争中のアメリカ。父が従軍して家を離れたマーチ家では、メグ、ジョー、ベス、エイミーの四姉妹が母と暮らしています。姉妹は貧しさや性格の違いに悩みながら、家族や隣人との関わりを通して成長していきます。少女時代から大人になるまでを描く物語です。
+南北戦争中のアメリカ。父が南北戦争に従軍牧師として出ているマーチ家では、メグ、ジョー、ベス、エイミーの四姉妹が母と暮らしています。姉妹は貧しさや性格の違いに悩みながら、家族や隣人との関わりを通して成長していきます。少女時代から大人になるまでを描く物語です。
 
 ## 要約の構成案（結末を含む）
 
@@ -66,6 +66,24 @@
 3. University of Virginia, Literature in Context, *Little Women*: https://anthology.lib.virginia.edu/work/Alcott/alcott-little-women
 4. Library of Congress, Louisa May Alcott: A Resource Guide: https://guides.loc.gov/louisa-may-alcott-resource-guide
 5. Library of Congress catalog record, *Little women, or, Meg, Jo, Beth, and Amy*: https://www.loc.gov/item/62055584/
+
+## 原文との主要事実照合（抜き取り）
+
+2026-11-22にProject Gutenbergの電子本文で主要箇所を確認した。章全体の通読・全段落照合は継続中。
+
+|確認点|原文で確認した内容|初稿への反映|
+|---|---|---|
+|父の不在|父は兵士ではなく、南北戦争に従軍牧師として出ている。|「従軍牧師」と明記する。|
+|母の旅|第16章で父の病状を受け、マーチ夫人が父のもとへ向かう。ジョン・ブルックが同行する。|母の不在を「父の看病」と説明する。|
+|ベスの病気|ベスは貧しい隣人の家を訪ねた後に猩紅熱にかかる。後に回復するが、健康は以前の状態には戻らない。|物語前半の危機と、その後の影響を分けて書く。|
+|ジョーとローリー|ジョーはローリーの求婚を断る。二人の友情と恋愛を混同しない。|「恋愛相手として受け入れない」と記述。|
+|終盤の家族関係|エイミーとローリーが結婚し、ジョーはベーアと結婚する。伯母の家を学校として開く。|初稿の結末の順序を維持。|
+
+### 参照箇所
+
+- Project Gutenberg eBook 514本文：第1章（父の役割）、第16章（母の旅）、ベスの病気の章、終盤の求婚・結婚・学校。
+- 原文HTML: https://www.gutenberg.org/files/514/514-h/514-h.htm
+- 初版の公開年と背景の確認：Library of Congress, Books That Shaped America: https://loc.gov/exhibits/books-that-shaped-america/1850-to-1900.html
 
 ## 未完了
 
