@@ -27,11 +27,11 @@
 
 4. 療養中の父を見舞うため、母は家を離れます。その後、貧しい隣人を訪ねたベスは猩紅熱（しょうこうねつ）にかかり、姉妹は不安を抱えながら家を守ります。ベスの病状はいったんおさまりますが、健康は戻りきらず、体の弱さが残ります。
 
-5. やがてメグは、ローリーの家庭教師ジョン・ブルックと結婚し、新しい家庭を築きます。ジョーは書く仕事を続け、自分の表現と生活を支える仕事との間で考えを深めます。エイミーはキャロル伯母とヨーロッパへ旅立ち、芸術を学ぶ機会を得ます。
+5. やがてメグは、ローリーの家庭教師ジョン・ブルックと結婚し、新しい家庭を築きます。ジョーは書く仕事を続け、自分の書きたい作品と、生活のために書く仕事との間で揺れます。エイミーはキャロル伯母とヨーロッパへ旅立ち、芸術を学ぶ機会を得ます。
 
-6. ジョーはニューヨークで働き、ドイツ人の教授フリードリヒ・ベーアと知り合います。ローリーはジョーに結婚を申し込みますが、ジョーは友情を大切に思いながらも求婚を断ります。その後、ベスの体は次第に弱り、家族は彼女との別れを迎えます。遠くヨーロッパにいるエイミーにも、ベスの死が知らされます。
+6. エイミーが旅立った後、ジョーはニューヨークで働き、ドイツ人の教授フリードリヒ・ベーアと知り合います。ローリーはジョーに結婚を申し込みますが、ジョーは友情を大切に思いながらも求婚を断ります。その後、ベスの体は次第に弱り、家族は彼女との別れを迎えます。ヨーロッパ滞在中のエイミーにも、ベスの死の知らせが届きます。
 
-7. ローリーはヨーロッパでエイミーと再会し、二人は結婚して帰国します。ジョーもベーアと結婚し、マーチ伯母から受け継いだプラムフィールド（Plumfield）を学校として開きます。四姉妹はそれぞれ異なる人生を歩み、家族や友人とのつながりは新しい世代へと続いていきます。
+7. ローリーはヨーロッパでエイミーと再会し、二人は結婚して帰国します。ジョーもベーアと結婚し、マーチ伯母から受け継いだプラムフィールド（Plumfield）を学校として開きます。四姉妹はそれぞれ異なる人生を歩み、家族としての絆を保ち続けます。
 
 ## 登場人物紹介案
 
@@ -62,7 +62,7 @@
 |配置|場面の意図|画像案|
 |---|---|---|
 |表紙|四姉妹と母のクリスマス。|作成済み。1536×1024。|
-|第2段落の後|姉妹が近隣の家族へ食事を届ける。|作成済み。1536×1024。|
+|第1段落の後|姉妹が近隣の家族へ食事を届ける。|作成済み。1536×1024。|
 |第4段落の後|病後のベスを家族が見守る穏やかな室内。|作成済み。1536×1024。|
 |第7段落の後|プラムフィールドの学校に集う子どもたちとジョー夫妻。|作成済み。1536×1024。|
 
@@ -87,7 +87,7 @@
 
 章別本文の確認先：
 
-- [第1部 第1章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_1)、[第2章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_2)、[第3章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_3)、[第4章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_4)、[第5章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_5)
+- [第1部 第1章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_1)、[第2章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_2)、[第3章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_3)、[第4章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_4)、[第5章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_5)、[第6章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_6)、[第7章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_7)、[第8章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_8)
 - [第1部 第16章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_16)、[第17章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_17)、[第19章](https://en.wikisource.org/wiki/Little_Women/Part_1/Chapter_19)
 - [第2部 第25章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_25)、[第26章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_26)、[第30章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_30)、[第34章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_34)、[第35章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_35)、[第40章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_40)、[第41章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_41)、[第43章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_43)、[第44章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_44)、[第46章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_46)、[第47章](https://en.wikisource.org/wiki/Little_Women/Part_2/Chapter_47)
 
