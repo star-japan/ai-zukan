@@ -2688,13 +2688,13 @@
   "spaUrl": "https://star-japan.github.io/ai-zukan/#/article/kaijin-nijumenso",
   "primaryCategory": "japanese-literature",
   "genreLabel": "日本文学",
-  "revision": "47adde80af584f99ba76f18c9d31b5dc3e064fb84e0f3019833a4e18f31f293d",
+  "revision": "0e935490886e64673d9d062620f6a34b0aa3b944da5bf6ea0f4fb683edf1c9e5",
   "firstPublishedAt": null,
   "firstPublishedDate": null,
   "firstPublishedPrecision": null,
   "updatedAt": null,
   "updateStatus": "pending-republication",
-  "changeNote": "作者紹介・結末要約の開閉・読後の問いを整えた掲載前候補。実表示・完成版承認・公開反映は未確認。",
+  "changeNote": "作者紹介・結末要約の開閉・読後の問いを整えた掲載前候補。実表示・完成版承認・公開反映は未確認。 目次と一覧へ戻る導線だけを補完。",
   "reviewedAt": "2026-11-24T21:02:00+09:00",
   "historicalPublicationRecord": {
     "firstPublishedAt": "2026-11-04T23:05:48+09:00",
@@ -2705,7 +2705,8 @@
     "changeNote": "参照本文の全章通読と照合を反映。壮二帰宅と小林の潜入・宝石回収の順序を要約へ明記。初出対校・実ブラウザー確認は未完。",
     "source": "mainの対象articlePublication旧掲載履歴。今回の再公開日時ではない。"
   },
-  "republicationAt": null
+  "republicationAt": null,
+  "publicationHtmlSha256": "0f582204dae41bf507ea251ff22150b6f13e21229407c8f9688e3b74c2ff83f3"
 }
 ]
 }
