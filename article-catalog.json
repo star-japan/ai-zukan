@@ -2688,13 +2688,13 @@
   "spaUrl": "https://star-japan.github.io/ai-zukan/#/article/shonen-tanteidan",
   "primaryCategory": "japanese-literature",
   "genreLabel": "日本文学",
-  "revision": "860a6018a54da022fa8a48f6db3ad49449d3c6f0d26c5dffa835cf203759a35e",
+  "revision": "d80aace5e9e007a792471e1c8c5502cd07a36ed78014856d470339b2aaaf001a",
   "firstPublishedAt": null,
   "firstPublishedDate": null,
   "firstPublishedPrecision": null,
   "updatedAt": null,
   "updateStatus": "pending-republication",
-  "changeNote": "作者紹介と要約の挿絵配置を改訂した掲載前候補。実表示・完成版承認・公開反映は未確認。",
+  "changeNote": "作者紹介と要約の挿絵配置を改訂した掲載前候補。実表示・完成版承認・公開反映は未確認。 目次と一覧へ戻る導線だけを補完。",
   "reviewedAt": "2026-11-24T20:59:41+09:00",
   "historicalPublicationRecord": {
     "firstPublishedAt": "2026-11-04T23:05:48+09:00",
@@ -2705,7 +2705,8 @@
     "changeNote": "少年探偵団の確認稿と独自挿絵を追加。",
     "source": "mainの対象articlePublication旧掲載履歴と固定確認HTML。今回の再公開日時ではない。"
   },
-  "republicationAt": null
+  "republicationAt": null,
+  "publicationHtmlSha256": "f8ba80798a0de395bfce402ecce0f541550af901c819339957378d299448a88d"
 }
 ]
 }
