@@ -2466,7 +2466,11 @@
       "firstPublishedPrecision": "second",
       "updatedAt": "2026-11-03T14:14:26+09:00",
       "updateStatus": "published",
-      "changeNote": "原典全文を確認した独自解説、人物紹介9項目と本文6場面を追加。"
+      "changeNote": "原典全文を確認した独自解説、人物紹介9項目と本文6場面を追加。",
+      "pendingRevision": "5472044e3edf3ec51756c0504c03f301654e5b9e586d78c8263709341e6e3750",
+      "pendingPublicationHtmlSha256": "810caacefea7f47fa7e5d980ff56c305185d60e36964ff42ade5afbd1aaaa906",
+      "pendingChangeNote": "人物関係を原典に合わせ具体化。23図版は未公開の改訂候補",
+      "publicDisplayVerification": "unverified"
     },
     {
       "id": "kawabata-yasunari",
