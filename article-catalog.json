@@ -2678,6 +2678,35 @@
       "primaryCategory": "japanese-literature",
       "genreLabel": "日本文学・長編探偵小説"
     },
-    {"id": "otuber-to-zo", "title": "オツベルと象", "reading": "おつべるとぞう", "author": "宮沢賢治", "url": "https://star-japan.github.io/ai-zukan/#/article/otuber-to-zo", "revision": "806b6e9ec39062e978da98c0e47237eee155def40484fdcae164514492af4de3", "firstPublishedAt": "2026-11-05T00:29:26+09:00", "firstPublishedDate": "2026-11-05", "firstPublishedPrecision": "second", "updatedAt": "2026-11-06T20:14:37+09:00", "updateStatus": "published", "changeNote": "利用者確認済み第5版を再掲載。要約は常時表示。登場人物図3点・挿絵・本文・ルビ・出典を保持。内容更新時刻はGitHub Pages の配信成功時刻。", "primaryCategory": "japanese-literature", "genreLabel": "日本文学・童話", "publicDisplayVerification": "unverified", "updateEvidence": {"eventType": "pages_deployment_succeeded", "sourceUrl": "https://github.com/star-japan/ai-zukan/actions/runs/42207542011", "contentCommit": "9a8a318a36fc8980774d7f800cfcebc6b72ad7e4", "observedAt": "2026-11-06T11:15:37Z"}, "updateHistory": [{"updatedAt": "2026-11-05T00:29:26+09:00", "changeNote": "既存原稿とAI生成の創作挿絵3枚を統合して初公開。結末欄・出典・原版未対校の留保を保持。"}]}
-  ]
+    {"id": "otuber-to-zo", "title": "オツベルと象", "reading": "おつべるとぞう", "author": "宮沢賢治", "url": "https://star-japan.github.io/ai-zukan/#/article/otuber-to-zo", "revision": "806b6e9ec39062e978da98c0e47237eee155def40484fdcae164514492af4de3", "firstPublishedAt": "2026-11-05T00:29:26+09:00", "firstPublishedDate": "2026-11-05", "firstPublishedPrecision": "second", "updatedAt": "2026-11-06T20:14:37+09:00", "updateStatus": "published", "changeNote": "利用者確認済み第5版を再掲載。要約は常時表示。登場人物図3点・挿絵・本文・ルビ・出典を保持。内容更新時刻はGitHub Pages の配信成功時刻。", "primaryCategory": "japanese-literature", "genreLabel": "日本文学・童話", "publicDisplayVerification": "unverified", "updateEvidence": {"eventType": "pages_deployment_succeeded", "sourceUrl": "https://github.com/star-japan/ai-zukan/actions/runs/42207542011", "contentCommit": "9a8a318a36fc8980774d7f800cfcebc6b72ad7e4", "observedAt": "2026-11-06T11:15:37Z"}, "updateHistory": [{"updatedAt": "2026-11-05T00:29:26+09:00", "changeNote": "既存原稿とAI生成の創作挿絵3枚を統合して初公開。結末欄・出典・原版未対校の留保を保持。"}]},
+{
+  "id": "three-musketeers",
+  "title": "三銃士",
+  "reading": "さんじゅうし",
+  "author": "アレクサンドル・デュマ",
+  "url": "https://star-japan.github.io/ai-zukan/articles/three-musketeers/",
+  "spaUrl": "https://star-japan.github.io/ai-zukan/#/article/three-musketeers",
+  "primaryCategory": "world-literature",
+  "genreLabel": "海外文学",
+  "revision": "bf3aa75878660bb3cfdf60813510694ff1a2933b52710e892d45420c7d832dad",
+  "publicationHtmlSha256": "99dbc79aaeeaea15393007ec8ab8d8ab916092c2e376acb63337cd9b9550be28",
+  "firstPublishedAt": null,
+  "firstPublishedDate": null,
+  "firstPublishedPrecision": null,
+  "updatedAt": null,
+  "updateStatus": "pending-republication",
+  "changeNote": "既存38画像・要約38段落を保全した改訂稿の掲載前候補。新版実表示・完成版承認・再掲載日時は未確認。",
+  "reviewedAt": "2026-11-24T21:58:04+09:00",
+  "historicalPublicationRecord": {
+    "firstPublishedAt": "2026-11-04T23:05:48+09:00",
+    "firstPublishedDate": "2026-11-04",
+    "firstPublishedPrecision": "second",
+    "updatedAt": "2026-11-04T23:05:48+09:00",
+    "updateStatus": "published",
+    "changeNote": "三銃士の採用フランス語電子本文通読に基づく紹介稿を追加。",
+    "source": "mainの対象articlePublication旧履歴。今回の再公開日時ではない。"
+  },
+  "republicationAt": null
+}
+]
 }
